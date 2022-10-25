@@ -1,5 +1,26 @@
-# https://gohugo.io/getting-started/configuration/
+title: (재)일본군성노예제문제해결을위한정의기억연대
+baseURL: https://ww.durumi.io
 
-title: Hugo project
-languageCode: en-us
+defaultContentLanguage: ko
 hasCJKLanguage: true
+paginate: 12
+languages:
+  ko:
+    title: (재)일본군성노예제문제해결을위한정의기억연대
+    weight: 1
+  en:
+    params:
+    title: The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan
+    weight: 2
+  jp:
+    title: 正義記憶連帯
+    weight: 3
+
+build:
+  writeStats: true
+
+googleAnalytics:
+
+taxonomies:
+  tag: tags
+  category: categories

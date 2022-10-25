@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+    {{ hugo.Generator }}
+    {{- if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}<meta name="robots" content="index, follow" />{{ else }}<meta name="robots" content="noindex, nofollow" />{{ end -}}
+    {{- template "_internal/google_analytics.html" . -}}
+    {{- template "_internal/opengraph.html" . -}}
+    {{- template "_internal/twitter_cards.html" . -}}
+    {{- template "_internal/schema.html" . -}}
+    {{- block "headCss" . }}{{ end -}}
+    {{- if .Site.Params.themeNoPipe }}
+    <link href="/assets/style.min.css" rel="stylesheet" />
+    {{ else }}
+      {{- $options := dict "inlineImports" true }}
+      {{ $styles := resources.Get "style.css" | resources.PostCSS $options }}
+      {{ if hugo.IsProduction }}{{ $styles = $styles | minify | resources.PostProcess }}{{ end -}}
+    <link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
+    {{ end -}}{{- block "headJs" . }}{{ end -}}
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <link rel="stylesheet" href="/assets/css/style-custom.css">
+    <link href="https://fonts.googleapis.com/earlyaccess/kokoro.css" rel="stylesheet">
+    <link rel="icon" href="/images/favicon.ico"> 
+    <link rel="shortcut icon" type="image/png" href="/images/icon-192x192.png">
+    <link rel="shortcut icon" sizes="192x192" href="/images/android-chrome-512x512.png">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    {{- if .Site.Params.themeNoPipe }}
+    <script src="/assets/index.min.js" defer></script>
+    {{ else -}}
+      {{- $js := resources.Get "index.js" | js.Build (dict "targetPath" "assets/index.js" "params" .Site.Params.stibee) -}}
+      {{- if hugo.IsProduction }}{{ $js = $js | minify }}{{ end -}}
+    <script src="{{ $js.RelPermalink }}" defer></script>
+    {{ end -}}
+    {{- if .IsHome }}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {{ end -}}
+  </head>
+  <body class="{{ if .IsHome }}front{{ else }} page{{ delimit (split .Page.RelPermalink "/") "--" "" }}{{ end }}" x-data="{ 'showModal': false , 'enModal': false , 'jpModal': false }">
+  {{/* @see https://github.com/team-durumi/tailwind-aa-theme/tree/master/layouts/partials/basic */}}
+    {{- block "header" . }}{{ partial "base/header-ww.html" . }}{{- end }}
+    {{- block "main" . }}{{- end }}
+    {{- block "footer" . }}{{ partial "base/footer.html" . }}{{- end }}
+    {{- block "bottomJs" . }}{{ end -}}
+  </body>
+</html>

@@ -1,0 +1,64 @@
+{{ define "main" }}
+{{- `<!-- _default/single.html  -->` | safeHTML -}}
+<!-- contents-area -->
+<div class="contents-area" id="main-content">
+  {{ partial "base/breadcrumb" . }}
+  <div class="container pt-12 pb-28 relative">
+    
+    <div class="mb-20">
+      {{ if .Params.Tags }}
+      {{ range .Params.Tags }}
+        <b class="block text-aa-purple-500 text-sm mb-4"><a href="/tags/{{ . }}">{{ . }}</a></b>
+      {{ end }}    
+      {{ end }}
+      <h1 class="text-aa-gray-900 font-bold text-4xl leading-tight mb-4">{{ .Title }}</h1>
+      <p class="text-aa-gray-700 leading-relaxed">{{ .Summary }}</p>
+      <p class="text-aa-gray-700 leading-relaxed">{{ .Content }}</p>
+    </div>
+    <div class="mb-20">
+      <div class="mb-6 border-b border-aa-gray-900 pb-6">
+        <h2 class="text-2xl text-aa-gray-900 leading-none">연관된 소장품</h2>
+      </div>
+    <ul class="masonry01 mb-20" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": ".grid-sizer", "gutter": ".gutter-sizer", "percentPosition": "true"}'>
+        <li class="grid-sizer"></li>
+        <li class="gutter-sizer"></li>
+        {{ $relatives := .Parent.RegularPagesRecursive | shuffle | first 4 }}
+        {{ range $relatives}}
+        <a href="{{ .Permalink }}">
+          <li class="mb-10 grid-item">
+            <span class="overflow-hidden mr-7">
+              {{ $settings := .Site.Params }}
+              {{ range .Params.Components }}
+                {{ $fileExtension := index (last 1 (split . ".")) 0 }}
+                  {{ $src := partial "base/cf-image.html" (dict "style" "thumb" "src" . "settings" $settings) }}
+                  <img class="" src="{{ $src }}" alt="{{ $.Title }}">
+              {{ end }}
+            </span>
+            <span class="block">
+              <b class="text-aa-gray-900 text-xl font-normal mb-2 block">{{ .Title }}</b>
+              <span class="block text-sm line-clamp-2 text-aa-gray-700 leading-6">{{ .Summary }}</span>
+              <span class="block text-sm line-clamp-2 text-aa-gray-700 leading-6">{{ .Params.description }}</span>
+            </span>
+          </li>
+        </a>    
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script>
+window.addEventListener('DOMContentLoaded', function(){
+  imagesLoaded( '.masonry01', function() {
+    new Masonry( '.masonry01', {
+      "itemSelector": ".grid-item",
+      "columnWidth": ".grid-sizer",
+      "gutter": ".gutter-sizer",
+      "percentPosition": "true"
+    })
+  })
+})
+</script>
+{{- `<!-- _default/single.html  -->` | safeHTML -}}
+{{ end }}

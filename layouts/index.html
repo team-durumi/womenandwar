@@ -1,0 +1,27 @@
+{{ define "main" }}
+{{- `<!-- /index.html  -->` | safeHTML -}}
+<div id="main-wrap" class="overflow-x-hidden relative">
+  <div id="skip-link">
+    <a class="block w-full h-10 leading-10 text-center absolute -top-10 left-0 bg-white z-50" href="#main-content">컨텐츠 바로가기</a>
+  </div>
+  <div class="contents-area" id="main-content">
+      {{/* 슬라이드 배너 홈페이지용 */}}
+      {{ partial "marketing/banner--ww--slide" . }}
+      {{/* 최근활동  */}}
+      {{ partial "marketing/featured--activity" . }}
+      {{/* 공지사항  */}}
+      {{/* 보도자료  */}}      
+      {{ partial "marketing/list--text" . }}
+
+      {{/* 메세지 */}}
+      {{/* 박물관 안내 */}}
+      {{ partial "marketing/banner--welcome" . }}
+
+      {{ partial "marketing/list--thumb" . }}
+      {{/* 미디어  */}}
+      {{/* 뉴스레터 구독폼 */}}
+      {{ partial "marketing/form--newsletter" . }}
+      {{ partial "feedback/notifications" . }}
+  </div>
+</div>
+{{ end }}

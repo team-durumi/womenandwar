@@ -1,0 +1,65 @@
+{{ define "main" }}
+{{- `<!-- _default/list.html  -->` | safeHTML -}}
+<div class="contents-area" id="main-content">
+  {{ partial "base/breadcrumb" . }}
+  <div class="container pt-12 pb-28 relative">
+    <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">{{ .Title }}</h1>
+    {{ partial "marketing/banner--section-single" . }}
+    <div class="mb-20">
+      <div class="flex justify-between items-center mb-6 border-b border-aa-gray-900 pb-6">
+        <h2 class="text-2xl text-aa-gray-900 leading-none">총 {{ len ( .RegularPagesRecursive) }} 건의 소장품</h2>
+  {{/* 필터
+        <div class="flex items-center gap-6">
+          <span class="text-aa-purple-500" href="#">필터</span>
+          <ul class="menu-tab01 flex gap-2 text-sm text-aa-gray-900">
+            <li><a class="py-1.5 px-4 border border-aa-gray-200 bg-aa-50 hover:border-black rounded-sm" href="#">박물</a></li>
+            <li class="checked"><a class="py-1.5 px-4 border border-aa-gray-200 bg-aa-50 hover:border-black rounded-sm" href="#">역사적 증거</a></li>
+            <li><a class="py-1.5 px-4 border border-aa-gray-200 bg-aa-50 hover:border-black rounded-sm" href="#">운동</a></li>
+            <li><a class="py-1.5 px-4 border border-aa-gray-200 bg-aa-50 hover:border-black rounded-sm" href="#">증언</a></li>
+          </ul>
+        </div>
+  */}}
+      </div>
+      <ul class="masonry01 mb-28" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": ".grid-sizer", "gutter": ".gutter-sizer", "percentPosition": "true"}'>
+        <li class="grid-sizer"></li>
+        <li class="gutter-sizer"></li>
+        {{ $settings := .Site.Params }}
+        {{ $paginator := .Paginate .RegularPagesRecursive }}
+        {{- range $paginator.Pages }}
+        <a href="{{ .Permalink }}">
+          <li class="mb-10 grid-item">
+            <span class="overflow-hidden mr-7">
+              {{- range .Params.Components }}
+              {{ $fileExtension := index (last 1 (split . ".")) 0 }}
+              {{ $src := partial "base/cf-image.html" (dict "style" "thumb" "src" . "settings" $settings) }}
+              <img class="w-full" src="{{ $src }}" alt="{{ $.Title }}">
+              {{ end -}}
+            </span>
+            <span class="block">
+              <b class="text-aa-gray-900 text-xl font-normal mb-2 block">{{ .Title }}</b>
+              <span class="block text-sm line-clamp-2 text-aa-gray-700 leading-6">{{ .Summary }} </span>
+            </span>
+          </li>
+        </a>
+        {{ end -}}
+      </ul>
+      {{ partial "app/pagination.html" $paginator }}
+    </div>
+  </div>
+</div>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script>
+window.addEventListener('DOMContentLoaded', function(){
+  imagesLoaded( '.masonry01', function() {
+    new Masonry( '.masonry01', {
+      "itemSelector": ".grid-item",
+      "columnWidth": ".grid-sizer",
+      "gutter": ".gutter-sizer",
+      "percentPosition": "true"
+    })
+  })
+})
+</script>
+{{- `<!-- _default/list.html  -->` | safeHTML -}}
+{{ end}}

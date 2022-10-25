@@ -1,0 +1,23 @@
+{
+	"name": "womenandwar",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/team-durumi/womenandwar.git"
+	},
+	"devDependencies": {
+		"@kingshott/iodine": "^7.0.1",
+		"@tailwindcss/line-clamp": "^0.2.2",
+		"@tailwindcss/typography": "^0.4.1",
+		"alpinejs": "^3.5.1",
+		"autoprefixer": "^10.3.1",
+		"postcss": "^8.3.6",
+		"postcss-cli": "^8.3.1",
+		"postcss-purgecss": "^2.0.3",
+		"tailwindcss": "^2.2.7"
+	},
+	"dependencies": {
+		"google-spreadsheet": "^3.2.0"
+	}
+}

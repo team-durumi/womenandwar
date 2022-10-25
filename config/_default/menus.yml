@@ -1,15 +1,108 @@
 main:
-  - name: posts
-    url: /posts/
+  - name: 일본군성노예제
+    url: /comfort-women
     weight: -110
-  - name: all
-    url: /posts/
+  - name: 일본군성노예제란?
+    url: /comfort-women/meanings
     weight: 1
-    parent: posts
-  - name: featured posts
-    url: /posts/featured
+    parent: 일본군성노예제
+  - name: 운동사(연혁)
+    url: /comfort-women/history
     weight: 2
-    parent: posts
-  - name: about
-    url: /about/
+    parent: 일본군성노예제
+  - name: 피해자들의 외침
+    url: /comfort-women/testimonies
+    weight: 3
+    parent: 일본군성노예제
+
+  - name: 단체소개
+    url: /about
     weight: -100
+  - name: 인사말
+    url: /about/greetings
+    weight: 1
+    parent: 단체소개
+  - name: 미션과 비전
+    url: /about/mission-and-vision
+    weight: 2
+    parent: 단체소개
+  - name: 조직과 사람들
+    url: /about/org-and-people
+    weight: 3
+    parent: 단체소개   
+  - name: 살림살이
+    url: /about/budget
+    weight: 4
+    parent: 단체소개
+  - name: 오시는길
+    url: /about/location
+    weight: 5
+    parent: 단체소개
+  - name: 정관
+    url: /about/articles
+    weight: 6
+    parent: 단체소개
+
+  - name: 주요활동
+    url: /actions
+    weight: -90
+  - name: 수요시위
+    url: /categories/this-week/
+    weight: 1
+    parent: 주요활동   
+  - name: 평화비 건립
+    url: /actions/statue-of-peace
+    weight: 2
+    parent: 주요활동
+  - name: 생존자 복지 지원
+    url: /categories/생존자복지/
+    weight: 3
+    parent: 주요활동
+  - name: 기림사업
+    url: /categories/기림사업/
+    weight: 4
+    parent: 주요활동
+  - name: 장학교육
+    url: /categories/장학교육/
+    weight: 4
+    parent: 주요활동
+  - name: 나비기금
+    url: /categories/나비기금/
+    weight: 5
+    parent: 주요활동                 
+
+  - name: 단체소식
+    url: /connect
+    weight: -80
+  - name: 활동보고
+    url: /connect/report
+    weight: 1
+    parent: 단체소식   
+  - name: 공지/보도자료
+    url: /connect/notice
+    weight: 2
+    parent: 단체소식
+  - name: 언론동향
+    url: /connect/media-watch
+    weight: 3
+    parent: 단체소식
+  - name: 뉴스레터
+    url: /connect/newsletter
+    weight: 4
+    parent: 단체소식
+
+  - name: 후원/참여  
+    url: /donate-and-support
+    weight: -90
+  - name: 후원안내
+    url: /donate-and-support/guide
+    weight: 1
+    parent: 후원/참여  
+  - name: 봉사/재능기부
+    url: /donate-and-support/volunteer
+    weight: 2
+    parent: 후원/참여
+  - name: 수요시위참여
+    url: /donate-and-support/support
+    weight: 3
+    parent: 후원/참여
