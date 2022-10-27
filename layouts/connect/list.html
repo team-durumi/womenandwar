@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{- `<!-- _default/list.html  -->` | safeHTML -}}
+<div class="contents-area" id="main-content">
+  {{ partial "base/breadcrumb" . }}
+  <div class="contents-area" id="main-content">
+    <div class="container pt-12 pb-28 relative">
+      <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">{{ .Title }}</h1>
+      {{ partial "marketing/sharingbutton" . }}
+      {{ partial "marketing/banner--section-single" . }} 
+      <div class="flex text-sm text-aa-700 py-2 border-aa-purple-500 border-b-2 mb-12">
+        <span class="w-4/6 text-center">제목</span>
+        <span class="w-1/6 text-center">날짜</span>
+        <span class="w-1/6 text-center">작성자</span>
+      </div>
+      {{ $paginator := .Paginate .RegularPagesRecursive }}
+      <ul class="mb-20"> 
+        {{ range where .Pages "Params.pinned" true }}
+          {{ .Render "li" }}
+        {{ end }}
+        {{ range $paginator.Pages }}
+          {{ .Render "li" }}
+        {{ end }}
+      </ul> 
+      {{ partial "app/pagination.html" $paginator }}
+    </div>
+  </div> 
+</div>  
+{{- `<!-- _default/list.html  -->` | safeHTML -}}
+{{ end}}
