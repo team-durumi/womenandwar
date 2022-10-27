@@ -43,33 +43,33 @@ main:
     weight: 6
     parent: 단체소개
 
-  - name: 주요활동
+  - name: 활동소개
     url: /actions
     weight: -90
+  - name: 피해자지원
+    url: /categories/생존자복지/
+    weight: 1
+    parent: 활동소개    
   - name: 수요시위
     url: /categories/this-week/
-    weight: 1
-    parent: 주요활동   
+    weight: 2
+    parent: 활동소개 
+  - name: 국내연대
+    url: /categories/
+    weight: 3
+    parent: 활동소개
+  - name: 해외연대
+    url: /categories/
+    weight: 4
+    parent: 활동소개       
+  - name: 교육사업
+    url: /categories/장학교육/
+    weight: 5
+    parent: 활동소개      
   - name: 평화비 건립
     url: /actions/statue-of-peace
-    weight: 2
-    parent: 주요활동
-  - name: 생존자 복지 지원
-    url: /categories/생존자복지/
-    weight: 3
-    parent: 주요활동
-  - name: 기림사업
-    url: /categories/기림사업/
-    weight: 4
-    parent: 주요활동
-  - name: 장학교육
-    url: /categories/장학교육/
-    weight: 4
-    parent: 주요활동
-  - name: 나비기금
-    url: /categories/나비기금/
-    weight: 5
-    parent: 주요활동                 
+    weight: 6
+    parent: 활동소개            
 
   - name: 단체소식
     url: /connect
