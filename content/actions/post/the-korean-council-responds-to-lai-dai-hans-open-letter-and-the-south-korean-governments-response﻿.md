@@ -1,0 +1,38 @@
+---
+title: "The Korean Council Responds to Lai Dai Han’s Open Letter and the South Korean Government’s Response"
+date: "2019-09-03"
+categories: 
+  - "updates"
+tags: 
+  - "butterfly-fund"
+  - "international-solidarity"
+  - "lai-dai-han"
+  - "prevention-of-sexual-violence-in-conflict"
+  - "vietnam"
+---
+
+  
+
+The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan (President Yoon Meehyang; hereafter “the Korean Council”) demands that the South Korean government take action to bring justice to the victims of gender-based violence perpetrated by Korean soldiers during the U.S. - Viet Nam War.
+
+Recently, the Lai Dai Hans, birthed to victims of gender-based violence such as rape perpetrated by Korean soldiers during the U.S. - Viet Nam War, submitted an open letter to the Embassy of the Republic of Korea in the U.K. and Northern Ireland, demanding an investigation by the UN Commission of Inquiry on Human Rights and DNA tests of Korean soldiers.
+
+To this, the South Korean government provided a stale response, saying that “since the normalization of diplomatic ties in 1992, the Korean government has made forward-looking efforts to develop relations with Viet Nam, with the shared understanding to put the unfortunate past behind and look towards the future.” The Korean government also added that “it will continue to make efforts to improve relations between the two nations.”
+
+The Korean Council is deeply frustrated by the statement issued by the Ministry of Foreign Affairs and demands that the Korean government take actions to resolve the Lai Dai Han issue based on the demands of the victims of gender-based violence perpetrated during the Viet Nam War and their family members.
+
+Granted, compared to administrations prior, former presidents Kim Dae-jung and Roh Moo-hyun and President Moon Jae-in have made some progress by mentioning in their public statements the history of gender-based violence during the Viet Nam War. However, the statement issued on the June 11th by the Ministry of Foreign Affairs shows barely any improvement from the statement issued 18 years ago when the Korean government first acknowledged this history of violence. Moreover, the statement made on the 11th far from reflects the demands made by the victims.
+
+Following the wishes of Kim Bok-dong and Gil Won-ok, the Korean Council has been acting independently of the Korean government to support the victims and children birthed of gender-based violence perpetrated by Korean soldiers during the Viet Nam War through the Butterfly Fund established in 2012. Additionally, the Korean Council has been embarking on trips to Viet Nam with the message of apology.
+
+Vowing that the pain and suffering they experienced shall never be repeated, the Japanese military sexual slavery victims have stood in solidarity with victims of gender-based violence in conflict zones, including Viet Nam, not only as fellow victims, but also as human rights activists. It is time for the Korean government to follow the path of peace and justice these victim-activists have paved.
+
+The Korean government is well aware of the ongoing pain experienced by victims of Japanese military sexual slavery, caused by the Japanese government’s decision to deny its war crimes and trample on the demands of the victims for the past 74 years since the war ended.
+
+The Korean government has promised the victims of Japanese military sexual slavery to pave the path towards restoring justice and human rights. With the hopes that justice will be restored to all victims of wartime gender-based violence, the victims of Japanese military sexual slavery have stood in solidarity with victims of gender-violence perpetrated by Korean soldiers during the Viet Nam War. The Korean Council calls on the Korean government to honor the victims’ legacy and bring justice to the history of violence during the Viet Nam War.
+
+June 12, 2019
+
+The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan
+
+translated by 허수형 Hur Soohyung

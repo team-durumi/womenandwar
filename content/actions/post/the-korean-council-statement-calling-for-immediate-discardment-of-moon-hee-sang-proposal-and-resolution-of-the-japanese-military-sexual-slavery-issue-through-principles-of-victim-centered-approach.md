@@ -1,0 +1,38 @@
+---
+title: "The Korean Council Statement Calling for Immediate Discardment of Moon Hee-Sang Proposal and Resolution of the Japanese Military Sexual Slavery Issue through Principles of Victim-Centered Approach"
+date: "2019-12-04"
+categories: 
+  - "updates"
+tags: 
+  - "notice"
+---
+
+**The Korean Council Statement Calling for Immediate Discardment of Moon Hee-Sang Proposal and Resolution of the Japanese Military Sexual Slavery Issue through Principles of Victim-Centered Approach**
+
+                  Stating from a lecture at Waseda University in November, the South Korean National Assembly Speaker Moon Hee-Sang proposed a bill that hinders with the restoration of human rights for Japanese military “comfort women” and forced labor victims who still suffer from the war crimes against humanity committed by the Imperial Japanese Government. The ‘Moon Hee-Sang Proposal’ argues that creating a fund with contributions made by the Japanese and South Korean governments + corporations + public donations would be a “resolution” for the issues of Japanese Government’s crimes against humanity during its illegal colonization of Korea.
+
+                  The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan (Chairman Yoon, Mee-hyang, hereinafter the Korean Council) strongly condemns the ‘Moon Hee-Sang Proposal’ that offers indulgence to the Japanese Government for the crimes against humanity it committed, and urges the South Korean Government to resolve the issues according to the principles of victim-centered approach.
+
+                  The Korean Council visited the National Assembly Speaker’s Office in protest, to deliver that Moon Hee-Sang’s financial compensation scheme to gather remaining funds from the Reconciliation and Healing Foundation, contributions by the two governments and corporations, and public donations, cannot serve as a resolution for the crimes against humanity committed by the Imperial Japanese Government and is no different from the humiliating 2015 South Korea-Japan Agreement.
+
+                  Nonetheless, the National Assembly Speaker Moon Hee-Sang turned a deaf ear to the cries of Japanese military “comfort women” victims and pursues to specify his scheme further. During an interview with Tokyo Shimbun, even the South Korean President’s Special Advisor on Foreign Affairs and National Security Moon Chung-In did not refrain from commenting that the ‘Moon Hee-Sang Proposal’ to raise funds with voluntary donations from corporations and the public in South Korea and Japan is the most reasonable option for both parties to accept.
+
+                  According to the International Human Rights Law, which bases on the principle of victim-centered approach, the crimes against humanity committed by the Imperial Japanese Government can only be resolved through the perpetrator’s 1) admission of its crimes and 2) official apology and legal reparation, including financial compensation, with the victims’ participation and involvement throughout all process. Such principles are clearly reflected already in countless recommendations to the Japanese Government issued by the International Labour Organization (ILO) and United National Human Rights committees.
+
+                  Following such recommendations from international human rights organizations and demands of victims, the Moon Jae-In administration allocated 10.3 billion won as gender equality fund budget, which commensurates with the 1 billion yen of consolation fund from the Japanese Government, and had dissolved the Reconciliation and Healing Foundation.
+
+  
+                  However, as we face the 4th year since the humiliating announcement of 2015 Korea-Japan Agreement, we find that the voices of victims and citizens calling for just resolution of the Japanese military sexual slavery issue are under the threat of being ignored again. The groundless ‘Moon Hee-Sang Proposal’ is being discussed as if paying consolation money is a package solution to the war crimes of the Imperial Japanese Government, including the Japanese military “comfort women” and forced labor issues.
+
+  
+                  We call on the Moon Jae-In administration to remember the cries of Japanese military “comfort women” victims against the 2015 Korea-Japan Agreement and the citizens’ candlelight resistance against the Park Geun-hye administration.
+
+  
+                  Including Kim Bok-dong, who said, “Even if it’s 100 billion won, we cannot settle with ‘consolation money,’” victims have fought for just resolution of the issue for the past 30 years. We cannot neglect the ‘Moon Hee-Sang Proposal’ to defame the dignity of all victims
+
+  
+                  We call on the Moon Jae-In administration to adhere to its promise with victims, to act proactively to resolve the issues of Japanese military “comfort women” and forced labor according to the principles of victim-centered approach. Resolution through principles of victim-centered approach is the only way to protect the dignity and human rights of all Japanese military “comfort women” victims who have fought against the Japanese Government for the past 30 years.
+
+November 27 2019
+
+The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan

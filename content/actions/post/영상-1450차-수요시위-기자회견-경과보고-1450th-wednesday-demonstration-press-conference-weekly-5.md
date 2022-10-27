@@ -1,0 +1,14 @@
+---
+title: "[영상] 1450차 수요시위 기자회견 조정래 영화 감독 1450th Wednesday Demonstration Press Conference Film Director Cho Jung-rae"
+date: "2020-07-30"
+categories: 
+  - "video"
+  - "this-week"
+  - "report"
+---
+
+1450차 수요시위 기자회견 조정래 영화 감독 1450th Wednesday Demonstration Press Conference Film Director Cho Jung-rae
+
+https://youtu.be/oh7tr439Rs8
+
+#1450차수요시위 #정의기억연대 #정의연 #수요시위 #온라인수요시위 #일본군위안부 #일본군성노예 #일본군성노예제문제해결 #위안부 #수요일은평화다 #서울대학생겨레하나 #조정래감독 #ChoJungrae #MovementforOneKorea #PeaceUniversity #WednesdayDemonstration #Japanesemilitarycomfortwomen #comfortwomen #japanesemilitarysexualslavery #endrapeinwar #StatueofPeace #PeaceStatue #正義連 #日本軍性奴隷 #日本軍慰安婦 #慰安婦 #挺対協 #水曜デモ #水曜集会 #オンライン水曜デモ #オンライン水曜集会 #日本軍性奴隷問題解決 #1450回水曜デモ #1450回水曜集会
