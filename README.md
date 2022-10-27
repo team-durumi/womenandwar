@@ -21,3 +21,8 @@ imports:
 ## wordpress to hugo markdown
 - from xml 1309 
 - 공지사항 board류들 처리 이슈가 있음.
+
+
+## post
+- wordpress post type은 활동소개
+- 활동소개에 categories로 분리 
