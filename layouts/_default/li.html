@@ -1,10 +1,16 @@
-{{ if eq .Parent.RelPermalink "/connect/notice/"}}
+{{ if eq .Parent.RelPermalink "/connect/notice/" }}
 	<li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
 		<a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
 		<span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
 		<span class="w-1/6 text-center">{{ .Params.Author }}</span>
 	</li>  
-{{ else }}
+{{ else if eq .Parent.RelPermalink "/connect/press-release/"  }}
+	<li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
+		<a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
+		<span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
+		<span class="w-1/6 text-center">{{ .Params.Author }}</span>
+	</li>  
+{{ else }}  
   <li class="mb-12">
     <a href="{{ .Permalink }}" class="flex flex-col-reverse lg:flex-row lg:items-center lg:justify-between">
       <span class="lg:w-3/4 text-aa-gray-500 flex-shrink-0 lg:pr-5">
