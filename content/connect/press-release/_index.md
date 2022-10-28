@@ -1,6 +1,6 @@
 ---
-title: 활동보고
-date: 2022-09-20
+title: 보도자료
+date: 2021-12-24T20:23:39+09:00
 banner:
   title: 소장품 구두
   summary: 지하전시장

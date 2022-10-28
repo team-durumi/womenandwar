@@ -73,19 +73,19 @@ main:
 
   - name: 단체소식
     url: /connect
-    weight: -80
-  - name: 활동보고
-    url: /connect/report
-    weight: 1
-    parent: 단체소식   
-  - name: 공지/보도자료
+    weight: -80 
+  - name: 공지
     url: /connect/notice
+    weight: 1
+    parent: 단체소식
+  - name: 보도자료
+    url: /connect/press-release
     weight: 2
     parent: 단체소식
-  - name: 언론동향
-    url: /connect/media-watch
+  - name: 자료실
+    url: /connect/reference
     weight: 3
-    parent: 단체소식
+    parent: 단체소식    
   - name: 뉴스레터
     url: /connect/newsletter
     weight: 4
