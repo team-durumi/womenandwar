@@ -83,7 +83,7 @@ main:
     weight: 2
     parent: 단체소식
   - name: 자료실
-    url: /connect/reference
+    url: /connect/resource
     weight: 3
     parent: 단체소식    
   - name: 뉴스레터
