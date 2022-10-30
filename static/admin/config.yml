@@ -33,6 +33,20 @@ collections:
       - { label: '날짜', name: 'date', widget: 'datetime' }
       - { label: '요약', name: 'summary', widget: 'string', required: false }
       - { label: '대표이미지', name: 'image', widget: 'image', required: false }
+      - label: "첨부파일"
+        name: "post_materials"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: true
+      - label: "분류"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: [ "공지", "보도자료", "문서" ]
+        default: ["공지"]
+        hint: '공지 / 보도자료 / 문서'              
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
@@ -49,6 +63,20 @@ collections:
       - { label: '날짜', name: 'date', widget: 'datetime' }
       - { label: '요약', name: 'summary', widget: 'string', required: false }
       - { label: '대표이미지', name: 'image', widget: 'image', required: false }
+      - label: "첨부파일"
+        name: "post_materials"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: true
+      - label: "분류"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: [ "this-week", "연대사업", "video", "생존자복지", "연구조사교육", "전시성폭력재발방지", "기림사업", "나비기금", "donation", "쉼터소식", "일본국상대소송", "japanese", "장학사업" ]
+        default: [ "this-week" ]
+        hint: 'this-week 수요시위'              
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
