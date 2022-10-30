@@ -1,0 +1,54 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'slides'
+    label: '메인 슬라이드'
+    folder: 'content/slides'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: '순서', name: 'weight', widget: 'string' }    
+      - { label: '상단메세지', name: 'upper_message', widget: 'string', required: false }
+      - { label: '제목', name: 'title', widget: 'string', required: false }
+      - { label: '부제목', name: 'sub_title', widget: 'string', required: false }
+      - { label: '날짜', name: 'date', widget: 'datetime', required: false } 
+      - { label: "슬라이드 배경이미지", name: "image", widget: "image" }
+      - { label: '버튼제목', name: 'button_name', widget: 'string', required: false }
+      - { label: '버튼URL', name: 'button_url', widget: 'string', required: false }
+  - name: 'notice'
+    label: '공지사항'
+    folder: 'content/connect/notice'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: '제목', name: 'title', widget: 'string' }
+      - { label: '작성자', name: 'author', widget: 'string' }
+      - { label: '날짜', name: 'date', widget: 'datetime' }
+      - { label: '요약', name: 'summary', widget: 'string', required: false }
+      - { label: '대표이미지', name: 'image', widget: 'image', required: false }
+      - { label: '본문', name: 'body', widget: 'markdown' }
+      - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
+      - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
+  - name: 'post'
+    label: '활동(post)'
+    folder: 'content/actions/post'
+    create: true
+    slug: '{{slug}}' 
+    editor:
+      preview: true
+    fields:
+      - { label: '제목', name: 'title', widget: 'string' }
+      - { label: '작성자', name: 'author', widget: 'string' }      
+      - { label: '날짜', name: 'date', widget: 'datetime' }
+      - { label: '요약', name: 'summary', widget: 'string', required: false }
+      - { label: '대표이미지', name: 'image', widget: 'image', required: false }
+      - { label: '본문', name: 'body', widget: 'markdown' }
+      - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
+      - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
