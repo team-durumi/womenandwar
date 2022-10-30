@@ -11,27 +11,27 @@ tags:
   - "notice"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/강덕경-할머니영어-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/07/강덕경-할머니영어-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/길원옥-할머니영어-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/07/길원옥-할머니영어-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/김복동-할머니영어-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/07/김복동-할머니영어-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/김학순-할머니영어-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/07/김학순-할머니영어-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/박영심-할머니영어-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/07/박영심-할머니영어-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/송신도-할머니영어-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/07/송신도-할머니영어-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/안점순-할머니영어-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/07/안점순-할머니영어-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/얀-루프-오헤른-할머니영어-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/07/얀-루프-오헤른-할머니영어-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/이용수-할머니영어-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/07/이용수-할머니영어-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/황금주-할머니영어-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/07/황금주-할머니영어-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/Solidarity-Message-Form-1.jpg)
+![](https://r2.womenandwar.net/2020/07/Solidarity-Message-Form-1.jpg)
 
 8th International Memorial Day for Japanese Military “Comfort Women” Call for International Action
 

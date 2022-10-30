@@ -16,22 +16,22 @@ See in Korean: [https://womenandwar.net/kr/%ed%95%a0%eb%a8%b8%eb%8b%88%ec%9d%98-
 
 Translated by: Ji Won Shin
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/11/영문211115_카드뉴스할머니의삶소개_2_정서운-1-1024x1024.png)
+![](https://r2.womenandwar.net/2021/11/영문211115_카드뉴스할머니의삶소개_2_정서운-1-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-2-1024x1024.png)
+![](https://r2.womenandwar.net/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-2-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-3-1024x1024.png)
+![](https://r2.womenandwar.net/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-3-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-4-1024x1024.png)
+![](https://r2.womenandwar.net/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-4-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-5-1024x1024.png)
+![](https://r2.womenandwar.net/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-5-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-6-1024x1024.png)
+![](https://r2.womenandwar.net/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-6-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-7-1024x1024.png)
+![](https://r2.womenandwar.net/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-7-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-8-1024x1024.png)
+![](https://r2.womenandwar.net/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-8-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-9-1024x1024.png)
+![](https://r2.womenandwar.net/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-9-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-10-1024x1024.png)
+![](https://r2.womenandwar.net/2021/11/영문211115_카드뉴스할머니의삶소개2-정서운-10-1024x1024.png)

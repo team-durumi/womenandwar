@@ -22,12 +22,12 @@ After a long life in China, she came back to Korea in 2012 and stayed in a nursi
 
 Halmoni, we wish that you can rest without any more pains. 
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/1-4-1024x680.jpg)
+- ![](https://r2.womenandwar.net/2018/12/1-4-1024x680.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/2-4-1024x680.jpg)
+- ![](https://r2.womenandwar.net/2018/12/2-4-1024x680.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/3-4.jpg)
+- ![](https://r2.womenandwar.net/2018/12/3-4.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/4-4.jpg)
+- ![](https://r2.womenandwar.net/2018/12/4-4.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/5-3-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2018/12/5-3-1024x768.jpg)

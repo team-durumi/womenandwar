@@ -12,9 +12,9 @@ categories:
 
 https://youtu.be/fmoQm9Ac4oc
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/10/71960939_1518893451568402_7962466709305032704_o-1024x768.jpg)
+![](https://r2.womenandwar.net/2019/10/71960939_1518893451568402_7962466709305032704_o-1024x768.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/10/72566607_1518893378235076_4842287549898555392_o-1024x760.jpg)
+![](https://r2.womenandwar.net/2019/10/72566607_1518893378235076_4842287549898555392_o-1024x760.jpg)
 
 텍사스 휴스턴 10월 6일(미국 현지시간) 오후 4시부터 미주지역 2차 순회상영회 첫 일정으로 텍사스 휴스턴의 ‘휴스턴 세월호 함께맞는비(함비)’의 주관으로 Westchester Academy for International Studies에서 약 100여명의 참가자들과 함께 영화 김복동 상영회와 윤미향 대표와 함께하는 간담회를 진행했습니다.
 

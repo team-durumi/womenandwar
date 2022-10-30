@@ -18,22 +18,22 @@ See in Korean: [https://womenandwar.net/kr/%ed%95%a0%eb%a8%b8%eb%8b%88%ec%9d%98-
 
 Translation by Arim Lee (이아림)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/08/001-1024x1024.png)
+![](https://r2.womenandwar.net/2021/08/001-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/08/002-1024x1024.png)
+![](https://r2.womenandwar.net/2021/08/002-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/08/003-1-1024x1024.png)
+![](https://r2.womenandwar.net/2021/08/003-1-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/09/영문210819_할머니의삶_김화자_복사본-4-1024x1024.png)
+![](https://r2.womenandwar.net/2021/09/영문210819_할머니의삶_김화자_복사본-4-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/08/005-1024x1024.png)
+![](https://r2.womenandwar.net/2021/08/005-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/08/006-1024x1024.png)
+![](https://r2.womenandwar.net/2021/08/006-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/08/007-1024x1024.png)
+![](https://r2.womenandwar.net/2021/08/007-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/08/008-1024x1024.png)
+![](https://r2.womenandwar.net/2021/08/008-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/08/009-1024x1024.png)
+![](https://r2.womenandwar.net/2021/08/009-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/08/010-1024x1024.png)
+![](https://r2.womenandwar.net/2021/08/010-1024x1024.png)

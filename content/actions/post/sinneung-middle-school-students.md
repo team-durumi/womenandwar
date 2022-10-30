@@ -10,11 +10,11 @@ tags:
   - "sinneung-middle-school"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/nanumjangteo7wol-1-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2018/12/nanumjangteo7wol-1-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/chukjewianbukilimbaeji-jeonsi-1-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2018/12/chukjewianbukilimbaeji-jeonsi-1-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/sonyeosang-jeonsi12wol-1.jpg)
+- ![](https://r2.womenandwar.net/2018/12/sonyeosang-jeonsi12wol-1.jpg)
     
 
 On December 11th and 18th, Sinneung Middle School donated 713,620 won to the Hands in Hands with 200,000 Japanese Military Sexual Slavery Victims campaign.

@@ -8,7 +8,7 @@ categories:
   - "report"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/photo_2019-12-24_15-48-33.jpg)![](http://womenandwar.net/kr/wp-content/uploads/2019/12/photo_2019-12-24_16-38-42.jpg)![](http://womenandwar.net/kr/wp-content/uploads/2019/12/photo_2019-12-24_16-38-59.jpg)
+![](https://r2.womenandwar.net/2019/12/photo_2019-12-24_15-48-33.jpg)![](https://r2.womenandwar.net/2019/12/photo_2019-12-24_16-38-42.jpg)![](https://r2.womenandwar.net/2019/12/photo_2019-12-24_16-38-59.jpg)
 
 크리스마스 이브, 쉼터에 반가운 분들이 찾아오셨습니다.
 

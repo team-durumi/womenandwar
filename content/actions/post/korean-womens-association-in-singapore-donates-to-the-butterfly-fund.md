@@ -15,4 +15,4 @@ For their prior event on the Japanese military sexual slavery issue, Kim Bok-don
 
 We thank the Korean Women's Association in Singapore again for their visit to Korea and donation.
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/09/IMG_0105-300x274.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/09/IMG_0105.jpg)
+[![](https://r2.womenandwar.net/2018/09/IMG_0105-300x274.jpg)](https://r2.womenandwar.net/2018/09/IMG_0105.jpg)

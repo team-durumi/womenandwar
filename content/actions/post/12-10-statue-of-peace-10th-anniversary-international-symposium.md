@@ -14,17 +14,17 @@ tags:
 **\-E-book: [https://bit.ly/3oIDPkI](https://bit.ly/3oIDPkI)  
 \-PDF download: [https://bit.ly/3JgmE29](https://bit.ly/3IBdFYW)
 
-[20211210\_자료집\_평화비10주년기념국제심포지엄\_Booklet\_StatueofPeace10thAnniversary\_최종인쇄본\_211221\_Ebook용](https://womenandwar.net/kr/wp-content/uploads/2021/12/20211210_자료집_평화비10주년기념국제심포지엄_Booklet_StatueofPeace10thAnniversary_최종인쇄본_211221_Ebook용.pdf)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2021/12/20211210_자료집_평화비10주년기념국제심포지엄_Booklet_StatueofPeace10thAnniversary_최종인쇄본_211221_Ebook용.pdf)
+[20211210\_자료집\_평화비10주년기념국제심포지엄\_Booklet\_StatueofPeace10thAnniversary\_최종인쇄본\_211221\_Ebook용](https://r2.womenandwar.net/2021/12/20211210_자료집_평화비10주년기념국제심포지엄_Booklet_StatueofPeace10thAnniversary_최종인쇄본_211221_Ebook용.pdf)[다운로드](https://r2.womenandwar.net/2021/12/20211210_자료집_평화비10주년기념국제심포지엄_Booklet_StatueofPeace10thAnniversary_최종인쇄본_211221_Ebook용.pdf)
 
 **영상**
 
 https://youtu.be/bfgm9vhQgbw
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/국제포럼-웹포스터-영어-최종.pdf_page_1-574x1024.jpg)
+![](https://r2.womenandwar.net/2021/12/국제포럼-웹포스터-영어-최종.pdf_page_1-574x1024.jpg)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/국제포럼-웹포스터-한글-최종.pdf_page_1-691x1024.jpg)
+![](https://r2.womenandwar.net/2021/12/국제포럼-웹포스터-한글-최종.pdf_page_1-691x1024.jpg)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/국제포럼-웹포스터-일어-최종.pdf_page_1-691x1024.jpg)
+![](https://r2.womenandwar.net/2021/12/국제포럼-웹포스터-일어-최종.pdf_page_1-691x1024.jpg)
 
 **줌 신청링크 Zoom link: bit.ly/peacestatue10  
 12/10 평화비 건립 10주년 기념 국제심포지엄  

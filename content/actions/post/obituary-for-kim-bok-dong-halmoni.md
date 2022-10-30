@@ -9,15 +9,15 @@ tags:
   - "victim-support"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/01/1-5-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/01/1-5-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/01/2-5.jpg)
+- ![](https://r2.womenandwar.net/2019/01/2-5.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/01/3-4.jpg)
+- ![](https://r2.womenandwar.net/2019/01/3-4.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/01/4-3.jpg)
+- ![](https://r2.womenandwar.net/2019/01/4-3.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/01/5-3.jpg)
+- ![](https://r2.womenandwar.net/2019/01/5-3.jpg)
     
 
 We will continue on the path to peace and human rights that Kim Bok-dong halmoni walked.
@@ -46,9 +46,9 @@ We pray that the path of a hero who did not give up on peace is remembered by ou
 
 \*If you would like to donate, please use wireless transfer to Kookmin Bank 069101-04-236302 윤미향 (Yoon Mee-hyang).
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/01/photo_2019-01-29_10-53-06-1024x767.jpg)
+- ![](https://r2.womenandwar.net/2019/01/photo_2019-01-29_10-53-06-1024x767.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/01/photo_2019-01-29_11-47-41-1024x767.jpg)
+- ![](https://r2.womenandwar.net/2019/01/photo_2019-01-29_11-47-41-1024x767.jpg)
     
 
 The Washington D.C. Hope Butterfly organizes a commemorative ceremony for Kim Bok-dong halmoni.

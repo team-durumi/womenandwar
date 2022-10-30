@@ -8,7 +8,7 @@ tags:
   - "notice"
 ---
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2019/06/캡처.jpg)](https://mailchi.mp/79f1d6daa216/news-from-the-korean-council-may-2019)
+[![](https://r2.womenandwar.net/2019/06/캡처.jpg)](https://mailchi.mp/79f1d6daa216/news-from-the-korean-council-may-2019)
 
 Click the image or link below to view the Korean Council Newsletter for May 2019!:  
 [https://mailchi.mp/79f1d6daa216/news-from-the-korean-council-may-2019](https://mailchi.mp/79f1d6daa216/news-from-the-korean-council-may-2019)

@@ -18,4 +18,4 @@ categories:
 
 [#우리는베트남전쟁을기억합니다](https://www.facebook.com/hashtag/우리는베트남전쟁을기억합니다?epa=HASHTAG)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/03/90144626_3072723736092843_6704727541451587584_o.png)![](http://womenandwar.net/kr/wp-content/uploads/2020/03/기억의전쟁.jpg)
+![](https://r2.womenandwar.net/2020/03/90144626_3072723736092843_6704727541451587584_o.png)![](https://r2.womenandwar.net/2020/03/기억의전쟁.jpg)

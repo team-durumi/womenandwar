@@ -25,7 +25,7 @@ SFSU profess Eric Mar, who served as a member of the board back in 2015, had pro
 
  
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/09/42133573_2174309435943805_2231789921830436864_o-300x225.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/09/42133573_2174309435943805_2231789921830436864_o.jpg)[![](http://womenandwar.net/kr/wp-content/uploads/2018/09/42168914_2174309442610471_7758889717650685952_o-300x225.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/09/42168914_2174309442610471_7758889717650685952_o.jpg)
+[![](https://r2.womenandwar.net/2018/09/42133573_2174309435943805_2231789921830436864_o-300x225.jpg)](https://r2.womenandwar.net/2018/09/42133573_2174309435943805_2231789921830436864_o.jpg)[![](https://r2.womenandwar.net/2018/09/42168914_2174309442610471_7758889717650685952_o-300x225.jpg)](https://r2.womenandwar.net/2018/09/42168914_2174309442610471_7758889717650685952_o.jpg)
 
 On September 19th, Yoon Meehyang, representative of the Korean Council, gave a lecture on the historical truth of the Japanese military sexual slavery and the movement to resolve the issue in Prof. Jinsoo An's Korean 187 class at UC Berkeley.
 

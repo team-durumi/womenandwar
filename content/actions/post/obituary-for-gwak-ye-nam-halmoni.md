@@ -8,11 +8,11 @@ tags:
   - "victim-support"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/53665535_2496643913710354_3085841016134041600_o-1024x680.jpg)
+- ![](https://r2.womenandwar.net/2019/03/53665535_2496643913710354_3085841016134041600_o-1024x680.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/53356795_2496677997040279_3575479004548825088_o-1024x725.jpg)
+- ![](https://r2.womenandwar.net/2019/03/53356795_2496677997040279_3575479004548825088_o-1024x725.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/52868348_2496678173706928_5412715548188344320_o-1024x725.jpg)
+- ![](https://r2.womenandwar.net/2019/03/52868348_2496678173706928_5412715548188344320_o-1024x725.jpg)
     
 
 11am, March 2nd, 2019, Gwak Ye-nam halmoni from Damyang, South Jeolla Province passed away, leaving only 22 survivors of Japanese military sexual slavery.

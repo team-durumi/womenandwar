@@ -9,7 +9,7 @@ tags:
   - "notice"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/11/캡처.jpg)
+![](https://r2.womenandwar.net/2019/11/캡처.jpg)
 
 [https://mailchi.mp/20823983fe99/korean-council-newsletter-nov-2019](https://mailchi.mp/20823983fe99/korean-council-newsletter-nov-2019)
 

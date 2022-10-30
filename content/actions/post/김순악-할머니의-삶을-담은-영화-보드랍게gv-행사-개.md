@@ -17,18 +17,18 @@ categories:
 저희는 어떤 어려움에도 굴하지 않고 꿋꿋하게 일본군성노예제 문제해결을 위해 다방면으로 활동하겠습니다.  
 감사합니다.
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0655-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2022/09/IMG_0655-1024x683.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0658-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2022/09/IMG_0658-1024x683.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0664-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2022/09/IMG_0664-1024x683.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0691-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2022/09/IMG_0691-1024x683.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0728-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2022/09/IMG_0728-1024x683.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0753-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2022/09/IMG_0753-1024x683.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0641-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2022/09/IMG_0641-1024x683.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0719-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2022/09/IMG_0719-1024x683.jpg)

@@ -8,7 +8,7 @@ tags:
   - "notice"
 ---
 
-![](https://womenandwar.net/kr/wp-content/uploads/kboard_attached/1/202104/607918007bb3b8132750.jpg)
+![](https://r2.womenandwar.net/kboard_attached/1/202104/607918007bb3b8132750.jpg)
 
 Read on Issuu in Korean: [https://issuu.com/womenandwar.kc/docs/\_\_\_2020\_\_\_\_\_\_210414\_\_\_](https://issuu.com/womenandwar.kc/docs/___2020______210414___)  
 

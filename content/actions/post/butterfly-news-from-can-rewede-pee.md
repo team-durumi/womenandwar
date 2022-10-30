@@ -12,7 +12,7 @@ tags:
   - "uganda"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/02/20190223_185922-1024x768.jpg)
+![](https://r2.womenandwar.net/2019/02/20190223_185922-1024x768.jpg)
 
 The Korean Council supports victims of sexual violence by the Lord's Resistance Army during the Uganda Insurgency, with Butterfly Fund!
 

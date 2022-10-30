@@ -9,13 +9,13 @@ categories:
   - "report"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC03401-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC03401-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC03537-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC03537-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC03834-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC03834-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC04066-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC04066-1024x576.jpg)
     
 
 일본군성노예제 문제해결을 위한 정의기억연대(이하 정의연)는 3월 18일부터 21일까지 파비안 살비올리 유엔 진실, 정의, 배상, 재발방지 특별보고관 초청사업을 진행했습니다. 특별보고관은 아르헨티나 독재정부 붕괴 이후 인권변호사로 활동하며 유엔 자유권위원회 위원장을 역임한 바 있습니다.
@@ -36,21 +36,21 @@ categories:
 
 3월 20일에는 제주 4.3 희생자 유족회 간담회, 야스쿠니 유족 간담회를 진행한 데 이어 21일에는 일본군성노예 피해자 길원옥 할머니 면담, 형제복지원 피해자 면담, 한국전쟁 민간인학살 피해자 면담, 인혁당 재건위 사건 피해자 면담을 진행했습니다.
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC04236-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC04236-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC04243-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC04243-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC04251-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC04251-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC04340-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC04340-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC04412-2-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC04412-2-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC04456-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC04456-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC04506-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC04506-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/03/DSC04513-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/03/DSC04513-1024x576.jpg)
     
 
 특히 21일 일본군성노예 피해자 길원옥 할머니를 만난 자리에서 특별보고관은 “많은 피해자들 면담 중에서도 지금 이 면담이 가장 중요한 만남”이라고 생각한다며 지난 30여년간의 운동에 대한 존경하고 있음을 밝히며 일본군성노에제 문제의 해결을 위해 유엔 특별보고관으로서 최선을 다해 노력하겠다고 약속했습니다. 오후에 진행된 서울대 인권센터 특별강연에서도 재차 “오늘 강연은 오전에 만났던 92세 피해자에게 바치고 싶다”고 밝히며 일본군성노예제 피해자들을 지지했습니다.

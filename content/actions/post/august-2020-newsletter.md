@@ -10,7 +10,7 @@ tags:
   - "notice"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/08/제8차세계일본군위안부기림일공동행동웹자보-영-01-605x1024.jpg)
+![](https://r2.womenandwar.net/2020/08/제8차세계일본군위안부기림일공동행동웹자보-영-01-605x1024.jpg)
 
 [https://mailchi.mp/d03f01828801/korean-council-newsletter-august-12478386](https://mailchi.mp/d03f01828801/korean-council-newsletter-august-12478386)
 

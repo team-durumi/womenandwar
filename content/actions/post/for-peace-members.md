@@ -8,9 +8,9 @@ tags:
   - "for-peace"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/muje-1-02-1.jpg)
+- ![](https://r2.womenandwar.net/2018/12/muje-1-02-1.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/muje-1-03-1.jpg)
+- ![](https://r2.womenandwar.net/2018/12/muje-1-03-1.jpg)
     
 
 For Peace 포피스 is an non-profit organization that organizes programs for peace education. Children members of For Peace watched _I Can Speak_ 아이캔스피크, discussed the Japanese military sexual slavery issue, and wrote Christmas cards for Japanese military 'comfort women' halmonies.

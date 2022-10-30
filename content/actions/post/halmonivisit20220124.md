@@ -25,11 +25,11 @@ categories:
 
 2022.01.24 활동가 라이언 작성
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/01/photo_2022-01-27_14-51-26-2.jpg)
+- ![](https://r2.womenandwar.net/2022/01/photo_2022-01-27_14-51-26-2.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/01/photo_2022-01-27_14-51-26-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2022/01/photo_2022-01-27_14-51-26-768x1024.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/01/photo_2022-01-27_14-51-27-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2022/01/photo_2022-01-27_14-51-27-768x1024.jpg)
     
 
 설 인사도 드리고, 딸기와 한우, 연어도 사갔습니다. 하이힐을 좋아하시던 할머니는 요즘은 예쁜 양말을 신고 계십니다.

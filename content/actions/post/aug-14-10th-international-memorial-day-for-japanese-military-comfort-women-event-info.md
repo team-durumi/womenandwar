@@ -10,7 +10,7 @@ On August 14, 1991, Kim Hak-soon came forward to share her experiences as a Japa
 
 Join us for the 10th International Memorial Day for Japanese Military "Comfort Women" to seek just resolution of the Japanese military "comfort women" issue and strive for a peaceful world.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2022/07/20220727_2022-기림일-포스터_영문-724x1024.png)
+![](https://r2.womenandwar.net/2022/07/20220727_2022-기림일-포스터_영문-724x1024.png)
 
 ### **Main Events and Schedule**
 
@@ -25,7 +25,7 @@ YouTube link: [https://www.youtube.com/thekoreancouncil](https://www.youtube.co
 - To commemorate the 10th International Memorial Day for Japanese Military “Comfort Women,” we aim to gather various events hosted by domestic and international organizations in solidarity and promote them as International Action for the 8.14 Memorial Day. We also plan to introduce those organizations as joint hosts in the 8.10 Wednesday Demonstration Statement. (You can opt to co-sign to the statement without running an event.)
 - Fill out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScX24YqZIU-lKI0tdVpjzaoOZXCswTp5ULKQ_YOisJhrwU7hw/viewform) by August 4th, denoting your plans for your 8.14 Memorial Day event, which will take place either during 8.14 Memorial Day week (8/9~8/15) or during August. You can also just indicate that you would like your organization to be listed in the statement.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2022/07/photo_20222222.jpg)
+![](https://r2.womenandwar.net/2022/07/photo_20222222.jpg)
 
 #### 2\. **Register to receive Exhibit Panel on 10th International Memorial Day for Japanese Military "Comfort Women"**
 
@@ -35,7 +35,7 @@ Fill out the following form to receive an English copy: [bit.ly/cw10exhibiteng]
 
 #### 3\. **Send Solidarity Video Message**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2022/07/photo_2022-07-27-22.03.31.jpeg)
+![](https://r2.womenandwar.net/2022/07/photo_2022-07-27-22.03.31.jpeg)
 
 - Format: 30- to 60-seconds long, MP4 file
 - Subtitles: Please send your text in a Word document so that we can create Korean and Japanese subtitles
@@ -55,11 +55,11 @@ Fill out the following form to receive an English copy: [bit.ly/cw10exhibiteng]
 - Fill out [this Google Form](http://bit.ly/%EB%B3%B4%EB%93%9C%EB%9E%8D%EA%B2%8C%EC%8B%A0%EC%B2%AD) to register (in Korean).
 - We also encourage you to watch movies during the week of International Memorial Day for Japanese Military "Comfort Women" and participate in our campaign! You can see the list of recommended films and leave your review by filling out [this Google Form](https://bit.ly/3ct58vq) (in Korean).
 
-![](https://womenandwar.net/kr/wp-content/uploads/2022/07/20220722_2022-기림일_보드랍게_영문-724x1024.png)
+![](https://r2.womenandwar.net/2022/07/20220722_2022-기림일_보드랍게_영문-724x1024.png)
 
 #### 6\. **Participate in Erect a Virtual Statue of Peace SNS Campaign**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2022/07/20220726_내-주변에-평화비-세우기-SNS캠페인_영문-714x1024.png)
+![](https://r2.womenandwar.net/2022/07/20220726_내-주변에-평화비-세우기-SNS캠페인_영문-714x1024.png)
 
 Commemorate the 10th #InternationalMemorialDayforComfortWomen by erecting a virtual Statue of Peace in your surroundings! The Korean Council invites you to participate in a SNS campaign using AR #PlaceforPeace project created by Berlin-based graphic designer Hojin Kang(@hojinkangdotcom).
 

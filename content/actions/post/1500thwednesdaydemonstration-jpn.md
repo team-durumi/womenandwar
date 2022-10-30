@@ -8,9 +8,9 @@ categories:
 
 1500차 수요시위 자료집 E-BOOK: [https://issuu.com/womenandwar.kc/docs/1500\_](https://issuu.com/womenandwar.kc/docs/1500_)  
 
-[1500차 수요시위 자료집](https://womenandwar.net/kr/wp-content/uploads/2021/07/1500차-수요시위-자료집.pdf)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2021/07/1500차-수요시위-자료집.pdf)
+[1500차 수요시위 자료집](https://r2.womenandwar.net/2021/07/1500차-수요시위-자료집.pdf)[다운로드](https://r2.womenandwar.net/2021/07/1500차-수요시위-자료집.pdf)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/07/photo_2021-07-14_16-58-28-1024x643.jpg)
+![](https://r2.womenandwar.net/2021/07/photo_2021-07-14_16-58-28-1024x643.jpg)
 
 14か国（韓国、日本、台湾、インドネシア、アメリカ、カナダ、ドイツ、フランス、オーストリア、アイルランド、ノルウェー、オーストラリア、ニュージーランド、アラブ首長国連邦）から1567人・団体が共同主管者として参加してくださいました。
 
@@ -191,7 +191,7 @@ https://youtu.be/J1Lsl4C5KQg
 
 * * *
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/05/웹포스터210528_홈페이지썸네일_일본어-1024x1024.png)
+![](https://r2.womenandwar.net/2021/05/웹포스터210528_홈페이지썸네일_일본어-1024x1024.png)
 
 **📌1. 第1500回水曜デモ記念＜私と水曜デモ＞エッセイ公募 (~6/30)**
 
@@ -219,7 +219,7 @@ https://youtu.be/J1Lsl4C5KQg
 - 提出方法：Eメールのみ　正義連Eメール： info@womenandwar.net
 - 問合せ：電話　+82-2-365-4016 / Eメール: info@womenandwar.net
 
-[申請書\_第1500回水曜デモエッセイ公募](https://womenandwar.net/kr/wp-content/uploads/2021/05/申請書_第1500回水曜デモエッセイ公募.docx)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2021/05/申請書_第1500回水曜デモエッセイ公募.docx)
+[申請書\_第1500回水曜デモエッセイ公募](https://r2.womenandwar.net/2021/05/申請書_第1500回水曜デモエッセイ公募.docx)[다운로드](https://r2.womenandwar.net/2021/05/申請書_第1500回水曜デモエッセイ公募.docx)
 
 **📌2. **第1500回水曜デモ共同主管者募集(~7/7) & ユーチューブ生中継****
 

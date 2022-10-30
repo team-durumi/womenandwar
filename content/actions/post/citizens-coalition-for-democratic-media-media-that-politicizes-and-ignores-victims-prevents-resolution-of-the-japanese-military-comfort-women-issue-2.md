@@ -33,7 +33,7 @@ The Korean Council’s “poor management of donation funds” received the most
 
 Chosun Ilbo especially was central to the coverage of these allegations. Major articles include [<Yoon Mee-hyang and her husband sent their daughter to the U.S. for study abroad, while paying only 6.4 million won for income tax for the past 5 years> (May 11, Reporter Kim Eun-jung)](https://news.chosun.com/site/data/html_dir/2020/05/11/2020051100124.html) and [<Kim Bok-dong scholarship given to children of staff at Korean Confederation of Trade Unions,](https://news.chosun.com/site/data/html_dir/2020/05/11/2020051100122.html) [National Farmers Federation, and Korea Alliance For Progressive Movement> (May 11, Reporter Park Sang-hyun and Heo Yu-jin)](https://news.chosun.com/site/data/html_dir/2020/05/11/2020051100122.html). The first article claims that “Yoon Mee-hyang had used ‘comfort women’ victims to send her daughter to study abroad” and the second one asserts that “the Korean Council had used the Kim Bok-dong scholarship money to support civil society organization activists.”
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200814-1.jpg)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200814-1.jpg)
 
 △ Chosun Ilbo article that inflated suspicions on the Korean Council’s financial malfeasance (May 11)
 
@@ -43,7 +43,7 @@ Regardless of Lee Yong-soo’s press conference, it is always necessary to addre
 
 Media coverage that raised allegations on the monthly wage of Yoon Mee-hyang at civil society organizations, the amount spent on her daughter’s study abroad, and the scholarship established by the late Kim Bok-dong continued to pour out. Rooted in a misunderstanding of civil society finance management, the press went so far as to report “33 million won spent at a pub”. The Korea Economic Daily’s article [<The Korean Council’s Suspicious Drink Money> (Reporters Yang Gil-Seong, Kim Nam-young, and Kim Bo-ra)](https://www.hankyung.com/society/article/2020051161161) triggered countless subsequent articles concerning civil society organizations’ alleged financial malfeasance.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200814-2.jpg)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200814-2.jpg)
 
 △ Korea Economic Daily’s article that inflated inflated suspicions on the Korean Council’s financial malfeasance with fake news of “spending 33 million won at a beer pub.” (May 11)
 
@@ -69,7 +69,7 @@ The editorial also stated that “it is a fact that around 2 million Koreans wer
 
 Dong-A Ilbo and JoongAng Daily also criticized Japan’s concealment of historical wrongdoings and demanded an apology and investigation of truth in their columns. Kyunghyang Shinmun and The Hankyoreh did not publish any such editorials or columns.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200814-3.jpg)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200814-3.jpg)
 
 △ Chosun Ilbo editorial saying “a formal apology and reparations for those wrongdoings are necessary for our future and Japan-Korea relations” (August 16, 1991)
 
@@ -105,7 +105,7 @@ The five newspapers’ similar tone is reflected in their opinion section. In th
 
 In [<Global Focus / Clash between Japanese history revisionism and revisionist-oriented  strategy against Japan>](http://news.chosun.com/site/data/html_dir/2015/03/01/2015030101972.html), Chosun Ilbo stated the demands of the victim-survivors and the Korean government, despite noting that “Japan must reconsider its principles of historical revisionism, and Korea must be flexible in its approach in dealing with Japan’s revisionism.” President Park Geun-hye’s memorial speech was not mentioned in the editorial that day. In [<Editorial / “Remembering only what is necessary is not history”>](https://news.joins.com/article/17253657), JoongAng Ilbo defended the Park Geun-hye administration, saying “It would have been difficult for President Park to express friendliness toward Japan when Japan’s attitude had not changed.” Nevertheless, the editorial also urged Japan to take courageous and honest behaviors on history. Kyunghyang Shinmun and The Hankyoreh evaluated President Park’s remarks as diplomatically “not resonating” and “unimpressive.”
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200814-표.png)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200814-표.png)
 
 △ Editorials and columns of 5 major newspapers on President Park Geun-hye’s March 1st Memorial Event in 2015 (March 2, 2015) ⒸCitizens’ Coalition for Democratic Media
 
@@ -117,7 +117,7 @@ The media should have correctly informed the readers on the contents of the agre
 
 On the morning newspapers from December 28, 2015, which was written before the agreement was reached, hope for an “innovative solution” that would satisfy both parties, wariness of Japan’s manipulation of the media, and concern over an “insufficient agreement” were present. Chosun Ilbo’s [<Would Japan, Korea find a breakthrough with “neutral rhetoric” surrounding “comfort women” legal responsibility> (December 28, 2015, reporter Lee Yong-soo)](http://news.chosun.com/site/data/html_dir/2015/12/28/2015122800256.html), JoongAng Daily’s [<To not lose the fight, Lee Sang-duk does not dye his white hair> (December 28, 2015, reporter Ahn Hyo-sung)](https://news.joins.com/article/19313421), Dong-A Ilbo’s [<President Park’s concerns: “an insufficient agreement would draw backlash”> (December 28, 2015, Reporter Woo Kyung-im)](https://www.donga.com/news/article/all/20151228/75597151/1), Kyunghyang Shinmun’s [<Rapid waves of solving “Japanese government’s legal responsibility” in the “comfort women” issue> (December 28, 2015, reporter Yoo Shin-mo)](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201512272257165&code=910302), The Hankyoreh’s [<Korea, Japan rush to “find an innovative solution to the ‘comfort women’ issue”> (December 28, 2015, reporter Lee Jae-hoon)](http://www.hani.co.kr/arti/politics/diplomacy/723701.html) contain hope for “creative alternative” and “possibilities for resolution of the issue” in the agreement.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200814-4.jpg)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200814-4.jpg)
 
 △ Chosun Ilbo urging for proper response of the Korean government before the 2015 Korea-Japan agreement (December 28, 2015)
 
@@ -127,7 +127,7 @@ Media coverage included concerns regarding the contents of the agreement. Specif
 
 However, on December 29, 2015, the next day, all five newspapers expressed concern and welcome. The concerns expressed included the following: The settlement is not legally binding; it became the “final resolution”; it contradicts the sentiment among victim-survivors, civic groups, and the general public. The following aspects were welcomed: The Japanese government officially admitted to responsibility in mobilizing “comfort women” for the first time; it promised to financially support the victim-survivors through the Japanese government budget; the two nations resolved the largest diplomatic issue for the first time in 24 years and created a new foundation for relations between the two countries moving forward.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200814-표-2.png)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200814-표-2.png)
 
 △ Editorials of 5 major newspapers on “comfort women” agreement in December 2015 (December 29, 2015) ⒸCitizens’ Coalition for Democratic Media
 
@@ -141,7 +141,7 @@ JoongAng Daily went a step further than Chosun Ilbo’s argument of “we should
 
 The editorials have shifted entirely from those of the day before the agreement. Notably, JoongAng Daily had demanded the Japanese government’s recognition of legal responsibility and apology and reparations at the level that Korean citizens can accept in an editorial published the day before. In [<Editorial/Historical “comfort women” negotiations depend on Japan’s sincerity> (December 28, 2015)](https://news.joins.com/article/19313260), it said “the essence of the Japanese military ‘comfort women’ issue, which is a universal women’s rights issue, is the recognition of Japanese government’s legal responsibility” and noted that “if Japan makes an ambiguous apology in the name of Prime Minister Abe and provide some money as consolation fund, it will be impossible to reach the complete resolution that Japan has hoped for.” Its stance has changed drastically overnight.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200814-5-1.jpg)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200814-5-1.jpg)
 
 △ JoongAng Daily article arguing to “move forward to the future together” after the 2015 Korea-Japan agreement (December 29, 2015)
 
@@ -151,7 +151,7 @@ On the other hand, Chosun Ilbo reported in [<Conflicting stances of halmonis...�
 
 Chosun Ilbo and JoongAng Daily’s reports are difficult to be seen as true. In CBS Radio [<Kim Hyun-jung’s News Show> (December 29, 2015)](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=079&aid=0002783826), Lee Yong-soo mentioned that “the said victim-survivor is experiencing dementia and has difficulties making precise judgments.” She made it clear that Japanese military “comfort women” victim-survivors would not “accept” and “follow” the agreement.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200814-6.jpg)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200814-6.jpg)
 
 △ JoongAng Daily editorial saying that the Japanese government’s acknowledgment of responsibility is the key issue before the 2015 Korea-Japan agreement (December 28, 2015)
 
@@ -163,7 +163,7 @@ The next day, Chosun Ilbo and JoongAng Daily “only” reported the fact that c
 
 In [<Korea “entirety of funds will support victims,” Japan “not decided”> (July 29, 2016, Reporters Lee Ji-eun, Jang won-jae, Cho Seung-ho)](https://www.donga.com/news/article/all/20160728/79460869/1) and [<70% of Japan funds will directly support victims...30% to commemorative projects> (July 29, 2016, Reporters Cho Seung-ho, Kim Dan-bi, Jang Won-jae)](https://www.donga.com/news/article/all/20160729/79461255/1), Dong-A Ilbo noted that “projects to support Japanese military ‘comfort women’ victims have been launched” and reported the official sign unveiling ceremony of the foundation. They also delivered the information that discussions were still underway on how to use the 1 billion yen. On the other hand, they wrote that “opinions for moving onto reconciliation and final stage through full-scale support for victim-survivors with the launch of the foundation also prevail.” The incidents that took place in the press conference were described as “capsaicin spray” and “10 university students intruded and disturbed the press conference.” Dong-A Ilbo criticized the capsaicin “terror” as “unacceptable behavior” in [<Chitchat/”Terror” on the day of “comfort women” foundation launch> (July 29, 2016, Editorial writer Kwon Sun-hwal)](https://www.donga.com/news/article/all/20160729/79461674/1).
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200814-7-1024x386.jpg)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200814-7-1024x386.jpg)
 
 △ JoongAng Daily front page on the day after the launching of the Reconciliation and Healing Foundation. JoongAng Daily covered one article on the Reconciliation and Healing Foundation. (July 29, 2016)
 
@@ -175,7 +175,7 @@ The Hankyoreh pointed out in [<“Comfort women” foundation regressed compared
 
 The Hankyoreh included voices of victim-survivors including Kim Bok-dong in [<I don’t need any foundation or money, I want a sincere apology from Japan> (July 29, 2016, Reporter Park Soo-jin)](http://www.hani.co.kr/arti/society/society_general/754318.html), and Kyunghyang Shinmun reported critiques of civic groups such as the Korean Council in [<The Korean Council “The government closed its ears on the voices of survivors...Who is the foundation for”> (July 29, 2016, Reporter Noh Do-hyun)](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201607282304015&code=940100).
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200814-표-3.png)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200814-표-3.png)
 
 △ Coverages of 5 major newspapers on establishment of the Reconciliation and Healing Foundation (July 29, 2016) ⒸCitizens’ Coalition for Democratic Media
 

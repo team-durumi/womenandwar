@@ -11,21 +11,21 @@ categories:
 
 영화 김복동 미주 2차 순회상영회 다섯번째~!
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/20191011_180320-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/20191011_180320-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/20191011_175944_HDR-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/20191011_175944_HDR-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/20191011_205622_HDR-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/20191011_205622_HDR-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/20191011_205118-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/20191011_205118-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/20191011_181115_HDR-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/20191011_181115_HDR-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/20191011_195502-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/20191011_195502-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/20191011_204216_HDR-1-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/20191011_204216_HDR-1-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/20191011_181136_HDR-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/20191011_181136_HDR-1024x768.jpg)
     
 
 오늘 10월 11일 보스턴에서 출발해 뉴헤이븐에 있는 예일대학교에 도착했습니다.

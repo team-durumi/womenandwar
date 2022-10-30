@@ -42,7 +42,7 @@ Picking up the bag, halmoni began to shake it down as if to gesture that there w
 
 Halmoni headed off to her freezer, saying she had snacks to give to us. Despite our polite refusal, she insisted. The grapes that halmoni gave us had an unusual shape that looked like little eggplants.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/04/photo_2021-04-26_16-17-55-edited.jpg)
+![](https://r2.womenandwar.net/2021/04/photo_2021-04-26_16-17-55-edited.jpg)
 
 Having never seen grapes like the one presented in front us, we all stared curiously while halmoni gave our uncivilized selves a lesson.
 
@@ -83,9 +83,9 @@ As I thought about halmoni, I began to hope to see more of halmoni’s smiling f
 Written by The Korean Council staff Jiwoo  
 **Translator: Jimmy Chae**
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/11/003.jpg)
+- ![](https://r2.womenandwar.net/2021/11/003.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/11/004.jpg)
+- ![](https://r2.womenandwar.net/2021/11/004.jpg)
     
 
 Halmoni waving at activists leaving!

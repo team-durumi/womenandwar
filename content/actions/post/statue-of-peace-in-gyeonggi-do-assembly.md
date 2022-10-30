@@ -9,13 +9,13 @@ tags:
   - "statue-of-peace"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/181214_kyeongkidouihoe-pyeonghwabi9-1-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2018/12/181214_kyeongkidouihoe-pyeonghwabi9-1-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/181214_kyeongkidouihoe-pyeonghwabi16-1-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2018/12/181214_kyeongkidouihoe-pyeonghwabi16-1-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/181214_kyeongkidouihoe-pyeonghwabi3-2-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2018/12/181214_kyeongkidouihoe-pyeonghwabi3-2-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/181214_kyeongkidouihoe-pyeonghwabi5-2-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2018/12/181214_kyeongkidouihoe-pyeonghwabi5-2-1024x768.jpg)
     
 
 On December 14th, the Gyeonggi-do Assembly unveiled the Statue of Peace.

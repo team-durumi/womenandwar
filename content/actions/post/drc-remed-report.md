@@ -14,27 +14,27 @@ tags:
 
 REMED is an organization in DR Congo that the Korean Council supports through Butterfly Fund, which support the victims of wartime sexual violence. REMED has provided sewing training for the survivors, and recently held a ceremony to celebrate the survivors who finished their training in cutting and sewing.
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1668-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1668-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1671-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1671-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1672-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1672-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1674-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1674-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1694-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1694-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1704-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1704-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1712-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1712-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1747-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1747-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1764-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1764-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1779-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1779-1024x683.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/07/DSC_1859-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2019/07/DSC_1859-1024x683.jpg)
     
 
 Report from REMED on June 29th, 2019:

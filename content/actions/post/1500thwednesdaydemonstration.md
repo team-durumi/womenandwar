@@ -11,9 +11,9 @@ tags:
 
 1500차 수요시위 자료집 E-BOOK: [https://issuu.com/womenandwar.kc/docs/1500\_](https://issuu.com/womenandwar.kc/docs/1500_)  
 
-[1500차 수요시위 자료집](https://womenandwar.net/kr/wp-content/uploads/2021/07/1500차-수요시위-자료집.pdf)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2021/07/1500차-수요시위-자료집.pdf)
+[1500차 수요시위 자료집](https://r2.womenandwar.net/2021/07/1500차-수요시위-자료집.pdf)[다운로드](https://r2.womenandwar.net/2021/07/1500차-수요시위-자료집.pdf)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/07/photo_2021-07-14_16-58-28-1024x643.jpg)
+![](https://r2.womenandwar.net/2021/07/photo_2021-07-14_16-58-28-1024x643.jpg)
 
 **1,567 individuals and organizations from 14 countries (South Korea, Japan, Taiwan, Indonesia, United States, Canada, Germany, France, Austria, Ireland, Norway, Australia, New Zealand, and United Arab Emirates) joined us as co-organizers.**
 
@@ -171,7 +171,7 @@ The Korean Council hosted the **1500th Wednesday Demonstration Essay Contest <My
 \-日本語: https://bit.ly/34mENIc  
 ◼ Inquiries: The Korean Council email info@womenandwar.net
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/07/photo_2021-07-13_13-26-11-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/07/photo_2021-07-13_13-26-11-1024x1024.jpg)
 
 📢 **Hashtag campaign**
 
@@ -179,7 +179,7 @@ Find your name in the butterfly-shaped banner featuring 1500 Co-organizers durin
 
 #TheKoreanCouncil #1500차수요시위인증샷 #1500차수요시위 #1500thWednesdayDemonstration
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/07/photo_2021-07-13_11-02-09-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/07/photo_2021-07-13_11-02-09-1024x1024.jpg)
 
 * * *
 
@@ -187,11 +187,11 @@ Find your name in the butterfly-shaped banner featuring 1500 Co-organizers durin
 
 **Events**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/05/웹포스터210528_홈페이지썸네일_영어-1024x1024.png)
+![](https://r2.womenandwar.net/2021/05/웹포스터210528_홈페이지썸네일_영어-1024x1024.png)
 
 **📌1. Call for Submissions: The Korean Council 1500th Wednesday Demonstration Essay Contest <My Wednesday Demonstration> (~6/30)**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/05/웹포스터210528_1500차에세이공모전_영어-724x1024.jpg)
+![](https://r2.womenandwar.net/2021/05/웹포스터210528_1500차에세이공모전_영어-724x1024.jpg)
 
 The Wednesday demonstration, which started on January 8, 1992 in response to then Japanese Prime Minister Miyazawa’s visit to South Korea, marks its 1500th anniversary on July 14, 2021. The Wednesday demonstration has since been a space of activism where participants called for human rights and redress for victim-survivors based on the seven demands of admission of war crimes, disclosure of official documents, official apology, legal reparation, punishment of perpetrators, education in history textbooks, commemoration in memorial monument and archive. Furthermore, the demonstration has addressed peace and women’s human rights as a space of education. Thanks to everyone who participated in and stood in solidarity with the Wednesday demonstration, we have been able to write collective history of solidarity, peace, and human rights.
 
@@ -210,7 +210,7 @@ The 1500th Wednesday Demonstration Essay Contest <My Wednesday Demonstration>
 - **Inquiries:** Email the Korean Council at [info@womenandwar.net](mailto:info@womenandwar.net)  
     
 
-[Submission-Form\_1500th-Wednesday-Demonstration-Essay-Contest](https://womenandwar.net/kr/wp-content/uploads/2021/05/Submission-Form_1500th-Wednesday-Demonstration-Essay-Contest.docx)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2021/05/Submission-Form_1500th-Wednesday-Demonstration-Essay-Contest.docx)
+[Submission-Form\_1500th-Wednesday-Demonstration-Essay-Contest](https://r2.womenandwar.net/2021/05/Submission-Form_1500th-Wednesday-Demonstration-Essay-Contest.docx)[다운로드](https://r2.womenandwar.net/2021/05/Submission-Form_1500th-Wednesday-Demonstration-Essay-Contest.docx)
 
 **📌2. 1500th Wednesday Demonstration Co-Organizers (~7/7) & YouTube Live**
 

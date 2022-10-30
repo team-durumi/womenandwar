@@ -12,11 +12,11 @@ tags:
   - "uncomfortwomenproject"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/muje-1-02-683x1024.jpg)
+- ![](https://r2.womenandwar.net/2018/12/muje-1-02-683x1024.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/muje-1-04-683x1024.jpg)
+- ![](https://r2.womenandwar.net/2018/12/muje-1-04-683x1024.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/muje-1-03-683x1024.jpg)
+- ![](https://r2.womenandwar.net/2018/12/muje-1-03-683x1024.jpg)
     
 
 On December 20th, the 'UnComfort Women' Project (HS ad, HS 애드) visited Peaceful Our Home and donated 5,000,000 won to the Kim Bok-dong Peace Fund.

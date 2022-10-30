@@ -12,19 +12,19 @@ On August 14, 1991, Kim Hak-soon halmoni gave a public testimony revealing herse
    
 On August 14, the Korean Council held the Butterfly Festival for the 10th International Memorial Day for Japanese Military “Comfort Women." Kwon Hae-hyo, the honorary ambassador for the Korean Council, acted as the MC for various cultural performances. Furthermore, "comfort women" survivors Park Pil-geun, Lee Ok-sun, and Lee Yong-soo shared their hopes for younger generations through a meaningful video. We also organized 20 booths open for public participation conjointly with the Peace Butterfly Network and History Club Association. Thank you to the many student volunteers and citizens who participated in the event despite frequent downpours, as well as those who were unable to join us but still expressed their support.
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/08/크기변환1DSCF6442-1.jpg)
+- ![](https://r2.womenandwar.net/2022/08/크기변환1DSCF6442-1.jpg)
     
     Wednesday Demonstration March (Aug 10)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/08/크기변환1IMG_0462-1.jpg)
+- ![](https://r2.womenandwar.net/2022/08/크기변환1IMG_0462-1.jpg)
     
     1556th Wednesday Demonstration (Aug 10)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/08/IMG_0735-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2022/08/IMG_0735-1024x683.jpg)
     
     Film Screening of (Aug 11)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/08/DSCF7046-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2022/08/DSCF7046-1024x683.jpg)
     
     Butterfly Festival (Aug 14)
     

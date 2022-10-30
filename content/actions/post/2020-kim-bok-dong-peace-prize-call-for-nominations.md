@@ -18,7 +18,7 @@ tags:
   - "uganda"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/04/수정-웹자보-724x1024.jpg)
+![](https://r2.womenandwar.net/2020/04/수정-웹자보-724x1024.jpg)
 
 The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan calls for nomination of individuals or organizations for the 2020 KIM BOK DONG Peace Prize. KIM BOK DONG Peace Prize honors individuals or organizations that have been engaged in the movement to resolve the issue of sexual violence in armed conflict and ensure women’s human rights in armed conflict across the world.
 

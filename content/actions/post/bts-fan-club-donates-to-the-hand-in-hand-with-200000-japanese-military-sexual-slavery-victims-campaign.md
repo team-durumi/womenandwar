@@ -8,9 +8,9 @@ tags:
   - "victim-support"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2018/10/방탄소년단_팬단체_아미_기부_후원_게시글_페북버전_02_02.jpg)
+![](https://r2.womenandwar.net/2018/10/방탄소년단_팬단체_아미_기부_후원_게시글_페북버전_02_02.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2018/10/방탄소년단-팬단체-아미-기부-후원-게시글_페북버전-02-01.jpg)
+![](https://r2.womenandwar.net/2018/10/방탄소년단-팬단체-아미-기부-후원-게시글_페북버전-02-01.jpg)
 
 BTS fan club "Run Army (달려라아미)" donates 8,645,857 won to the Hand in Hand with 200,000 Japanese Military Sexual Slavery Victims Fundraising Campaign to support the movement for resolution of the Japanese military sexual slavery issue.
 

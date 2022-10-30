@@ -14,11 +14,11 @@ categories:
 
 나눔의집을 떠나기 전, 강일출 할머니, 이옥선 할머니 등 다른 할머니들께도 인사드리고 정대협에서 왔다고 하니 기억하시며 손을 잡아주시고, 반가워해 주셨습니다. 이번 방문은 짧았지만 언제나 그렇듯 많은 것을 느끼고 돌아왔습니다. 수요시위가 힘들어도 계속 해달라는 할머니의 말씀은 슬프기도 했고, 저에게는 더 열심히 해야 할 이유가 되기도 했습니다. 매번 반복되는 역사부정세력들의 역사왜곡, 모욕적 발언에 마음 정화가 절실하던 정의연 활동가들에게 큰 위로가 되었고, 채찍이 되었습니다. 우리가 지치고 힘들길 바라며 욕설, 폭언을 쏟아내는 그들을 막아줄 무적의 방패를 얻어 온 나눔의 집 방문이었습니다. 할머니들께서 오래 오래 건강하시길 바랍니다!
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/photo_2022-07-26_10-41-36-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2022/07/photo_2022-07-26_10-41-36-1024x768.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/photo_2022-07-26_10-36-05.jpg)
+- ![](https://r2.womenandwar.net/2022/07/photo_2022-07-26_10-36-05.jpg)
     
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/photo_2022-07-26_10-35-54-2-576x1024.jpg)
+- ![](https://r2.womenandwar.net/2022/07/photo_2022-07-26_10-35-54-2-576x1024.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/photo_2022-07-26_10-41-34-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2022/07/photo_2022-07-26_10-41-34-768x1024.jpg)

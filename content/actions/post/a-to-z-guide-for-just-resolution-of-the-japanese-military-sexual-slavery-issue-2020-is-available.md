@@ -13,7 +13,7 @@ tags:
   - "research-and-education"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/표지-앞.pdf_page_1-724x1024.jpg)
+![](https://r2.womenandwar.net/2020/09/표지-앞.pdf_page_1-724x1024.jpg)
 
 [https://mailchi.mp/661443325938/korean-council-newsletter-august-12494398](https://mailchi.mp/661443325938/korean-council-newsletter-august-12494398)
 

@@ -14,21 +14,21 @@ https://youtu.be/oD1ZzNnh7u4
 
 자료집 Informational booklet
 
-[F자료집\_20210226\_3차\_국제심포지엄\_정의와\_진실에\_대한\_권리회복](https://womenandwar.net/kr/wp-content/uploads/2021/03/F자료집_20210226_3차_국제심포지엄_정의와_진실에_대한_권리회복.pdf)[다운로드하기](https://womenandwar.net/kr/wp-content/uploads/2021/03/F자료집_20210226_3차_국제심포지엄_정의와_진실에_대한_권리회복.pdf)
+[F자료집\_20210226\_3차\_국제심포지엄\_정의와\_진실에\_대한\_권리회복](https://r2.womenandwar.net/2021/03/F자료집_20210226_3차_국제심포지엄_정의와_진실에_대한_권리회복.pdf)[다운로드하기](https://r2.womenandwar.net/2021/03/F자료집_20210226_3차_국제심포지엄_정의와_진실에_대한_권리회복.pdf)
 
 요하임 라우 이탈리아 페리니 대 독일 사건 담당 변호사 첨부파일-클릭하여 다운로드
 
 Attachments for Mr. Joachim Lau (Lawyer, Ferrini v. Germany case)-Click to download
 
-[2-3-라우-참고-이탈리아로마대법원결정2003\_이탈리아어-Supreme-Court-of-Cassation-of-Italy-2003-orginalkopie-Urt.5044](https://womenandwar.net/kr/wp-content/uploads/2021/02/2-3-라우-참고-이탈리아로마대법원결정2003_이탈리아어-Supreme-Court-of-Cassation-of-Italy-2003-orginalkopie-Urt.5044.pdf)[다운로드하기](https://womenandwar.net/kr/wp-content/uploads/2021/02/2-3-라우-참고-이탈리아로마대법원결정2003_이탈리아어-Supreme-Court-of-Cassation-of-Italy-2003-orginalkopie-Urt.5044.pdf)
+[2-3-라우-참고-이탈리아로마대법원결정2003\_이탈리아어-Supreme-Court-of-Cassation-of-Italy-2003-orginalkopie-Urt.5044](https://r2.womenandwar.net/2021/02/2-3-라우-참고-이탈리아로마대법원결정2003_이탈리아어-Supreme-Court-of-Cassation-of-Italy-2003-orginalkopie-Urt.5044.pdf)[다운로드하기](https://r2.womenandwar.net/2021/02/2-3-라우-참고-이탈리아로마대법원결정2003_이탈리아어-Supreme-Court-of-Cassation-of-Italy-2003-orginalkopie-Urt.5044.pdf)
 
-[2-3-라우-참고-이탈리아헌법재판소결정2014\_영어-Constitutional-Court-of-Italy-Judgment-238\_2014\_english](https://womenandwar.net/kr/wp-content/uploads/2021/02/2-3-라우-참고-이탈리아헌법재판소결정2014_영어-Constitutional-Court-of-Italy-Judgment-238_2014_english.pdf)[다운로드하기](https://womenandwar.net/kr/wp-content/uploads/2021/02/2-3-라우-참고-이탈리아헌법재판소결정2014_영어-Constitutional-Court-of-Italy-Judgment-238_2014_english.pdf)
+[2-3-라우-참고-이탈리아헌법재판소결정2014\_영어-Constitutional-Court-of-Italy-Judgment-238\_2014\_english](https://r2.womenandwar.net/2021/02/2-3-라우-참고-이탈리아헌법재판소결정2014_영어-Constitutional-Court-of-Italy-Judgment-238_2014_english.pdf)[다운로드하기](https://r2.womenandwar.net/2021/02/2-3-라우-참고-이탈리아헌법재판소결정2014_영어-Constitutional-Court-of-Italy-Judgment-238_2014_english.pdf)
 
-[2-3-라우-참고-이탈리아헌법재판소결정2014\_한글\_야마모토변호사-번역](https://womenandwar.net/kr/wp-content/uploads/2021/02/2-3-라우-참고-이탈리아헌법재판소-결정_한글_야마모토변호사-번역.docx)[다운로드하기](https://womenandwar.net/kr/wp-content/uploads/2021/02/2-3-라우-참고-이탈리아헌법재판소-결정_한글_야마모토변호사-번역.docx)
+[2-3-라우-참고-이탈리아헌법재판소결정2014\_한글\_야마모토변호사-번역](https://r2.womenandwar.net/2021/02/2-3-라우-참고-이탈리아헌법재판소-결정_한글_야마모토변호사-번역.docx)[다운로드하기](https://r2.womenandwar.net/2021/02/2-3-라우-참고-이탈리아헌법재판소-결정_한글_야마모토변호사-번역.docx)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/02/웹자보210218_3차토론회_최종_주최추가_001-724x1024.png)
+![](https://r2.womenandwar.net/2021/02/웹자보210218_3차토론회_최종_주최추가_001-724x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/02/웹자보210218_3차토론회_영어_최종_주최추가_002-724x1024.png)
+![](https://r2.womenandwar.net/2021/02/웹자보210218_3차토론회_영어_최종_주최추가_002-724x1024.png)
 
 3차 국제심포지엄
 

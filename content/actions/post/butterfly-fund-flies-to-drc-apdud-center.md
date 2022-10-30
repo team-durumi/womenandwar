@@ -12,15 +12,15 @@ tags:
   - "remed"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/01/압두드-고아들을-위한-음식-1024x683.png)
+- ![](https://r2.womenandwar.net/2020/01/압두드-고아들을-위한-음식-1024x683.png)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/01/나비기금을-받고-기뻐하는-압두드-활동가들2-1024x683.png)
+- ![](https://r2.womenandwar.net/2020/01/나비기금을-받고-기뻐하는-압두드-활동가들2-1024x683.png)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/01/레메드에서-주는-식량-등-지원-1024x683.png)
+- ![](https://r2.womenandwar.net/2020/01/레메드에서-주는-식량-등-지원-1024x683.png)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/01/마시카-사진과-압두드-활동가-1024x682.png)
+- ![](https://r2.womenandwar.net/2020/01/마시카-사진과-압두드-활동가-1024x682.png)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/01/세제-지원-1024x683.png)
+- ![](https://r2.womenandwar.net/2020/01/세제-지원-1024x683.png)
     
 
 After Rebecca Masika Katsuva's death, the Butterfly Fund could not be delivered to her organization APDUD due to challenges in the region.

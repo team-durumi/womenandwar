@@ -11,7 +11,7 @@ tags:
   - "prevention-of-sexual-violence-in-conflict"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/03/캡처.jpg)
+![](https://r2.womenandwar.net/2020/03/캡처.jpg)
 
 **The Korean Council Statement for the International Women’s Day (March 8)**
 

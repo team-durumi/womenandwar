@@ -5,7 +5,7 @@ categories:
   - "report"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/제목을-입력해주세요._1-1024x724.png)
+![](https://r2.womenandwar.net/2020/10/제목을-입력해주세요._1-1024x724.png)
 
 박O옥님은 지난 5월 21일부터 매일 같이 정의연에 후원해주고 계십니다.
 

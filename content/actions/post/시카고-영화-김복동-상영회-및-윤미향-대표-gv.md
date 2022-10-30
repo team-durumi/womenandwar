@@ -11,11 +11,11 @@ categories:
 
 \[영화 김복동 미주 상영 캠페인 보고 4\]
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/0919-시카고-시카고KANWIN-상영회-1.jpg)
+- ![](https://r2.womenandwar.net/2019/10/0919-시카고-시카고KANWIN-상영회-1.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/0919-시카고-시카고KANWIN-상영회-2.jpg)
+- ![](https://r2.womenandwar.net/2019/10/0919-시카고-시카고KANWIN-상영회-2.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/0919-시카고-시카고KANWIN-상영회-3-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/0919-시카고-시카고KANWIN-상영회-3-1024x768.jpg)
     
 
 9월 19일 미국시간으로 오후 5시부터 [#KANWIN](https://www.facebook.com/hashtag/kanwin?source=feed_text&epa=HASHTAG) 주관으로 영화 김복동 상영회가 [#UIC](https://www.facebook.com/hashtag/uic?source=feed_text&epa=HASHTAG)[#JSTtheater](https://www.facebook.com/hashtag/jsttheater?source=feed_text&epa=HASHTAG) 에서 약 150명이 모인 가운데 진행하였습니다.

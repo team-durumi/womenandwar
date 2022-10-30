@@ -9,23 +9,23 @@ tags:
   - "notice"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/photo_2021-01-07_13-19-53-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/01/photo_2021-01-07_13-19-53-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/photo_2021-01-07_13-19-56-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/01/photo_2021-01-07_13-19-56-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/photo_2021-01-07_13-19-57-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/01/photo_2021-01-07_13-19-57-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/photo_2021-01-07_13-19-58-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/01/photo_2021-01-07_13-19-58-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/photo_2021-01-07_13-19-59-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/01/photo_2021-01-07_13-19-59-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/photo_2021-01-07_13-20-00-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/01/photo_2021-01-07_13-20-00-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/photo_2021-01-07_13-32-57-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/01/photo_2021-01-07_13-32-57-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/photo_2021-01-07_13-20-02-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/01/photo_2021-01-07_13-20-02-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/photo_2021-01-07_13-20-03-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/01/photo_2021-01-07_13-20-03-1024x1024.jpg)
 
 **Lawsuits against the Japanese Government in Korean Court await decisions in January, 2021**  
 Japanese military sexual slavery victims have sought legal responsibilities of the Japanese Government by filing lawsuits in Japan since 1990s and respective countries in Asia-Pacific regions. Yet denial and dismissal of the Japanese Government led the victims and activists to organize a people's tribunal 2000 Women's International War Crimes Tribunal to clearly state the responsibilities. In 2011, the Constitutional Court of Korea had ruled that the Korean Government's inaction for resolution of the issue is unconstitutional.

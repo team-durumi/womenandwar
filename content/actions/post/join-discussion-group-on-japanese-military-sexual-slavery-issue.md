@@ -21,4 +21,4 @@ Join our discussion group to learn more about the Japanese military sexual slave
 
 ○ Learn more & sign up: **[bit.ly/kcdg2021](http://bit.ly/kcdg2021)**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/09/7857AB18-D2E6-49A8-8C83-CDA1C503D85D-1024x1024.png)
+![](https://r2.womenandwar.net/2021/09/7857AB18-D2E6-49A8-8C83-CDA1C503D85D-1024x1024.png)

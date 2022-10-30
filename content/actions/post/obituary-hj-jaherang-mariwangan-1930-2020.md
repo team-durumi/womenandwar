@@ -11,9 +11,9 @@ tags:
   - "victim-support"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/05/Jaherang-1-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/05/Jaherang-1-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/05/Jaherang-2-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/05/Jaherang-2-1024x1024.jpg)
 
 \[Obituary\] Hj Jaherang Mariwangan (1930-2020)  
 Indonesian victim of Japanese military sexual slavery passed away at 09:00 on 11th April, 2020. The Korean Council wishes that she can rest in peace where there is no more war and sexual violence against women.

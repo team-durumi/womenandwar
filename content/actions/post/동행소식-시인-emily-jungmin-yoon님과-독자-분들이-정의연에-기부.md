@@ -11,7 +11,7 @@ tags:
   - "동행소식"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/02/16Fischer2-articleLarge.jpg)
+![](https://r2.womenandwar.net/2019/02/16Fischer2-articleLarge.jpg)
 
 미국에서 활동하는 시인 Emily Jungmin Yoon님은 일본군성노예 피해자들의 경험을 다룬 데뷔작 <_A Cruelty Special to Our Species>_ 을 2018년에 9월 내셨습니다. 6.25전쟁 이후 이민세대로서의 경험과 영어와 한국어를 함께 사용하는 다문화 세대로서의 경험을 함께 담아낸 시집은 뉴욕타임즈에 소개되기도 했습니다: 
 

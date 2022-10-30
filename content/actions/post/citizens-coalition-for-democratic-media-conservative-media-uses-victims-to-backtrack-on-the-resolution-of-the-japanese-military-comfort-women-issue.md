@@ -15,7 +15,7 @@ After Lee Yong-soo halmoni’s press conference, media coverage primarily by Cho
 
 **Chosun Ilbo, JoongAng Daily use Lee Yong-soo halmoni to inflate allegations**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/민언련-보고서-20200514-표.png)
+![](https://r2.womenandwar.net/2021/06/민언련-보고서-20200514-표.png)
 
 △ Detailed count of major newspaper coverage on Lee Yong-soo’s press conference (May 8~12, 2020)  
 ※ Reports which primarily raised allegations, maintained a mechanical neutral stance, clarified allegations, or analyzed background of conflict while also mentioning Lee Yong-soo’s press conference or perspective of the Korean Council (or Yoon Mee-hyang) were classified under respective primary categories  

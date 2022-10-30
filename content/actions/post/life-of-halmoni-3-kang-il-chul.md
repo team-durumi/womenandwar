@@ -16,22 +16,22 @@ See in Korean: [https://womenandwar.net/kr/%ed%95%a0%eb%a8%b8%eb%8b%88%ec%9d%98
 
 Translated by: Arim Lee (이아림)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_3_강일출_1-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_3_강일출_1-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_3_강일출_2-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_3_강일출_2-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_3_강일출_3-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_3_강일출_3-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_3_강일출_4-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_3_강일출_4-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_3_강일출_5-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_3_강일출_5-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_3_강일출_6-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_3_강일출_6-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_3_강일출_7-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_3_강일출_7-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_3_강일출_8-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_3_강일출_8-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_3_강일출_9-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_3_강일출_9-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_3_강일출_10-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_3_강일출_10-1024x1024.png)

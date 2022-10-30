@@ -11,7 +11,7 @@ tags:
   - "internationalmemorialdayforcomfortwomen"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/08/기림일-감사인사-영.jpg)
+![](https://r2.womenandwar.net/2019/08/기림일-감사인사-영.jpg)
 
 \[1400th Wednesday Demonstration and the International Solidarity Demonstration for the 7th International Memorial Day for Japanese Military “Comfort Women” Statement\]
 

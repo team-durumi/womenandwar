@@ -14,7 +14,7 @@ tags:
   - "wednesday-demonstration"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/08/제8차세계일본군위안부기림일공동행동웹자보-영-01-605x1024.jpg)
+![](https://r2.womenandwar.net/2020/08/제8차세계일본군위안부기림일공동행동웹자보-영-01-605x1024.jpg)
 
 [https://mailchi.mp/488515b852ca/korean-council-newsletter-august-12479682](https://mailchi.mp/488515b852ca/korean-council-newsletter-august-12479682)
 

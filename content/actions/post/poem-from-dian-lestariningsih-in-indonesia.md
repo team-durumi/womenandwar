@@ -20,4 +20,4 @@ We hope that all of us can read the beautiful poems and think about each of us c
 
  
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/12/indonesia-dian-leseutaliningsi-yeondaesi-03-300x300.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/12/indonesia-dian-leseutaliningsi-yeondaesi-03.jpg)[![](http://womenandwar.net/kr/wp-content/uploads/2018/12/indonesia-dian-leseutaliningsi-yeondaesi-05-300x300.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/12/indonesia-dian-leseutaliningsi-yeondaesi-05.jpg)
+[![](https://r2.womenandwar.net/2018/12/indonesia-dian-leseutaliningsi-yeondaesi-03-300x300.jpg)](https://r2.womenandwar.net/2018/12/indonesia-dian-leseutaliningsi-yeondaesi-03.jpg)[![](https://r2.womenandwar.net/2018/12/indonesia-dian-leseutaliningsi-yeondaesi-05-300x300.jpg)](https://r2.womenandwar.net/2018/12/indonesia-dian-leseutaliningsi-yeondaesi-05.jpg)

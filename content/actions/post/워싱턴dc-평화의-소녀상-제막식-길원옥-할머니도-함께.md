@@ -10,25 +10,25 @@ categories:
   - "report"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/191027-제막식-길원옥-할머니-참석-1-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/191027-제막식-길원옥-할머니-참석-1-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/191027-제막식-길원옥-할머니-참석-2-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/191027-제막식-길원옥-할머니-참석-2-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/191027-제막식-길원옥-할머니-참석-3-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/191027-제막식-길원옥-할머니-참석-3-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/191027-제막식-길원옥-할머니-참석-5-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/191027-제막식-길원옥-할머니-참석-5-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/191027-제막식-길원옥-할머니-참석-6-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/191027-제막식-길원옥-할머니-참석-6-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/191027-제막식-길원옥-할머니-참석-9-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2019/10/191027-제막식-길원옥-할머니-참석-9-768x1024.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/191027-제막식-길원옥-할머니-참석-10-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/191027-제막식-길원옥-할머니-참석-10-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/191027-제막식-길원옥-할머니-참석-12-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/191027-제막식-길원옥-할머니-참석-12-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/191027-제막식-길원옥-할머니-참석-13-1024x576.jpg)
+- ![](https://r2.womenandwar.net/2019/10/191027-제막식-길원옥-할머니-참석-13-1024x576.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/10/191027-제막식-길원옥-할머니-참석-15-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/10/191027-제막식-길원옥-할머니-참석-15-1024x768.jpg)
     
 
 2019년 10월 27일 오후 3시, 버지니아 애난데일 한국일보 건물 앞 잔디에서 워싱턴DC 평화의 소녀상이 제막식을 맞았습니다.

@@ -20,13 +20,13 @@ https://youtu.be/0yLqu5-bKJQ
 
 일본군성노예제 문제해결을 위한 정의기억연대(이사장 이나영, 이하 정의연)는 이번 드레스덴 평화의 소녀상 전시를 위한 모든 제작비와 운송비를 후원하고, 이나영 이사장의 연대메시지와 이용수, 이옥선 할머니의 축하 영상 등을 지원하였습니다. 정의연은 앞으로도 일본군성노예제 문제해결을 위해 힘쓰는 국내외 연대단체들과 활동을 굳건히 이어나갈 것입니다.
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/05/csm_SKD_Sprachlosigkeit_MG_7938_davidpinzer_2104_e241801949-1024x683.jpg)
+- ![](https://r2.womenandwar.net/2021/05/csm_SKD_Sprachlosigkeit_MG_7938_davidpinzer_2104_e241801949-1024x683.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/05/174078939_4057118447728806_3659152194748544474_n-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2021/05/174078939_4057118447728806_3659152194748544474_n-1024x768.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/05/174064651_4057118691062115_7012362896267682667_n-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2021/05/174064651_4057118691062115_7012362896267682667_n-1024x768.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/05/독일-드레스덴-평화의-소녀상-제막식-c.독일코리아협의회-페이스북-2-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2021/05/독일-드레스덴-평화의-소녀상-제막식-c.독일코리아협의회-페이스북-2-1024x768.jpg)
     
 
 c. Korea Verband Facebook

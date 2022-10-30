@@ -34,20 +34,20 @@ On Monday our [AG "Trostfrauen" - Solidarity with "Comfort Women"](https://www.f
 
 사진 출처 최동하 copyright Dong-Ha Choe
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4820.jpg)
+![](https://r2.womenandwar.net/2020/10/DHC4820.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4877.jpg)
+![](https://r2.womenandwar.net/2020/10/DHC4877.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4924.jpg)
+![](https://r2.womenandwar.net/2020/10/DHC4924.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4996.jpg)
+![](https://r2.womenandwar.net/2020/10/DHC4996.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DSF1009.jpg)
+![](https://r2.womenandwar.net/2020/10/DSF1009.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4920.jpg)
+![](https://r2.womenandwar.net/2020/10/DHC4920.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4909.jpg)
+![](https://r2.womenandwar.net/2020/10/DHC4909.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4958.jpg)
+![](https://r2.womenandwar.net/2020/10/DHC4958.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DSF1048.jpg)
+![](https://r2.womenandwar.net/2020/10/DSF1048.jpg)

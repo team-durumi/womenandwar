@@ -9,15 +9,15 @@ categories:
   - "report"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/01/마시카-사진과-압두드-활동가-1024x682.png)
+- ![](https://r2.womenandwar.net/2020/01/마시카-사진과-압두드-활동가-1024x682.png)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/01/압두드-고아들을-위한-음식-1024x683.png)
+- ![](https://r2.womenandwar.net/2020/01/압두드-고아들을-위한-음식-1024x683.png)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/01/나비기금을-받고-기뻐하는-압두드-활동가들2-1024x683.png)
+- ![](https://r2.womenandwar.net/2020/01/나비기금을-받고-기뻐하는-압두드-활동가들2-1024x683.png)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/01/레메드에서-주는-식량-등-지원-1024x683.png)
+- ![](https://r2.womenandwar.net/2020/01/레메드에서-주는-식량-등-지원-1024x683.png)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/01/세제-지원-1024x683.png)
+- ![](https://r2.womenandwar.net/2020/01/세제-지원-1024x683.png)
     
 
 DR콩고로 날아갔던 나비기금은 레베카 마시카 카츄바님이 세상을 떠나시고 난 후 현지 사정으로 지원이 잠시 중단되었습니다.

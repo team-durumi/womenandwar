@@ -8,7 +8,7 @@ tags:
   - "donations"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2018/10/교보핫트랙스-나비기금-후원-게시글_완-02.jpg) ![](http://womenandwar.net/kr/wp-content/uploads/2018/10/교보핫트랙스-나비기금-후원-게시글_완-01.jpg)
+![](https://r2.womenandwar.net/2018/10/교보핫트랙스-나비기금-후원-게시글_완-02.jpg) ![](https://r2.womenandwar.net/2018/10/교보핫트랙스-나비기금-후원-게시글_완-01.jpg)
 
  
 

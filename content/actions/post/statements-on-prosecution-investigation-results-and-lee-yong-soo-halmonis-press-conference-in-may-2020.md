@@ -15,23 +15,23 @@ For statements related to fake news: [http://womenandwar.net/kr/fake-news-correc
 
 **9.15 The Korean Council Statement on the prosecution’s investigation results**
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_1-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_1-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_2-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_2-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_3-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_3-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_4-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_4-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_5-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_5-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_6-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_6-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_7-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_7-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_8-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_8-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_9-1024x1024.jpg)
+![](https://r2.womenandwar.net/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_9-1024x1024.jpg)
 
 On September 14th, 2020, the prosecution announced the “Investigation results on charges against the Chongdaehyup and the Korean Council.” The so-called “allegations of the Korean Council’s accounting fraud,” which triggered the prosecution’s investigation, have been found be groundless, and not legally problematic. As allegations raised indiscriminately over the past four months, such as "misappropriation of subsidies and donations,” are found to be groundless, we urge the media to take responsibilities for its false reports.
 

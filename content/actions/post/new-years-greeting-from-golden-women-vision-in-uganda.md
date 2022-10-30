@@ -11,7 +11,7 @@ tags:
   - "uganda"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/01/ukanda-pyeonghwahaengjin-2-koldeunumeonbijyeon-seutaepeu-ochollawangachollijokdaepyo-kinyeomsajin-1.jpg)
+![](https://r2.womenandwar.net/2019/01/ukanda-pyeonghwahaengjin-2-koldeunumeonbijyeon-seutaepeu-ochollawangachollijokdaepyo-kinyeomsajin-1.jpg)
 
 The Butterfly Fund works with organizations that support survivors of sexual violence in conflict in Uganda.
 

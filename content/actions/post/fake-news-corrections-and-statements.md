@@ -251,11 +251,11 @@ The Korean Council for Justice and Remembrance for the Issues of Military Sexual
 
 **7.15 The Korean Council Statement on Corrections of False Reports by the Chosun Ilbo, Chosun Biz, JoongAng Ilbo** 
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/7.15-조선일보-정정보도.jpg)
+![](https://r2.womenandwar.net/2020/07/7.15-조선일보-정정보도.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/7.15-조선비즈-정정보도.jpg)
+![](https://r2.womenandwar.net/2020/07/7.15-조선비즈-정정보도.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/7.15-중앙일보-정정보도.jpg)
+![](https://r2.womenandwar.net/2020/07/7.15-중앙일보-정정보도.jpg)
 
 On July 9, the Korean Council requested corrections of false reports published by the three press companies, to the Press Arbitration Commission. As a result, the Chosun Ilbo and Chosun Biz published corrections and JoongAng Ilbo published a correction and modified the title of the article.
 
@@ -509,7 +509,7 @@ Compulsory arbitration by the PAC: Modify title
 
 **7.3. The Korean Council’s Statement on Correction of False Report by the Seoul Economic Daily**
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/슬라이드2-1.jpg)
+![](https://r2.womenandwar.net/2020/07/슬라이드2-1.jpg)
 
 On June 15, the Korean Council submitted a request to the Press Arbitration Commission (PAC), demanding correction of and compensation for the report written by Heo Jin of the Seoul Economic Daily (SED). On July 2, the PAC ordered the SED to delete the article and post correction of Heo Jin’s article titled ‘\[Exclusive\] Where Did the 30 million KRW Go, the Government Subsidy the Korean Council Claimed to Return, but Missing from Accounts?’ On July 3, following the arbitration of the PAC, SED deleted the report and published a correction on the society section.
 
@@ -654,7 +654,7 @@ Department in charge: Women's Policy Officer of the Women's and Family Policy Af
 
 ※ Detailed execution details
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/03/image.png)
+![](https://r2.womenandwar.net/2021/03/image.png)
 
 ○ The food and refreshment expenses are necessary expenses for the development of the Citizen Social Participation History Program which was part of the ‘Memorial Statue Installation Project,’ and were properly executed in accordance with the subsidy project standard unit price (meal expenses 8,000 won, refreshment expenses 4,000 won).
 
@@ -708,7 +708,7 @@ Department in charge: Women's Policy Officer of the Women's and Family Policy Af
 ○ ‘기림비 설치사업(8천5백만원)’ 은 설치비(성평등기금)로 3천5백만원, 제막식 행사 비용 등으로 5천만원(민간경상사업보조비) 집행함.  
 ※ 세부 집행내역
 
-![](https://womenandwar.net/kr/wp-content/uploads/kboard_attached/1/202006/5ef9a0f29585b5788003.png)
+![](https://r2.womenandwar.net/kboard_attached/1/202006/5ef9a0f29585b5788003.png)
 
 ○ 이 중, 식비·다과비 등은 ‘기림비 설치 사업’ 일환으로 추진한 시민사회참여역사프로그램 개발의 필요경비로, 보조금사업 기준단가(식비 8,000원, 다과비 4,000원)에 맞추어 적법하게 집행한 것임.
 
@@ -716,7 +716,7 @@ Department in charge: Women's Policy Officer of the Women's and Family Policy Af
 
 **6.25 Korean Council Statement on Submission of 2nd Mediation Request to the Press Arbitration Commission**
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/6.-25-언론중재위-영어.jpg)
+![](https://r2.womenandwar.net/2020/07/6.-25-언론중재위-영어.jpg)
 
 The Korean council has suffered from serious defamation by some of the media that have continuously produced false/distorted articles and caused irreversible damages to the reputation of the Korean Council. In order to give a warning to the irresponsible media coverage and request for more responsible and mature attitudes from the media, the Korean Council submitted its second mediation request to the Press Arbitration Commission to seek corrections of false reports and demand compensation for defamation of the Korean Council, regarding five articles produced by four new companies : Chosun Ilbo, JoongAng Ilbo, New Daily, and Seoul Economic Daily.
 
@@ -879,7 +879,7 @@ The Korean Council for the Women Drafted for Military Sexual Slavery by Japan
 
 **6.15 The Korean Council Statement on Submission of Mediation Request to the Press Arbitration Commission**
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/영어-일본어-입장문-이미지-0521-검찰-압수수색.jpg)
+![](https://r2.womenandwar.net/2020/07/영어-일본어-입장문-이미지-0521-검찰-압수수색.jpg)
 
 On June 15, the Korean Council for Justice and Remembrance for the Issues of Military Sexual slavery by Japan (the Korean Council, Chair of Board  Lee, Na-young) submitted a request of mediation to the Press Arbitration Commission to seek correction of false reports and compensation for damages. 
 

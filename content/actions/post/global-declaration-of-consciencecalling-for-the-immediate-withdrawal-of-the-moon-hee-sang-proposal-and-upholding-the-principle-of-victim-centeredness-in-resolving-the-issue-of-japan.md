@@ -9,27 +9,27 @@ tags:
   - "notice"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드1-2-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드1-2-1024x576.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드2-2-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드2-2-1024x576.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드3-2-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드3-2-1024x576.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드4-2-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드4-2-1024x576.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드5-2-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드5-2-1024x576.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드6-2-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드6-2-1024x576.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드7-2-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드7-2-1024x576.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드8-2-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드8-2-1024x576.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드9-2-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드9-2-1024x576.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드10-2-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드10-2-1024x576.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/12/슬라이드11-1-1024x576.jpg)
+![](https://r2.womenandwar.net/2019/12/슬라이드11-1-1024x576.jpg)
 
 **A Global Declaration of Conscience: Calling for the Immediate Withdrawal of the ‘Moon Hee-Sang Proposal’ and Upholding the Principle of Victim-Centeredness in Resolving the Issue of Japanese Military Sexual Slavery**
 

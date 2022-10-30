@@ -8,7 +8,7 @@ tags:
   - "victim-support"
 ---
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/04/photo_2021-04-01_18-08-21-577x1024.jpg)
+![](https://r2.womenandwar.net/2021/04/photo_2021-04-01_18-08-21-577x1024.jpg)
 
 On March 26th, 2021, our new staff member Jiwoo visited halmonis living in Gyeonggi province and Seoul. She shared the following personal reflection on her visits.
 

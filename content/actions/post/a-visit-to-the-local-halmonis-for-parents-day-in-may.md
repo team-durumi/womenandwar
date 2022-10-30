@@ -22,12 +22,12 @@ Korean version / 한국어 원문: [https://womenandwar.net/kr/5%ec%9b%94-%ec%96
 
 **(Translator: Cristy Youn)**
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/05/20210506_145806-1-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2021/05/20210506_145806-1-768x1024.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/05/20210506_155624-1-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2021/05/20210506_155624-1-768x1024.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/05/20210507_110323-1-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2021/05/20210507_110323-1-1024x768.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/05/20210507_111014-1-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2021/05/20210507_111014-1-768x1024.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/05/20210507_111802-1-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2021/05/20210507_111802-1-768x1024.jpg)

@@ -13,15 +13,15 @@ tags:
   - "kim-bok-dong"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/03/photo_2020-02-27_17-28-24-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2020/03/photo_2020-02-27_17-28-24-768x1024.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/03/photo_2020-02-27_17-28-22-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2020/03/photo_2020-02-27_17-28-22-768x1024.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/03/photo_2020-02-27_17-28-20-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2020/03/photo_2020-02-27_17-28-20-768x1024.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/03/photo_2020-02-27_17-28-26-1024x763.jpg)
+- ![](https://r2.womenandwar.net/2020/03/photo_2020-02-27_17-28-26-1024x763.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/03/photo_2020-02-27_17-28-30.jpg)
+- ![](https://r2.womenandwar.net/2020/03/photo_2020-02-27_17-28-30.jpg)
     
 
 Looking for ways to stand in solidarity with International Women's Day on March 8?

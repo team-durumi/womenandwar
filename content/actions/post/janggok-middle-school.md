@@ -10,13 +10,13 @@ tags:
   - "wednesday-demonstration"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/IMGP2712-1-1024x680.jpg)
+- ![](https://r2.womenandwar.net/2018/12/IMGP2712-1-1024x680.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/IMGP2713-1-1024x680.jpg)
+- ![](https://r2.womenandwar.net/2018/12/IMGP2713-1-1024x680.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/IMGP2974-1024x680.jpg)
+- ![](https://r2.womenandwar.net/2018/12/IMGP2974-1024x680.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2018/12/IMGP2980-1-1024x680.jpg)
+- ![](https://r2.womenandwar.net/2018/12/IMGP2980-1-1024x680.jpg)
     
 
 At the 1365th and 1366th Wednesday Demonstrations, students from Janggok Middle School shared drawings and poems to remember the Japanese military sexual slavery victims' activism that they learned about.

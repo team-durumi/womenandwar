@@ -10,22 +10,22 @@ tags:
   - "research-and-education"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/photo-2020-07-29-13-45-29_orig.jpg)
+- ![](https://r2.womenandwar.net/2020/08/photo-2020-07-29-13-45-29_orig.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/teacher-resource-guide-3rd-ed-5.jpg)
+- ![](https://r2.womenandwar.net/2020/08/teacher-resource-guide-3rd-ed-5.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/teacher-resource-guide-3rd-ed-4.jpg)
+- ![](https://r2.womenandwar.net/2020/08/teacher-resource-guide-3rd-ed-4.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/teacher-resource-guide-3rd-ed-3_orig-768x1024.jpg)
+- ![](https://r2.womenandwar.net/2020/08/teacher-resource-guide-3rd-ed-3_orig-768x1024.jpg)
     
 
 ESJF Teacher Resource Guide
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/photo-2020-07-29-13-50-08_orig-1024x845.jpg)
+- ![](https://r2.womenandwar.net/2020/08/photo-2020-07-29-13-50-08_orig-1024x845.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/photo-2020-07-29-09-59-12.jpg)
+- ![](https://r2.womenandwar.net/2020/08/photo-2020-07-29-09-59-12.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/students2020-07-29-14-02-37-3.jpg)
+- ![](https://r2.womenandwar.net/2020/08/students2020-07-29-14-02-37-3.jpg)
     
 
 ESJF Student Resource Guide

@@ -10,9 +10,9 @@ tags:
   - "vietnam"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/03/1551440488601-1024x1024.jpg)
+![](https://r2.womenandwar.net/2019/03/1551440488601-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/03/1551440487435-1024x1024.jpg)
+![](https://r2.womenandwar.net/2019/03/1551440487435-1024x1024.jpg)
 
 Subin Sim, a student at an international school in Vietnam, learned about the Japanese military sexual slavery issue and the victims of sexual violence by the Korean military during the U.S. War in Vietnam through reading the book _25 Years of Wednesdays_.
 

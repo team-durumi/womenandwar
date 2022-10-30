@@ -18,8 +18,8 @@ We are distributing the panel in PDF format to organizations who wish to use the
 📍To receive a Korean version, sign up here: [bit.ly/kcexhibit](http://bit.ly/kcexhibit)  
 📍To receive a Japanese version, sign up here: [https://forms.gle/rofYBUiqaKAodinu9](https://forms.gle/rofYBUiqaKAodinu9)
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/12/샘플_영어_2021_8_14_김학순_공개증언_30주년_기념_멀티전시_판넬-1-723x1024.jpg)
+- ![](https://r2.womenandwar.net/2021/12/샘플_영어_2021_8_14_김학순_공개증언_30주년_기념_멀티전시_판넬-1-723x1024.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/12/샘플_영어_2021_8_14_김학순_공개증언_30주년_기념_멀티전시_판넬-2-723x1024.jpg)
+- ![](https://r2.womenandwar.net/2021/12/샘플_영어_2021_8_14_김학순_공개증언_30주년_기념_멀티전시_판넬-2-723x1024.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/12/샘플_영어_2021_8_14_김학순_공개증언_30주년_기념_멀티전시_판넬-3-723x1024.jpg)
+- ![](https://r2.womenandwar.net/2021/12/샘플_영어_2021_8_14_김학순_공개증언_30주년_기념_멀티전시_판넬-3-723x1024.jpg)

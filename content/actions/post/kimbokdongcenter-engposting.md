@@ -21,17 +21,17 @@ tags:
 > 
 > dedicated to Japanese Military Sexual Slavery victims' history and movement for justice in memory of Kim Bok Dong
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/01/슬라이드1.jpg)
+![](https://r2.womenandwar.net/2020/01/슬라이드1.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/01/슬라이드2.jpg)
+![](https://r2.womenandwar.net/2020/01/슬라이드2.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/01/슬라이드3.jpg)
+![](https://r2.womenandwar.net/2020/01/슬라이드3.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/01/슬라이드4.jpg)
+![](https://r2.womenandwar.net/2020/01/슬라이드4.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/01/슬라이드5.jpg)
+![](https://r2.womenandwar.net/2020/01/슬라이드5.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/01/슬라이드6.jpg)
+![](https://r2.womenandwar.net/2020/01/슬라이드6.jpg)
 
 \*Please leave a note that the donation is for “Kim Bok-dong Center"
 

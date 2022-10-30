@@ -14,7 +14,7 @@ The Korean Council’s webinar program seeks to provide in-depth and intersectio
 
 #### Sign up for the webinars: [**bit.ly/kcweb21**](http://bit.ly/kcweb21)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/10/The-Korean-Council-Webinar-Series-2-683x1024.png)
+![](https://r2.womenandwar.net/2021/10/The-Korean-Council-Webinar-Series-2-683x1024.png)
 
 ### Webinar 1: Remembrance and redress
 
@@ -32,9 +32,9 @@ Sharon Cabusao, Executive Director, Lila-Pilipina, Philippines
 Judith Mirkinson, President, “Comfort Women” Justice Coalition, USA  
 Moderated by Yunji Hwang, Webinar Organizing Committee, Canada
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/The-Korean-Council-Webinar-Series-3-1-683x1024.png)
+- ![](https://r2.womenandwar.net/2021/10/The-Korean-Council-Webinar-Series-3-1-683x1024.png)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/The-Korean-Council-Webinar-Series-4-683x1024.png)
+- ![](https://r2.womenandwar.net/2021/10/The-Korean-Council-Webinar-Series-4-683x1024.png)
     
 
 ## Film Screening
@@ -47,4 +47,4 @@ Nov 4-6: My Name is Kim Bok-dong
 
 #### Sign up for the film screening: [**bit.ly/kcwebfilm**](https://bit.ly/kcwebfilm)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/10/The-Korean-Council-Webinar-Series-1-1-683x1024.png)
+![](https://r2.womenandwar.net/2021/10/The-Korean-Council-Webinar-Series-1-1-683x1024.png)

@@ -41,7 +41,7 @@ The victim-survivors of this case filed the lawsuit to the Seoul Central Distric
 
 **\* English: Attached PDF file**
 
-[ENG-2016\_Ga\_Hap\_505092\_30Jun2021](https://womenandwar.net/kr/wp-content/uploads/2021/07/ENG-2016_Ga_Hap_505092_30Jun2021.pdf)[다운로드하기](https://womenandwar.net/kr/wp-content/uploads/2021/07/ENG-2016_Ga_Hap_505092_30Jun2021.pdf)
+[ENG-2016\_Ga\_Hap\_505092\_30Jun2021](https://r2.womenandwar.net/2021/07/ENG-2016_Ga_Hap_505092_30Jun2021.pdf)[다운로드하기](https://r2.womenandwar.net/2021/07/ENG-2016_Ga_Hap_505092_30Jun2021.pdf)
 
   
 **\* Japanese: [http://justice.skr.jp/koreajudgements/30-1.pdf](http://justice.skr.jp/koreajudgements/30-1.pdf)**

@@ -8,11 +8,11 @@ categories:
   - "report"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/11/74335436_2758928547471474_6271098447722446848_o-1024x1024.jpg)
+- ![](https://r2.womenandwar.net/2019/11/74335436_2758928547471474_6271098447722446848_o-1024x1024.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/11/20191103_175632-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/11/20191103_175632-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/11/20191103_183445-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2019/11/20191103_183445-1024x768.jpg)
     
 
 11월 3일 오후 4시 수원 [#남문메가박스](https://www.facebook.com/hashtag/%EB%82%A8%EB%AC%B8%EB%A9%94%EA%B0%80%EB%B0%95%EC%8A%A4?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBKX5qkaNout_u6lJnQpRzGELN4eVfg1nW-KCiJi4lRRUycu-_C8JkiUZ0jNX4mSJRDGWYsfg6eG9ykflCgREHUXpmSzmucrznvAqf2ObCo8_dIAUXpdInOmPouj331TygEXKSlYR2TP3uttzoxbKDs-PwxjwBN9_UHjFwH9JFjFgfxbw9DoikquasMq06cdGZV3hBDYVgQowm2bi-GK3bf1EjTVLec8HgHJxXGcIvxagvGnjuURdrW3o2DvQafN8qensif9SBcOtdh_ajSrhiFfX7pdfR4rgjsZKv3hzHlA0Opw0z4pzAgBpDsbgEKMrjS87Qkz4p6_PwoN-NForRUOw&__tn__=%2ANKH-R) 영화관에서 [#수원시남북교류협력위원회](https://www.facebook.com/hashtag/%EC%88%98%EC%9B%90%EC%8B%9C%EB%82%A8%EB%B6%81%EA%B5%90%EB%A5%98%ED%98%91%EB%A0%A5%EC%9C%84%EC%9B%90%ED%9A%8C?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBKX5qkaNout_u6lJnQpRzGELN4eVfg1nW-KCiJi4lRRUycu-_C8JkiUZ0jNX4mSJRDGWYsfg6eG9ykflCgREHUXpmSzmucrznvAqf2ObCo8_dIAUXpdInOmPouj331TygEXKSlYR2TP3uttzoxbKDs-PwxjwBN9_UHjFwH9JFjFgfxbw9DoikquasMq06cdGZV3hBDYVgQowm2bi-GK3bf1EjTVLec8HgHJxXGcIvxagvGnjuURdrW3o2DvQafN8qensif9SBcOtdh_ajSrhiFfX7pdfR4rgjsZKv3hzHlA0Opw0z4pzAgBpDsbgEKMrjS87Qkz4p6_PwoN-NForRUOw&__tn__=%2ANKH-R) 주관으로 [#수원남북평화통일영화제](https://www.facebook.com/hashtag/%EC%88%98%EC%9B%90%EB%82%A8%EB%B6%81%ED%8F%89%ED%99%94%ED%86%B5%EC%9D%BC%EC%98%81%ED%99%94%EC%A0%9C?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBKX5qkaNout_u6lJnQpRzGELN4eVfg1nW-KCiJi4lRRUycu-_C8JkiUZ0jNX4mSJRDGWYsfg6eG9ykflCgREHUXpmSzmucrznvAqf2ObCo8_dIAUXpdInOmPouj331TygEXKSlYR2TP3uttzoxbKDs-PwxjwBN9_UHjFwH9JFjFgfxbw9DoikquasMq06cdGZV3hBDYVgQowm2bi-GK3bf1EjTVLec8HgHJxXGcIvxagvGnjuURdrW3o2DvQafN8qensif9SBcOtdh_ajSrhiFfX7pdfR4rgjsZKv3hzHlA0Opw0z4pzAgBpDsbgEKMrjS87Qkz4p6_PwoN-NForRUOw&__tn__=%2ANKH-R) 개막작 [#60만번의트라이](https://www.facebook.com/hashtag/60%EB%A7%8C%EB%B2%88%EC%9D%98%ED%8A%B8%EB%9D%BC%EC%9D%B4?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBKX5qkaNout_u6lJnQpRzGELN4eVfg1nW-KCiJi4lRRUycu-_C8JkiUZ0jNX4mSJRDGWYsfg6eG9ykflCgREHUXpmSzmucrznvAqf2ObCo8_dIAUXpdInOmPouj331TygEXKSlYR2TP3uttzoxbKDs-PwxjwBN9_UHjFwH9JFjFgfxbw9DoikquasMq06cdGZV3hBDYVgQowm2bi-GK3bf1EjTVLec8HgHJxXGcIvxagvGnjuURdrW3o2DvQafN8qensif9SBcOtdh_ajSrhiFfX7pdfR4rgjsZKv3hzHlA0Opw0z4pzAgBpDsbgEKMrjS87Qkz4p6_PwoN-NForRUOw&__tn__=%2ANKH-R) 영화상영과 윤미향 대표와 관객과의대화가 있었습니다.

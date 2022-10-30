@@ -30,37 +30,37 @@ categories:
 
 다음 달부터는 온라인뿐 아니라 현장에서도 뵐 수 있게 되기를 기대합니다. 정확히 발표가 나는 대로 알리겠습니다. 일본군성노예제 피해 할머니들이 그 끔찍한 기억을 새록새록 끄집어내며 증언하신 것은 다음 세대는 그런 일을 겪지 않기를 바라는 마음에서였습니다. 그 용기와 헌신을 기억하며 다시 평화로운 평화로를 만들어 나가도록 해야 할 것입니다. 평화로에서 만나요!
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환20211028_111818.png)
+- ![](https://r2.womenandwar.net/2021/10/크기변환20211028_111818.png)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환20211028_111912.png)
+- ![](https://r2.womenandwar.net/2021/10/크기변환20211028_111912.png)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환20211028_111953.png)
+- ![](https://r2.womenandwar.net/2021/10/크기변환20211028_111953.png)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환20211028_112033.png)
+- ![](https://r2.womenandwar.net/2021/10/크기변환20211028_112033.png)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환20211028_112139.png)
+- ![](https://r2.womenandwar.net/2021/10/크기변환20211028_112139.png)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9430.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9430.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9465.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9465.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9486.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9486.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9502.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9502.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9541.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9541.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9566.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9566.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9590.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9590.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9609.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9609.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9634.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9634.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9639.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9639.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/크기변환IMGP9644.jpg)
+- ![](https://r2.womenandwar.net/2021/10/크기변환IMGP9644.jpg)
     
 
 **호주 얀 루프 오헤른 할머니 추모시\_신준식 사단법인 한국문화교육센터(Korean Cultural Centre Inc.)와 시드니 평화의 소녀상 연대(Friends of “Comfort Women” in Sydney) 활동가**

@@ -9,7 +9,7 @@ tags:
   - "newsletter"
 ---
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/07/002-724x1024.jpg)
+![](https://r2.womenandwar.net/2021/07/002-724x1024.jpg)
 
 The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan (Chair of Board Lee, Na-Young, hereinafter the Korean Council) carries out various project for resolution of the Japanese military sexual slavery issue and promotion of human rights and peace, including Wednesday Demonstration for Just Resolution of the Japanese Military Sexual Slavery Issue, establishment of Statue of Peace and War and Women’s Human Rights Museum, domestic and international campaigns.
 

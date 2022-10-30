@@ -8,9 +8,9 @@ categories:
 
 1500차 수요시위 자료집 E-BOOK: [https://issuu.com/womenandwar.kc/docs/1500\_](https://issuu.com/womenandwar.kc/docs/1500_)  
 
-[1500차 수요시위 자료집](https://womenandwar.net/kr/wp-content/uploads/2021/07/1500차-수요시위-자료집.pdf)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2021/07/1500차-수요시위-자료집.pdf)
+[1500차 수요시위 자료집](https://r2.womenandwar.net/2021/07/1500차-수요시위-자료집.pdf)[다운로드](https://r2.womenandwar.net/2021/07/1500차-수요시위-자료집.pdf)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/07/photo_2021-07-14_16-58-28-1024x643.jpg)
+![](https://r2.womenandwar.net/2021/07/photo_2021-07-14_16-58-28-1024x643.jpg)
 
 1500차 일본군성노예제 문제해결을 위한 수요시위는 코로나19 방역수칙이 4단계로 격상됨에 따라 1인시위 형식으로 진행되었습니다. 주최, 주관은 정의기억연대가 했으며 사회는 정의연 강혜정 이사가 보았습니다. 모든 영상은 온라인으로만 송출하였고 그동안 평화로에서는 정의연 활동가들과 자원활동가들이 피켓을 들고 1인시위를 진행하였습니다.
 
@@ -36,50 +36,50 @@ categories:
 
 1500차를 넘어 평화로운 세상을 만들 때까지 함께해주세요~!
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환20210713_162616.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환20210713_162616.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환20210713_162627.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환20210713_162627.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환20210713_162639.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환20210713_162639.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환20210713_173146.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환20210713_173146.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환20210713_173228.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환20210713_173228.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환20210714_112227_HDR.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환20210714_112227_HDR.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환20210714_113630.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환20210714_113630.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP5895.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP5895.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP5937.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP5937.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP5947.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP5947.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP5967.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP5967.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP5972.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP5972.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP5997.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP5997.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP6021.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP6021.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP6030.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP6030.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP6065.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP6065.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP6076.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP6076.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP6083.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP6083.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP6111.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP6111.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/크기변환IMGP6150.jpg)
+- ![](https://r2.womenandwar.net/2021/07/크기변환IMGP6150.jpg)
     
 
 **<프로그램>**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/07/dd-1024x856.jpg)
+![](https://r2.womenandwar.net/2021/07/dd-1024x856.jpg)
 
 **1\. 성명서 (한/영/일) 전문**
 
@@ -221,7 +221,7 @@ https://youtu.be/J1Lsl4C5KQg
 
 * * *
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/07/1500수요시위당일안내-002-724x1024.png)
+![](https://r2.womenandwar.net/2021/07/1500수요시위당일안내-002-724x1024.png)
 
 🦋1500인이 주관하는 1500차 일본군성노예제 문제해결을 위한 수요시위:  
 **연대의 힘은 바위처럼 강하다**
@@ -233,22 +233,22 @@ https://youtu.be/J1Lsl4C5KQg
 💜유튜브 바로가기 [youtube.com/thekoreancouncil](http://youtube.com/thekoreancouncil)  
 💛인증샷 이벤트 #1500차수요시위인증샷 #1500차수요시위
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/07/photo_2021-07-13_11-02-09-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/07/photo_2021-07-13_11-02-09-1024x1024.jpg)
 
 * * *
 
 ****일본군성노예제 문제해결을 위한 1500차 수요시위****  
 **\-1500인이 주관하는 1500차 일본군성노예제 문제해결을 위한 수요시위: 연대의 힘은 바위처럼 강하다-**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/06/웹포스터210531_1500차-수요시위-행사-종합안내-724x1024.jpg)
+![](https://r2.womenandwar.net/2021/06/웹포스터210531_1500차-수요시위-행사-종합안내-724x1024.jpg)
 
 **행사 한 눈에 보기**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/05/웹포스터210528_홈페이지썸네일_한글-1024x1024.png)
+![](https://r2.womenandwar.net/2021/05/웹포스터210528_홈페이지썸네일_한글-1024x1024.png)
 
 **📌1. 1500차 수요시위 기념 <나와 수요시위> 에세이 공모전(~6/30)**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/05/1500차-수요시위-에세이-공모전-한국어-포스터-724x1024.jpg)
+![](https://r2.womenandwar.net/2021/05/1500차-수요시위-에세이-공모전-한국어-포스터-724x1024.jpg)
 
 1992년 1월 8일 미야자와 전 일본 총리의 방한을 앞두고 시작된 수요시위가 2021년 7월 14일 1500차를 맞이합니다. 그 동안 수요시위는 전쟁범죄 인정, 진상규명, 공식사죄, 법적배상, 책임자 처벌, 역사교과서 기록, 추모비 및 사료관 건립의 일곱 가지 요구를 바탕으로 피해자들의 인권과 존엄 회복을 요구하는 활동의 장이자, 평화와 여성인권을 이야기하는 교육의 장으로 자리매김 했습니다. 수요시위에 참여해주시고, 연대해주신 여러분들 덕분에 함께 연대와 평화, 인권의 역사를 쓸 수 있었습니다.  
 정의기억연대에서는 수요시위 참여자들의 생생한 경험담을 기록하고, 수요시위가 각자에게 가지는 의미를 되새기고자 국내외 학생 및 일반인들을 대상으로 1500차 수요시위 기념 <나와 수요시위> 에세이 공모전을 개최합니다. 수요시위 참여 경험담, 수요시위를 통해 배운 점, 기록으로 남기고 싶은 다양한 수요시위 관련 이야기 등 자유롭게 수요시위에 대한 추억과 생각을 들려주세요. 매주 수요일 12시, 평화로에서 만난 다양한 참여자들의 이야기를 기억하고자 합니다. 일본군 성노예제 문제의 정의로운 해결을 위한 수요시위에 참여해 오신 학생 및 시민 여러분들의 목소리를 기다립니다.
@@ -267,11 +267,11 @@ https://youtu.be/J1Lsl4C5KQg
 **◼ 제출 방법:** 이메일 접수만 받습니다. 정의연 이메일: info@womenandwar.net  
 **◼ 문의:** 전화 02-365-4016 / 이메일: info@womenandwar.net
 
-[양식-2021-1500차수요시위에세이공모\_지원신청서](https://womenandwar.net/kr/wp-content/uploads/2021/05/양식-2021-1500차수요시위에세이공모_지원신청서.docx)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2021/05/양식-2021-1500차수요시위에세이공모_지원신청서.docx)
+[양식-2021-1500차수요시위에세이공모\_지원신청서](https://r2.womenandwar.net/2021/05/양식-2021-1500차수요시위에세이공모_지원신청서.docx)[다운로드](https://r2.womenandwar.net/2021/05/양식-2021-1500차수요시위에세이공모_지원신청서.docx)
 
 **📌2. 1500차 수요시위 공동주관인 모집(~7/7) & 유튜브 라이브**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/05/웹포스터210528_1500인-공동주관-모집-724x1024.jpg)
+![](https://r2.womenandwar.net/2021/05/웹포스터210528_1500인-공동주관-모집-724x1024.jpg)
 
 1992년 1월 8일 첫 번째 수요시위가 시작되고 29년, 일본군성노예제 피해생존자들, 그리고 정의로운 해결을 바라는 시민들은 1500번 평화로에 모였고 1500번 일본정부에 공식사죄, 법적배상을 외쳤습니다. 그동안 역사를 지우려는 일본정부와 국내외 역사부정 세력들의 수많은 공격과 방해가 있었습니다. 일본정부와 정치인의 계속되는 망언, 1995년 국민기금, 2015 한일합의, 2020년 독일 베를린 평화비 철거 압박 등 역사를 지우려는 행태가 계속될수록 피해생존자들과 시민들은 더욱더 수요시위로 똘똘 뭉쳐 규탄하고 호소하고 외쳤습니다. 그렇게 수요시위는 더욱 크고 강한 연대로 바위처럼 굳세게 평화로를 지켰습니다. 우리는 더욱 강해질 것입니다. 1500차를 넘어 평화로운 세상을 만들 때까지 우리는 함께할 것입니다. 1500차 수요시위 공동주관인으로 함께해주세요!
 
@@ -289,7 +289,7 @@ https://youtu.be/J1Lsl4C5KQg
 
 **📌3. 전쟁과여성인권박물관 시민기록물 수집 캠페인 안내(~8/14)**
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/05/photo_2021-05-27_16-45-40-724x1024.jpg)
+![](https://r2.womenandwar.net/2021/05/photo_2021-05-27_16-45-40-724x1024.jpg)
 
 2021년은 김학순 공개증언 30주년&수요시위 1500차를 맞는 해입니다. 우리 모두를 일깨운 김학순의 용기있는 증언과 시민 여러분의 오랜 연대를 증명하는 수요시위를 기억하고자 기록물 수집 캠페인을 진행합니다. 김학순을 기억하고 수요시위에 참여했던 여러분의 소중한 기억과 기록을 나누어 주세요. 전쟁과여성인권박물관에서 관리하고 보존하여 미래로 이어지도록 하겠습니다.  
 (\*수집된 기록물은 박물관 전시·디지털 아카이브·출판 등에 활용될 수 있습니다.)

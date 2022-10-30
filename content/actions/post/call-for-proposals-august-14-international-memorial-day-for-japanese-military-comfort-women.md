@@ -6,7 +6,7 @@ categories:
   - "report"
 ---
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/05/photo_2021-05-06_17-46-42-1024x1024.jpg)
+![](https://r2.womenandwar.net/2021/05/photo_2021-05-06_17-46-42-1024x1024.jpg)
 
 **Call for Proposals:**
 
@@ -46,8 +46,8 @@ The Korean Council for Justice and Remembrance for the Issues of Military Sexual
 
 \***Please note that only 1 person in charge needs to fill out and submit the Agreement to Collect and Use Personal Information.**
 
-[Aug-14-Call-for-Proposals](https://womenandwar.net/kr/wp-content/uploads/2021/05/Aug-14-Call-for-Proposals.docx)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2021/05/Aug-14-Call-for-Proposals.docx)
+[Aug-14-Call-for-Proposals](https://r2.womenandwar.net/2021/05/Aug-14-Call-for-Proposals.docx)[다운로드](https://r2.womenandwar.net/2021/05/Aug-14-Call-for-Proposals.docx)
 
-[Aug-14-Proposal-Form](https://womenandwar.net/kr/wp-content/uploads/2021/05/Aug-14-Proposal-Form.docx)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2021/05/Aug-14-Proposal-Form.docx)
+[Aug-14-Proposal-Form](https://r2.womenandwar.net/2021/05/Aug-14-Proposal-Form.docx)[다운로드](https://r2.womenandwar.net/2021/05/Aug-14-Proposal-Form.docx)
 
-[Aug-14-Agreement-to-Collect-and-Use-Personal-Information](https://womenandwar.net/kr/wp-content/uploads/2021/05/Aug-14-Agreement-to-Collect-and-Use-Personal-Information.docx)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2021/05/Aug-14-Agreement-to-Collect-and-Use-Personal-Information.docx)
+[Aug-14-Agreement-to-Collect-and-Use-Personal-Information](https://r2.womenandwar.net/2021/05/Aug-14-Agreement-to-Collect-and-Use-Personal-Information.docx)[다운로드](https://r2.womenandwar.net/2021/05/Aug-14-Agreement-to-Collect-and-Use-Personal-Information.docx)

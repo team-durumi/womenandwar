@@ -17,23 +17,23 @@ categories:
 
              The Korean Council also took part in the unveiling ceremony of the Statue of Peace at the University of Kassel on July 8, 4:30pm German time. The installation began with a proposal by the University of Kassel Student Association to establish the statue in time for the international contemporary art festival <Kassel Documenta>, which is held once every five years and visited by more than five million people. The student association hoped to raise awareness of the issue and prevent victims from being sacrificed under diplomatic interests. It is very meaningful that students had voluntarily planned the establishment, received permission from the university, and installed the statue in a public space within the university. The Korean Council, which has supported the installation, transportation, and exhibition of the Statue of Peace in Germany, has signed an agreement with Korea Verband and fundraising to support the costs of transporting the statue and relevant activities. We ask for your continued interest and support. Donation page (in Korean): [https://bit.ly/2wu2cpB](https://bit.ly/2wu2cpB)
 
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/62c415a52699b6869759.jpg)
+- ![](https://r2.womenandwar.net/2022/07/62c415a52699b6869759.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/62c415a53c4437336613.jpeg)
+- ![](https://r2.womenandwar.net/2022/07/62c415a53c4437336613.jpeg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/62c78eb5d65a61923799-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2022/07/62c78eb5d65a61923799-1024x768.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/62c78ef99b2ac5589722-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2022/07/62c78ef99b2ac5589722-1024x768.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/62c78f0edafe34614371-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2022/07/62c78f0edafe34614371-1024x768.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/62c7917bd78f91008006-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2022/07/62c7917bd78f91008006-1024x768.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/62c79303639577113514-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2022/07/62c79303639577113514-1024x768.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/photo_2022-07-12_10-51-09-1-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2022/07/photo_2022-07-12_10-51-09-1-1024x768.jpg)
     
-- ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/photo_2022-07-11_06-55-28-1-1024x768.jpg)
+- ![](https://r2.womenandwar.net/2022/07/photo_2022-07-11_06-55-28-1-1024x768.jpg)
     
 
 (Translated by Arim Lee)

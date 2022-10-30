@@ -10,7 +10,7 @@ tags:
   - "notice"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/01/캡처.jpg)
+![](https://r2.womenandwar.net/2020/01/캡처.jpg)
 
 Established in 1990, the Korean Council has worked for resolution of Japanese military sexual slavery issue for the past 30 years.  
 Please join us to welcome our 30th anniversary and continue the international solidarity for justice for "comfort women" victims, on the road of human rights, peace and hope!  

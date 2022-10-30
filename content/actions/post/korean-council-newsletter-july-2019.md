@@ -8,7 +8,7 @@ tags:
   - "notice"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/07/캡처.jpg)
+![](https://r2.womenandwar.net/2019/07/캡처.jpg)
 
 Learn about the Korean Council activities for just resolution of the Japanese military sexual slavery issue, with Korean Council Newsletter July 2019!
 

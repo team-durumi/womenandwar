@@ -11,7 +11,7 @@ tags:
   - "research-and-education"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/08/캡처.png)
+![](https://r2.womenandwar.net/2020/08/캡처.png)
 
 [https://mailchi.mp/6a5a7aee77fa/korean-council-newsletter-august-12484966](https://mailchi.mp/6a5a7aee77fa/korean-council-newsletter-august-12484966)
 

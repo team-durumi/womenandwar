@@ -12,7 +12,7 @@ tags:
   - "uganda"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/03/웹자보.jpeg)
+![](https://r2.womenandwar.net/2019/03/웹자보.jpeg)
 
 The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan (The Korean Council) calls for nominations of individuals or organizations for the 2019 Kim Bok-dong Peace Prize. Kim Bok-dong Peace Prize honors individuals or organizations that have been engaged in the movement to resolve the issue of sexual violence in armed conflict and ensure women’s human rights in armed conflict across the world. The Korean Council receives nominations till Friday, 26 April, 23:59 (Korea Standard Time) and will announce the winner on Wednesday 8 May through press release. The winner will be invited to attend the Korean Council’s event for the International Day for the Elimination of Sexual Violence in Conflict (19 June) in mid-June in Republic of Korea to receive the plaque and prize money of 5,000USD. The award ceremony will take place at the 1392nd Wednesday Demonstration for the Resolution of the Japanese Military Sexual Slavery Issue on 19 June, 2019.
 

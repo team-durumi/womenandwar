@@ -15,7 +15,7 @@ What comes to your mind when you think of the winter? For me, I th
 
 The presents that we had brought for halmoni on our visit seemed to have such feelings of winter. The iCOOP cooperative market of Seodaemun, Mapo, and Eun-pyung districts donated freshly made Kimchi for all halmonis. Guro Korea also donated quality rice as a present to halmonis. As a food that tastes great whether you boil, fry, or eat it raw, the kimchi would take care of most meals of halmonis this coming year. With this thought, we loaded a car full of kimchi to bring to halmonis.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/20211130_145754-1.jpg)
+![](https://r2.womenandwar.net/2021/12/20211130_145754-1.jpg)
 
 The world outside the car window was grey as the weather couldn’t seem to decide if it wanted to start raining. Ignoring this possibility of weather, we drove through the city, eventually reaching halmoni's house. Accompanying us on this trip was our youngest and newest activist at the Korean Council, Giraffe. Seeing the nervous look on Giraffe’s face, I recalled how I had felt the same during my first meeting with halmoni.
 
@@ -65,7 +65,7 @@ As we unpacked our presents that we had prepared for halmoni, she suddenly point
 
 Halmoni’s finger pointed to the surprised face of our board member whose hair only barely reached her ears. From then on, our board member had received the nickname of Mister from halmoni.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/image-4.png)
+![](https://r2.womenandwar.net/2021/12/image-4.png)
 
 (Left) Our board member with short hair
 
@@ -83,11 +83,11 @@ Even when she said her goodbyes to us,
 
 Despite it being her first time visiting halmoni, the board member had received the most attention from halmoni. Mister, Ppoka, Giraffe, and I all sat across from halmoni and presented her with the various gifts that we brought - Meat, rice, kimchi, and even a specially prepared winter coat for halmoni to wear.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/image-1.png)
+![](https://r2.womenandwar.net/2021/12/image-1.png)
 
 Due to the colder weather, Halmoni had not been able to visit her favorite park and had instead spent more time at home. Hoping that the coat will help her stay even just a little bit warmer, Ppoka helped her put the coat on.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/image-2.png)
+![](https://r2.womenandwar.net/2021/12/image-2.png)
 
 Halmoni put her hands inside the coat pocket and pulled something out.  
 **“Look, there is money in here.”**
@@ -108,7 +108,7 @@ Halmoni, noticing a new face in our activist crew, asked Giraffe about her homet
 
 When it was time to leave, halmoni each gave us her favorite vitamin drink along with a whole box of it for us to share with the other activists who couldn’t make it on the trip. Halmoni always tried to share the things that she enjoyed with us. While the vitamin drink was not special by itself, receiving it from halmoni made it special as we knew that all her love and care was inside each bottle she gave us. Halmoni waved goodbye at us as we left the apartment complex and drove away. Her waving figure reached all our hearts.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/image-6.png)
+![](https://r2.womenandwar.net/2021/12/image-6.png)
 
 Halmoni waving goodbye from her small window
 

@@ -10,7 +10,7 @@ tags:
   - "statue-of-peace"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/01/photo_2019-01-03_15-16-54-1024x768.jpg)
+![](https://r2.womenandwar.net/2019/01/photo_2019-01-03_15-16-54-1024x768.jpg)
 
 Statement on the Removal of Statue of Peace in the Philippines
 

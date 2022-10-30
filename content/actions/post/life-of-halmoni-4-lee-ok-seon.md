@@ -18,22 +18,22 @@ Lee Ok-seon halmoni attended the 1484th Wednesday Demonstration! Listen to her t
 
 Translated by: Arim Lee (이아림)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_4_이옥선_1-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_4_이옥선_1-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_4_이옥선_2-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_4_이옥선_2-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_4_이옥선_3-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_4_이옥선_3-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_4_이옥선_4-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_4_이옥선_4-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_4_이옥선_5-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_4_이옥선_5-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_4_이옥선_6-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_4_이옥선_6-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_4_이옥선_7-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_4_이옥선_7-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_4_이옥선_8-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_4_이옥선_8-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_4_이옥선_9-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_4_이옥선_9-1024x1024.png)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/12/영문211214_할머니의삶_4_이옥선_10-1024x1024.png)
+![](https://r2.womenandwar.net/2021/12/영문211214_할머니의삶_4_이옥선_10-1024x1024.png)

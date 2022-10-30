@@ -14,6 +14,6 @@ categories:
 
 양 기관은 ‘팔레스타인 여성 트라우마 힐링센터’ 이외에도, 정의연 나비기금을 통해 아디에서 진행하는 아시아지역 젠더폭력(GBV) 관련 사업에 포괄적으로 연대하기로 다짐하였고 그 결과를 한국의 시민사회에 공유하기로 하였다.
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/05/noname01.jpg)
+![](https://r2.womenandwar.net/2021/05/noname01.jpg)
 
-![](https://womenandwar.net/kr/wp-content/uploads/2021/05/noname01-1.jpg)
+![](https://r2.womenandwar.net/2021/05/noname01-1.jpg)
