@@ -53,7 +53,7 @@ SELECT
   ,c.`member_uid` AS 'uid'
   ,c.`member_display` AS 'author_name'
   ,c.`title`
-  ,SUBSTRING(c.`content`, 1, 255)
+  ,c.`content`
   ,c.`date` AS 'created'
   ,c.`update` AS 'updated'
   ,a.`file_name`
