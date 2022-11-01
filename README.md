@@ -21,7 +21,28 @@ imports:
 ## wordpress to hugo markdown
 - from xml 1309 
 - 공지사항 board류들 처리 이슈가 있음.
+- find & replce
+```
+http://womenandwar.net/kr/wp-content/uploads/2022/01 => https://r2.womenandwar.net/2022/01
+https://womenandwar.net/kr/wp-content/uploads//2022/10 => https://r2.womenandwar.net/2022/10
+```
 
+## files migration
+- 6.239 GiB
+```
+rclone sync --progress wdrive:backup/kr/wp-content/uploads/ ww:homepage
+rclone sync --progress {구글공유드라이브}:backup/kr/wp-content/uploads/ {정의연R2}:homepage
+```
+
+## R2
+- media.womenandwar.net
+| - 관련된 파일관리와 연결해서 홈페이지, 박물관, 함께사용
+| - https://media.womenandwar.net/logo/womenandwar_logo.png
+- 박물관 소장자료 및 item 파일들의 이동
+| - https://r2.womenandwarmuseum.net/ 
+- 홈페이지 워드프레스 파일 이동
+| - https://r2.womenandwar.net/ 
+- 관련된 요금 (cloudflare - 정의연 계정)
 
 ## post
 - wordpress post type은 활동소개
