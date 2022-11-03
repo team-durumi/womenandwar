@@ -18,6 +18,8 @@
 		"tailwindcss": "^2.2.7"
 	},
 	"dependencies": {
-		"google-spreadsheet": "^3.2.0"
+		"google-spreadsheet": "^3.2.0",
+		"json-to-frontmatter-markdown": "^1",
+		"turndown": "^7.1.1"
 	}
 }
