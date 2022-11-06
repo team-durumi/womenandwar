@@ -8,5 +8,5 @@ banner:
   imageLink: /img/pagebanner/about/greetings.jpg
   itemLink:
 ---
-정의연 인사말 교체 
+
 {{< about/greeting-message >}}

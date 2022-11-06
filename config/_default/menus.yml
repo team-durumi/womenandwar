@@ -54,26 +54,26 @@ main:
     url: /categories/this-week/
     weight: 2
     parent: 활동소개
-  - name: 연대사업
+  - name: 국내연대
     url: /categories/연대사업/
     weight: 3
     parent: 활동소개
-  - name: 나비기금
-    url: categories/나비기금/
+  - name: 해외연대
+    url: /categories/updates/
     weight: 4
-    parent: 활동소개
-  - name: 나비기금
-    url: categories/전시성폭력재발방지/
-    weight: 5
-    parent: 활동소개
+    parent: 활동소개   
   - name: 교육사업
     url: /categories/연구조사교육/
+    weight: 5
+    parent: 활동소개  
+  - name: 평화비
+    url: /categories/기림사업/
     weight: 6
     parent: 활동소개
-  - name: 평화비 건립
-    url: /categories/기림사업/
+  - name: 전시성폭력재발방지
+    url: categories/나비기금
     weight: 7
-    parent: 활동소개            
+    parent: 활동소개
 
   - name: 단체소식
     url: /connect

@@ -1,0 +1,28 @@
+{{ with site.Data.admission_guide.ko.소식참여 }}
+<div class="flex justify-between gap-5 mb-20">
+    <div class="text-aa-gray-50 bg-aa-gray-50 text-center py-10 flex-1">
+        <dl class="mb-6">
+            <dt class="text-aa-gray-700 font-bold text-3xl mb-6">{{ .정기후원신청하기.title }}</dt>
+            <dd class="leading-7 text-aa-gray-800 w-1/2 mx-auto">{{ .정기후원신청하기.body }}</dd>
+        </dl>
+        <a href="{{ .정기후원신청하기.link }}" class="py-3 px-6 bg-aa-purple-500 text-white hover:bg-black" target="_blank">{{ .정기후원신청하기.buttonLabel }}</a>
+    </div>
+    <div class="text-aa-gray-50 bg-aa-gray-50 text-center py-10 flex-1">
+        <dl class="mb-6">
+            <dt class="text-aa-gray-700 font-bold text-3xl mb-6">{{ .일시후원신청하기.title }}</dt>
+            <dd class="leading-7 text-aa-gray-800 w-1/2 mx-auto">{{ .일시후원신청하기.body }}<br/>&nbsp;
+            </dd>
+        </dl>
+        <a href="{{ .일시후원신청하기.link }}"
+         class="py-3 px-6 bg-aa-purple-500 text-white hover:bg-black" target="_blank">{{ .일시후원신청하기.buttonLabel }}</a>
+    </div>
+</div>
+<dl class="bg-aa-purple-500 text-white text-center py-10">
+    <dt class="font-bold text-3xl mb-6">{{ .후원문의.title }}</dt>
+    <dd class="leading-7">
+        {{ range .후원문의.body }}
+        {{ .}} <br/>
+        {{ end }}
+    </dd>
+</dl>
+{{ end }}

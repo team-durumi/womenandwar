@@ -9,4 +9,3 @@ banner:
   itemLink: /items/32층/기부자의벽/lhs_0794/
   
 ---
-살림살이

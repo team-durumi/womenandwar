@@ -8,7 +8,5 @@ banner:
   imageLink: /img/pagebanner/about/history.jpg
   itemLink: 
 ---
-운동사(연혁)
 
-https://womenandwar.net/kr/history-of-movement/
-{{< about/org-history >}}
+{{< comfort-women/history >}}
