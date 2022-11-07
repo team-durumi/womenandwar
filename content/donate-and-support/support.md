@@ -9,4 +9,4 @@ banner:
   itemLink:
 ---
 수요시위참여
-{{< archives/form--donate-materials >}}
+{{< donate-and-support/form--support-suyo >}}
