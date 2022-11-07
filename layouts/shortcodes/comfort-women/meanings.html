@@ -1,12 +1,95 @@
-<div class="lg:flex justify-center mb-20">
-    <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-4">“일본군 성노예제란 ?</h2>
+{{ with site.Data.comfort_women.ko }}
+<div class="lg:flex justify-center pt-12">
+    <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-4">{{ .definition.title }}</h2>
     <div class="text-lg">
-        <p class="mb-7">1930년대부터 1945년 일본의 패전에 이르기까지 일본군이 제도적으로 ‘군위안소’를 설치하여 점령지와 식민지 여성들을 동원해 성노예로 만든 범죄를 말합니다. 범죄의 주체인 일본군을 명기하고 역사적인 용어로서의 위안부를 따옴표 안에 넣어 일본군‘위안부’로 표기하며, 영어로는 Military Sexual Slavery by Japan 으로 표현하여 ‘성노예’라는 범죄의 본질을 드러내고 있습니다. </p>
-
-        <p class="mb-7 font-bold">[ 혼동되기 쉬운 단어 ] </p>
-
-        <p class="mb-7">* 종군위안부 : ‘종군’에는 자발적이었다는 의미가 포함되어 있습니다.</p>
-
-        <p class="mb-7">* 정신대 : 일본의 전시체제 돌입과 함께 조선의 노동력을 강제 동원한 제도를 말하며, 여성의 경우 여자(근로)정신대라는 이름으로 광범위하게 사용되었습니다.</p>
+        <p class="mb-7">{{ .definition.section_01.body }}</p>
+        <p class="mb-7 font-bold">[ {{ .definition.혼동되기쉬운단어.title }} ] </p>
+        {{ range .definition.혼동되기쉬운단어.body }}
+            <p class="mb-7">{{ . }}</p>
+        {{ end }}
     </div>
 </div>
+<div class="mb-20"> 
+    <ul class="flex flex-wrap pt-6">
+        <li class="lg:w-1/2 w-full">
+            <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                <img class="absolute w-full object-cover" src="{{ .definition.황금주.src }}" alt="{{ .definition.황금주.title }}">
+            </span>
+            <p class="mb-7 font-bold text-center">{{ .definition.황금주.title }}</p>
+        </li>
+        <li class="lg:w-1/2 w-full">
+            <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                <img class="absolute w-full" src="{{ .definition.피해자들.src }}" alt="{{ .definition.피해자들.title }}">
+            </span>
+            <p class="mb-7 font-bold text-center">{{ .definition.피해자들.title }}</p>
+        </li>
+    </ul>
+</div>
+<div class="mb-20">
+    <ul class="flex flex-wrap pt-6">
+        <li class="lg:w-1/2 w-full">
+            <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                <img class="absolute w-full object-cover" src="{{ .definition.군위안소종업부등모집에관한건.src }}" alt="{{ .definition.군위안소종업부등모집에관한건.title }}">
+            </span>
+            <p class="mb-7 font-bold text-center">{{ .definition.군위안소종업부등모집에관한건.title }}</p>
+        </li>
+        <li class="lg:w-1/2 w-full">
+            <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                <img class="absolute w-full" src="{{ .definition.일본군위안소분포도.src }}" alt="{{ .definition.일본군위안소분포도.title }}">
+            </span>
+            <p class="mb-7 font-bold text-center">{{ .definition.일본군위안소분포도.title }}</p>
+        </li>
+    </ul>
+    <p class="mt-7 mb-7">{{ .definition.section_02.body }}</p>
+</div>
+<div class="mb-20">
+    <ul class="flex flex-wrap pt-6">
+        <li class="lg:w-1/3 w-full">
+            <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                <img class="absolute w-full object-cover" src="{{ .definition.위안소에서사용된콘돔.src }}" alt="{{ .definition.위안소에서사용된콘돔.title }}">
+            </span>
+            <p class="mb-7 font-bold text-center">{{ .definition.위안소에서사용된콘돔.title }}</p>
+        </li>
+        <li class="lg:w-1/3 w-full">
+            <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                <img class="absolute w-full" src="{{ .definition.위안소규정.src }}" alt="{{ .definition.위안소규정.title }}">
+            </span>
+            <p class="mb-7 font-bold text-center">{{ .definition.위안소규정.title }}</p>
+        </li>
+        <li class="lg:w-1/3 w-full">
+            <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                <img class="absolute w-full" src="{{ .definition.위안소앞에서.src }}" alt="{{ .definition.위안소앞에서.title }}">
+            </span>
+            <p class="mb-7 font-bold text-center">{{ .definition.위안소앞에서.title }}</p>
+        </li>        
+    </ul>
+    {{ range .definition.section_03.body }}
+      <p class="mb-7">{{ . }}</p>
+    {{ end }}
+</div>
+<div class="mb-20">
+    <ul class="flex flex-wrap pt-6">
+        <li class="lg:w-1/3 w-full">
+            <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                <img class="absolute w-full object-cover" src="{{ .definition.위안소내부모습.src }}" alt="{{ .definition.위안소내부모습.title }}">
+            </span>
+            <p class="mb-7 font-bold text-center">{{ .definition.위안소내부모습.title }}</p>
+        </li>
+        <li class="lg:w-1/3 w-full">
+            <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                <img class="absolute w-full" src="{{ .definition.성병검진대.src }}" alt="{{ .definition.성병검진대.title }}">
+            </span>
+            <p class="mb-7 font-bold text-center">{{ .definition.성병검진대.title }}</p>
+        </li>
+        <li class="lg:w-1/3 w-full">
+            <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                <img class="absolute w-full" src="{{ .definition.박영심할머니.src }}" alt="{{ .definition.박영심할머니.title }}">
+            </span>
+            <p class="mb-7 font-bold text-center">{{ .definition.박영심할머니.title }}</p>
+        </li>        
+    </ul>
+    {{ range .definition.section_04.body }}
+      <p class="mb-7">{{ . }}</p>
+    {{ end }}
+</div>
+{{ end }}
