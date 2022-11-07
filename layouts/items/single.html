@@ -4,7 +4,49 @@
 <div class="contents-area" id="main-content">
   {{ partial "base/breadcrumb" . }}
   <div class="container pt-12 pb-28 relative">
-    
+    <!-- swiper -->
+    <div x-data="{swiper: null}"
+    x-init="swiper = new Swiper($refs.container, {
+        loop: false,
+        slidesPerView: 1,
+        spaceBetween: 40,
+        })"
+    class="relative mb-8"
+    >
+      <div class="absolute right-14 bottom-0 z-20">
+        <button @click="swiper.slidePrev()"
+                class="flex justify-center items-center text-white w-14 h-14 hover:text-aa-purple-500" style="background: rgba(0, 0, 0, 0.24);">
+        <svg viewBox="0 0 20 20" fill="currentColor" class="chevron-left w-6 h-6">
+          <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+        </svg>
+        </button>
+      </div>
+
+      <div class="swiper-container item-slider bg-aa-gray-50" x-ref="container">
+        <div class="swiper-wrapper">
+          <!-- Slides -->
+          <div class="swiper-slide">
+            <div class="overflow-hidden flex justify-center">
+              {{ $settings := .Site.Params }}
+              {{ range .Params.Components }}
+                {{ $fileExtension := index (last 1 (split . ".")) 0 }}
+                {{ $src := partial "base/cf-image.html" (dict "style" "full" "src" . "settings" $settings) }}
+                <img class="object-cover h-full" src="{{ $src }}" alt="{{ $.Title }}">
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="absolute right-0 bottom-0 z-20">
+        <button @click="swiper.slideNext()"
+                class="flex justify-center items-center text-white w-14 h-14 hover:text-aa-purple-500" style="background: rgba(0, 0, 0, 0.24);">
+          <svg viewBox="0 0 20 20" fill="currentColor" class="chevron-right w-6 h-6">
+            <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+    <!-- //swiper -->
     <div class="mb-20">
       {{ if .Params.Tags }}
       {{ range .Params.Tags }}

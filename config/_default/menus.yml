@@ -22,8 +22,8 @@ main:
     url: /about/greetings
     weight: 1
     parent: 단체소개
-  - name: 미션과 비전
-    url: /about/mission-and-vision
+  - name: 비전과 미션
+    url: /about/vision-and-mission
     weight: 2
     parent: 단체소개
   - name: 조직과 사람들

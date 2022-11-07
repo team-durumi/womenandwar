@@ -9,5 +9,4 @@ banner:
   itemLink:
 ---
 
-오시는 길
-{{< guide/location >}}
+{{< about/location >}}

@@ -1,5 +1,5 @@
 ---
-title: 미션과비전
+title: 비전과미션
 date: 2022-09-20
 layout: section_single
 banner:
@@ -9,4 +9,4 @@ banner:
   itemLink: /items/ex-02/운동사관/침묵을깨트리다/첫수요집회-사본/
 ---
 
-{{< about/missionvision >}}
+{{< about/visionmission >}}
