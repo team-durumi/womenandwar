@@ -1,0 +1,22 @@
+{{- $settings := .Site.Params -}}
+{{- $.Scratch.Add "index" slice -}}
+{{- range site.RegularPages -}}
+  {{- $data := dict
+    "title" .Title
+    "contents" .Plain
+    "permalink" .Permalink
+    "tags" .Params.tags
+    "categories" .Params.categories
+    "summary" .Params.summary
+  -}}
+  {{- with .Params.components -}}
+    {{- $image := partial "base/cf-image.html" (dict
+      "style" "thumb"
+      "src" (index . 0)
+      "settings" $settings
+    ) -}}
+    {{ $data = merge $data (dict "image" $image) }}
+  {{- end -}}
+  {{- $.Scratch.Add "index" $data -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

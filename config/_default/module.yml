@@ -6,3 +6,4 @@ imports:
 - path: github.com/team-durumi/theme-wwm
 - path: github.com/bep/hugo-starter-tailwind-basic/v2
 - path: github.com/team-durumi/tailwind-aa-theme
+- path: github.com/team-durumi/hugo-search-fuse-js-aa
