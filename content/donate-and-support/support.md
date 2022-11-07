@@ -8,5 +8,4 @@ banner:
   imageLink: /img/pagebanner/archive/donate.jpg
   itemLink:
 ---
-수요시위참여
 {{< donate-and-support/form--support-suyo >}}
