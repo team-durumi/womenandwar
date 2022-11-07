@@ -52,20 +52,20 @@
         {{ end }}      
   
         <li class="buttons-support xl:block hidden hover:bg-aa-purple-500 hover:text-white">
-          <a class="inline-block border px-7 py-3.5 rounded-sm text-center box-border" href="/connect/support/">후원하기</a>
+          <a class="inline-block border px-7 py-3.5 rounded-sm text-center box-border" href="{{ .Site.Params.donateTarget }}" target="_blank">후원하기</a>
         </li>
         <li class="button-newsletter px-2 xl:block hidden">
-          <a class="inline-block border px-7 py-3.5 rounded-sm text-center box-border" href="/connect/support/">뉴스레터</a>
+          <a class="inline-block border px-7 py-3.5 rounded-sm text-center box-border" href="{{ .Site.Params.stibee.subscriptionForm }}" target="_blank" >뉴스레터</a>
         </li>
       </ul>
       <!-- mobile menu -->
       <div class="mobile-menu mx-h-0 absolute left-0 w-full px-4 bg-white max-h-0 overflow-hidden transition-all duration-300" :class="{ 'max-h-screen': showMobileMenu }" style="top:70px">
         <div class="flex -mx-2 mt-4">
           <div class="mx-2 w-1/2">
-            <a class="block border border-aa-purple-500 text-aa-purple-500 px-7 py-3.5 text-center" href="/connect/support/">후원하기</a>
+            <a class="block border border-aa-purple-500 text-aa-purple-500 px-7 py-3.5 text-center" href="{{ .Site.Params.donateTarget }}" target="_blank">후원하기</a>
           </div>
           <div class="mx-2 w-1/2">
-            <a class="block border border-aa-gray-500 text-aa-gray-500 px-7 py-3.5 text-center" href="/search">뉴스레터</a>
+            <a class="block border border-aa-gray-500 text-aa-gray-500 px-7 py-3.5 text-center" href="{{ .Site.Params.stibee.subscriptionForm }}" target="_blank">뉴스레터</a>
           </div>          
         </div>
         <ul class="text-aa-gray-900 text-lg">

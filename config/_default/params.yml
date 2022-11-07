@@ -14,19 +14,18 @@ license:
   link_to_creator_profile: https://durumi.io
   year_of_creation: 2022
 
+donateTarget: https://online.mrm.or.kr/vcBt6wp
+
 bucketHostname: 'https://media.womenandwar.net'
-cfImagePrefix: 'https://kctu-photo.durumi.io/cdn-cgi/image'
+cfImagePrefix: 'https://durumi.io/cdn-cgi/image'
 cfImageStyles:
   thumb: 'fit=scale-down,width=300'
+  thumbStores: 'fit=scale-down,width=800'
   full: 'fit=scale-down,width=1920'
-  frontSlide: 'fit=cover,width=1920,height=1280'
-  thumb2by3: 'fit=cover,width=300,height=200'  
 
 featuredImages:
   - image1.png
   - image2.jpg
-
-bookingNaver: https://docs.google.com/forms/d/17Ao2Ly8M5YQT_dhy60_PXvN16XM6vohfoZn31lRvqeg/viewform?edit_requested=true
 
 footer:
   전화: 02-392-5252
@@ -44,13 +43,10 @@ googleFonts:
   - https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200&display=swap
   - https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;700&display=swap
 
-cfImagePrefix: 'https://durumi.io/cdn-cgi/image'
-cfImageStyles:
-  thumb: 'fit=scale-down,width=300'
-  thumbStores: 'fit=scale-down,width=800'
-  full: 'fit=scale-down,width=1920'
+
 
 stibee:
+  subscriptionForm: https://page.stibee.com/subscriptions/112752
   accessToken: DONTCOMMIT
   endpointSubscribe: 'https://page.stibee.com/api/v1.0/lists'
   listIdSubscribe: 112752
