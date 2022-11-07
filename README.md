@@ -40,7 +40,7 @@ rclone sync --progress {구글공유드라이브}:backup/kr/wp-content/uploads/ 
 | - https://media.womenandwar.net/logo/womenandwar_logo.png
 - 박물관 소장자료 및 item 파일들의 이동
 | - https://r2.womenandwarmuseum.net/ 
-- 홈페이지 워드프레스 파일 이동
+- 홈페이지 워드프레스 파일 이동(워드프레스 포스트, kboard 첨부파일, 이미지)
 | - https://r2.womenandwar.net/ 
 - 관련된 요금 (cloudflare - 정의연 계정)
 

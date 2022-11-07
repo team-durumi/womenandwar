@@ -23,7 +23,11 @@
       </span>
       <span class="lg:w-1/4 flex-shrink-0 mb-3 lg:mb-0">
         <span class="block overflow-hidden relative" style="padding-bottom:67.8%">
-          <img class="absolute h-full w-full object-cover" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
+          {{ if .Params.image }}
+            <img class="absolute h-full w-full object-cover" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
+          {{ else }}
+            <img class="absolute h-full w-full object-cover" src="/images/bg-404.png" alt="{{ .Title }}">
+          {{ end }}
         </span>
       </span>
     </a>
