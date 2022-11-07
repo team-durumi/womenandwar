@@ -10,7 +10,7 @@ html {
   header .logo{
     display:block;
     width:17.25rem;
-    height:3rem;
+    height:3.525rem;
     background:url(/images/logo.png) no-repeat 0 0;
     background-size:contain;
     text-indent:-9999px;
