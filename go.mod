@@ -7,5 +7,5 @@ require (
 	github.com/gohugoio/hugo-mod-heroicons v0.0.0-20221026065811-d924ae1bd579 // indirect
 	github.com/team-durumi/hugo-search-fuse-js-aa v0.0.0-20210628094619-e3ae4cfbf0b6 // indirect
 	github.com/team-durumi/tailwind-aa-theme v0.0.0-20211217133713-92022565cc93 // indirect
-	github.com/team-durumi/theme-wwm v0.0.0-20221106005713-ef7658f10f3b // indirect
+	github.com/team-durumi/theme-wwm v0.0.0-20221107030503-1873e66163c6 // indirect
 )
