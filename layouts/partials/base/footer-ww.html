@@ -1,0 +1,45 @@
+<footer class="bg-aa-gray-100">
+    <div class="container pt-8 lg:pt-20">
+      <div class="justify-between mb-16 leading-normal hidden lg:flex">
+        {{ range site.Menus.main }}
+        <dl>
+          <dt class="font-bold mb-2 text-aa-gray-900">{{ .Name }}</dt>
+          <dd>
+            {{ range .Children }}
+            <ul>
+              <li class="text-aa-gray-600 mb-2"><a href="{{ .URL | absURL }}">{{ .Name }} </a></li>
+            </ul>
+            {{ end }}
+          </dd>
+        </dl>
+        {{ end }}
+        <a class="flex h-10 justify-center items-center px-6 bg-aa-purple-500 text-white hover:bg-black" href="/search"><span class="mr-2">통합 검색</span><svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg></a>
+      </div>
+      <div class="lg:flex justify-between mb-14">
+        <div><a href="/" class="logo flex-shrink-0 z-20 mb-8 lg:mb-0" style="background-image : url(/img/logo-ww-footer.png)">{{ .Site.Title }}</a></div>
+        <address class="pt-2 text-aa-gray-600">
+          <span class="block mb-3">
+            <em class="not-italic mr-4 block lg:inline">기관명: {{ .Site.Title }}</em>
+            <em class="not-italic">주소: {{ .Site.Params.footer.주소 }}</em>
+          </span>
+          <span class="block mb-3">
+            <em class="not-italic mr-4 block lg:inline">이메일: <a href="mailto:{{ .Site.Params.footer.이메일 }}">{{ .Site.Params.footer.이메일 }}</a></em>
+            <em class="not-italic mr-4 block lg:inline">전화: {{ .Site.Params.footer.전화 }}</em>
+            <em class="not-italic">팩스: {{ .Site.Params.footer.팩스 }}</em>
+          </span>
+          <span class="block mb-3">
+            <em class="not-italic">고유번호: {{ .Site.Params.footer.고유번호 }}</em>
+          </span>
+          <span class="block mb-3">
+            <em class="not-italic">정의연 후원계좌: {{ .Site.Params.footer.후원계좌 }}</em>
+          </span>
+        </address>
+      </div>
+      <div class="py-3 border-t border-aa-gray-200 text-center text-aa-gray-500 -mx-4 lg:mx-0">
+        {{ .Site.Params.license.title_of_work }} ©{{ .Site.Params.license.year_of_creation }} All rights reserved.
+      </div>
+    </div>
+  </footer>
+  

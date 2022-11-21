@@ -1,0 +1,105 @@
+<header x-data="{ megaMenu: false }" class="header bg-white text-gray-700" {{ if .IsHome }} :class="{ 'bg-white text-gray-700': megaMenu }"{{ end }}>
+    <div class="absolute top-0 left-0 bg-white w-full z-10 transition-all duration-100 ease-linear" x-on:mouseleave="megaMenu = false"  :style="{ 'height' : (megaMenu ? '32rem' : '0') }"></div>
+    <div class="bg-aa-purple-500 text-white text-right lg:px-8 px-4 py-2 relative z-10 hidden lg:block">
+      <ul class="inline-flex">
+        <li class="rounded-full px-4 py-2 text-white bg-aa-purple-500 hover:bg-white hover:text-aa-gray-900 text-sm">
+          <a href="/">KR</a> 
+        </li>
+        <li class="rounded-full px-4 py-2 text-white bg-aa-purple-500 hover:bg-white hover:text-aa-gray-900 text-sm">
+          <a href="/guide/en-information">EN</a> 
+        </li>
+        <li class="rounded-full px-4 py-2 text-white bg-aa-purple-500 hover:bg-white hover:text-aa-gray-900 text-sm">
+          <a href="/guide/jp-information">日語</a>
+        </li>        
+      </ul>
+    </div>
+    <div class="mx-auto lg:px-8 px-8 lg:flex justify-between items-center h-24 z-10 relative" x-data="{ 'showMobileMenu': false }">
+      <a href="/" class="logo flex-shrink-0 z-20 absolute top-4 lg:static"
+        {{ if .IsHome }}
+          :style="{ backgroundImage : (megaMenu ? 'url(/images/logo-ww.png)' : 'url(/images/logo-ww.png)') }"
+        {{ else }}
+          style="background-image :url(/images/logo-ww.png)"
+        {{ end }}
+      >
+      정의기억연대
+      </a>
+      <a href="#" class="absolute right-4 top-6 lg:hidden" @click="showMobileMenu = !showMobileMenu">
+        <span class="burger" :class="{ 'flex': !showMobileMenu }"  x-show="!showMobileMenu">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <!-- <span class="ml-2">메뉴</span> -->
+        </span>
+        <span class="close" :class="{ 'flex': showMobileMenu }" x-show="showMobileMenu">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+          <!-- <span class="ml-2">닫기</span> -->
+        </span>
+      </a>
+      <ul class="menu-main lg:flex justify-end items-center whitespace-nowrap absolute left-0 top-16 lg:static w-full lg:w-auto px-4 lg:px-0 max-h-0 lg:max-h-full overflow-hidden lg:overflow-visible">
+        {{ range site.Menus.main }}
+        <li class="relative xl:mr-20 lg:mr-16">
+          <a class="block text-center text-lg leading-7 py-4 px-0" x-on:mouseover="megaMenu = true" href="#">{{ .Name }}</a>
+          <ul class="absolute left-1/2 top-20 text-gray-700 transform -translate-x-1/2 text-center z-20 max-h-0 opacity-0 transition-all duration-300 overflow-hidden" :class="{ 'max-h-96 opacity-100 block': megaMenu, 'hidden': !megaMenu }" x-on:mouseover="megaMenu = true">
+            {{ range .Children }}
+              <li>
+                <a class="block py-3 px-3 text-center hover:bg-aa-gray-200" href="{{ .URL | absURL }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
+          </ul>
+        </li>
+        {{ end }}      
+  
+        <li class="buttons-support xl:block hidden hover:bg-aa-purple-500 hover:text-white">
+          <a class="inline-block border px-7 py-3.5 rounded-sm text-center box-border" href="{{ .Site.Params.donateTarget }}" target="_blank">후원하기</a>
+        </li>
+        <li class="button-newsletter px-2 xl:block hidden">
+          <a class="inline-block border px-7 py-3.5 rounded-sm text-center box-border" href="{{ .Site.Params.stibee.subscriptionForm }}" target="_blank" >뉴스레터</a>
+        </li>
+      </ul>
+      <!-- mobile menu -->
+      <div class="mobile-menu mx-h-0 absolute left-0 w-full px-4 bg-white max-h-0 overflow-hidden transition-all duration-300" :class="{ 'max-h-screen': showMobileMenu }" style="top:70px">
+        <div class="flex -mx-2 mt-4">
+          <div class="mx-2 w-1/2">
+            <a class="block border border-aa-purple-500 text-aa-purple-500 px-7 py-3.5 text-center" href="{{ .Site.Params.donateTarget }}" target="_blank">후원하기</a>
+          </div>
+          <div class="mx-2 w-1/2">
+            <a class="block border border-aa-gray-500 text-aa-gray-500 px-7 py-3.5 text-center" href="{{ .Site.Params.stibee.subscriptionForm }}" target="_blank">뉴스레터</a>
+          </div>          
+        </div>
+        <ul class="text-aa-gray-900 text-lg">
+          {{ range site.Menus.main }}
+          <li class="border-b border-aa-gray-300" x-data="{ childMenu: false }">
+            <div class="flex justify-between items-center">
+              <a class="block text-lg leading-6 py-4" href="#">{{ .Name }}</a>
+              <a class="h-11 w-11 flex justify-center items-center" @click="childMenu = !childMenu" :class="{ 'transform rotate-180': childMenu }">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </a>
+            </div>
+            <ul class="text-aa-gray-700 text-base max-h-0 overflow-hidden transition-all duration-300" :class="{ 'max-h-96': childMenu }">
+              {{ range .Children }}
+                <li><a class="block mb-4" href="{{ .URL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ end }}
+        </ul>
+        <ul class="flex justify-center text-aa-gray-600 py-6">
+          <li>
+            <a href="">KO</a> <span class="mx-2">|</span>
+          </li>
+          <li>
+            <a href="">ENG</a> <span class="mx-2">|</span>
+          </li>
+          <li>
+            <a href="">日本語</a>
+          </li>
+        </ul>
+      </div>
+      <!-- //mobile menu -->
+    </div>
+  </header>
+    

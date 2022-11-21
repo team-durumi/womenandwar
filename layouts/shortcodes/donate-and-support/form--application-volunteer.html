@@ -1,0 +1,106 @@
+<!-- Form 봉사 / 재능기부 -->
+<div class="mx-auto text-aa-gray-800 text-lg leading-8" style="max-width:39rem">
+    <div class="text-base p-4 bg-aa-gray-100 mb-10">
+    일본군'위안부'문제 및 문제 해결을 위한 운동과 업무에 봉사 / 재능기부를 할 수 있습니다.
+    </div>
+    <div class="mb-10">
+        <h2 class="text-aa-gray-900 font-bold text-3xl mb-4">봉사 / 재능 기부 항목</h2>
+        <div>
+            <ol>
+                <li>1. 봉사/재능 의사 접수</li>
+                <li>2. 봉사/재능 참여 결정 및 협의</li>
+                <li>3. 봉사활동 / 재능기부 진행</li>
+                <li>4. 봉사/재능 증명서 발급</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="mb-10">
+        <h2 class="text-aa-gray-900 font-bold text-3xl mb-4">봉사 신청</h2>
+        <form class="text-base" x-data="donationRequestForm()" @submit.prevent="submit" id="donation-request">
+            <div class="mb-6">
+                <label class="block text-sm mb-1" for="name">이름<span class="text-aa-purple-500">(필수)</span></label>
+                <input class="block w-full h-12 bg-aa-gray-100 px-3" type="text" name="name" id="name" x-model="formData.name" placeholder="본인 이름을 작성해주세요" required>
+            </div>
+            <div class="mb-6">
+                <label class="block text-sm mb-1" for="email">이메일<span class="text-aa-purple-500">(필수)</span></label>
+                <input class="block w-full h-12 bg-aa-gray-100 px-3" type="email" name="donation_email" id="donation_email" x-model="formData.email" placeholder="자주 사용하시는 이메일을 남겨주세요" required>
+            </div>
+            <div class="mb-6">
+                <label class="block text-sm mb-1" for="phone">전화번호<span class="text-aa-purple-500">(필수)</span></label>
+                <input class="block w-full h-12 bg-aa-gray-100 px-3" type="text" name="phone" id="phone" x-model="formData.phone" placeholder="연락가능한 전화번호를 남겨주세요" required>
+            </div>
+            <div class="mb-6">
+                <label class="block text-sm mb-1" for="address">주소(거주하는 곳)<span class="text-aa-purple-500">(필수)</span></label>
+                <input class="block w-full h-12 bg-aa-gray-100 px-3" type="text" name="address" id="address" x-model="formData.address" placeholder="자료 발송을 위해 필요합니다." required>
+            </div>
+            <div class="mb-6">
+                <label class="block text-sm mb-1" for="message">봉사/재능기부 항목 및 하고 싶은 일<span class="text-aa-purple-500">(필수)</span></label>
+                <textarea class="block w-full bg-aa-gray-100 p-3 h-20" type="text" name="message" id="message" x-model="formData.message" placeholder="설명을 남겨주세요" required></textarea>
+            </div>
+            <div class="mb-3 p-3 bg-aa-gray-100">
+                (재)일본군성노예제문제해결을위한정의기억연대는 개인정보보호법 등 관련법령상의 개인정보보호 규정을 준수하며, 개인정보 취급에 대한 사항은 다음과 같습니다.<br/><br/>
+
+                수집.이용항목: 기증자 이름, 이메일, 전화번호, 주소(거주하는 곳)<br/>
+                수집.이용목적: 본인확인, 개인식별, 부정이용방지, 민원처리 등<br/><br/>
+
+                개인정보 보유.이용기간: 신청인의 개인정보는 수집 및 이용목적이 달성되면 지체 없이 파기합니다.<br/>
+                동의 거부 권리 및 거부할 경우의 불이익: 신청인은 개인정보 수집 및 이용에 동의하지 않을 수 있습니다. 단, 동의 거부 시에는 자료 열람 및 활용에 제한이 있습니다.
+            </div>
+            <div class="flex items-center mb-10 overflow-hidden" x-data="{ checked: false}">
+                <input class="w-0 absolute -left-96" type="checkbox" name="donation_agree" id="donation_agree" x-model="checked" required>
+                <span class="inline-flex items-center mr-3 h-5 w-5 text-center leading-4 border border-aa-gray-200 rounded-sm" :class="{ 'bg-aa-purple-500 border-aa-purple-500': checked }" @click="checked = !checked">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                </span>
+                <label for="donation_agree">봉사/재능기부 신청을 위해 개인정보수집 및 이용에 동의합니다.</label>
+            </div>
+            <div class="text-center">
+                <button type="submit" x-text="buttonText" class="h-10 px-6 bg-aa-purple-500 text-white hover:bg-black">신청</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+	const FORM_URL = "/.netlify/functions/gsheet";
+  function donationRequestForm() {
+    return {
+      formData: {
+        name: "",
+        email: "",
+        phone: "",        
+        address: "",
+        message:"",
+      },
+      buttonText: "신청",
+      submit() {
+        this.buttonText = "접수중입니다.";
+        fetch(FORM_URL, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+          },
+          body: JSON.stringify(this.formData),
+        })
+				.then(res => res.json())
+        .then(returnData => {
+          if (confirm("접수가 완료되었습니다. 기증 신청을 추가로 진행하시겠습니까?") == true) {
+            document.querySelector('#donation-request').reset();
+          } else {
+            location.href = '/';
+          } 
+        })
+        .catch(() => {
+          alert("오류가 있습니다. ");
+          location.href = '/';
+        })
+        .finally(() => {
+          this.buttonText = "접수가 완료되었습니다";
+        });
+      },
+    };
+  }
+</script>            

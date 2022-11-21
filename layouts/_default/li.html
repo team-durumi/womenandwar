@@ -1,16 +1,22 @@
 {{ if eq .Parent.RelPermalink "/connect/notice/" }}
-	<li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
-		<a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
-		<span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
-		<span class="w-1/6 text-center">{{ .Params.Author }}</span>
-	</li>  
-{{ else if eq .Parent.RelPermalink "/connect/press-release/"  }}
-	<li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
-		<a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
-		<span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
-		<span class="w-1/6 text-center">{{ .Params.Author }}</span>
-	</li>  
-{{ else }}  
+  <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
+    <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
+    <span class="w-1/6 text-center">{{ .Params.Author }}</span>
+  </li>
+{{ else if eq .Parent.RelPermalink "/connect/press-release/" }}
+  <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
+    <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
+    <span class="w-1/6 text-center">{{ .Params.Author }}</span>
+  </li>
+{{ else if eq .Parent.RelPermalink "/about/budget/" }}
+  <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
+    <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
+    <span class="w-1/6 text-center">{{ .Params.Author }}</span>
+  </li>
+{{ else }}
   <li class="mb-12">
     <a href="{{ .Permalink }}" class="flex flex-col-reverse lg:flex-row lg:items-center lg:justify-between">
       <span class="lg:w-3/4 text-aa-gray-500 flex-shrink-0 lg:pr-5">
@@ -23,7 +29,11 @@
       </span>
       <span class="lg:w-1/4 flex-shrink-0 mb-3 lg:mb-0">
         <span class="block overflow-hidden relative" style="padding-bottom:67.8%">
-          <img class="absolute h-full w-full object-cover" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
+          {{ if .Params.image }}
+            <img class="absolute h-full w-full object-cover" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
+          {{ else }}
+            <img class="absolute h-full w-full object-cover" src="/images/bg-404.png" alt="{{ .Title }}">
+          {{ end }}
         </span>
       </span>
     </a>

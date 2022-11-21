@@ -1,0 +1,42 @@
+{{ define "main" }}
+  {{ if eq .RelPermalink "/about/budget/" }}
+  <div class="contents-area" id="main-content">
+    {{ partial "base/breadcrumb" . }}
+    <div class="container pt-12 pb-28 relative">
+      <h1 class="text-4xl mb-4 font-bold mb-8">{{ .Title }}</h1>
+      {{ partial "marketing/sharingbutton" . }}
+
+      {{ if ne .RelPermalink "/about/budget/" }}
+        {{ partial "marketing/banner--section-single" . }}
+      {{ end }}
+
+      <div class="flex text-sm text-aa-700 py-2 border-aa-purple-500 border-b-2">
+        <span class="w-4/6 text-center">제목</span>
+        <span class="w-1/6 text-center">날짜</span>
+        <span class="w-1/6 text-center">작성자</span>
+      </div>
+      {{ $paginator := .Paginate .RegularPagesRecursive }}
+      <ul class="mb-20"> 
+        {{ range where .Pages "Params.pinned" true }}
+          {{ .Render "li" }}
+        {{ end }}
+        {{ range $paginator.Pages }}
+          {{ .Render "li" }}
+        {{ end }}
+      </ul>
+      {{ partial "app/pagination.html" $paginator }}
+
+    </div>
+  </div>
+  {{ else }}
+  <div class="contents-area" id="main-content">
+    {{ partial "base/breadcrumb" . }}
+    <div class="container pt-12 pb-28 relative">
+      <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">{{ .Title }}</h1>
+      {{ partial "marketing/sharingbutton" . }}
+      {{ partial "marketing/banner--section-single" . }}
+      {{ .Content }}
+    </div>
+  </div>
+  {{ end }}
+{{ end }}

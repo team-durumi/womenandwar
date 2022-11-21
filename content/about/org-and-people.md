@@ -8,6 +8,5 @@ banner:
   imageLink: /img/pagebanner/about/greetings.jpg
   itemLink:
 ---
-조직과 사람들
 
-{{< about/greeting-message >}}
+{{< about/organization >}}

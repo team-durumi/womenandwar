@@ -40,9 +40,18 @@ rclone sync --progress {구글공유드라이브}:backup/kr/wp-content/uploads/ 
 | - https://media.womenandwar.net/logo/womenandwar_logo.png
 - 박물관 소장자료 및 item 파일들의 이동
 | - https://r2.womenandwarmuseum.net/ 
-- 홈페이지 워드프레스 파일 이동
+- 홈페이지 워드프레스 파일 이동(워드프레스 포스트, kboard 첨부파일, 이미지)
 | - https://r2.womenandwar.net/ 
 - 관련된 요금 (cloudflare - 정의연 계정)
+
+## R2 - New homepage
+- 다년간 이런 방식으로 미디어 관리를 하고, 내부에서 생겨날 문제를 해결해야 함. 
+- 22/1105/filename.jpg
+- https://media.womenandwar.net/web/brand/womenandwar_logo.png
+- 홈페이지에 쓰이는 모든 사진파일도, 박물관의 경험으로 미뤄보아 자료로 남아있는 items 혹은 새로 생성된 poster에서 나온 사진일 가능성이 많으므로 
+```
+rclone sync --progress /Users/woonjjang/durumi/womenandwar/media ww:media
+```
 
 ## post
 - wordpress post type은 활동소개

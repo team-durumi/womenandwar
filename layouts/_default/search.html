@@ -1,0 +1,98 @@
+{{ define "main" }}
+    {{/*  contents-area  */}}
+    <div class="contents-area" id="main-content">
+      {{/*  header  */}}
+      <div class="container pt-12 pb-12">
+          <h1 class="text-4xl text-black mb-12 font-bold">통합검색</h1>
+          <form action="{{ .RelPermalink }}" class="flex justify-between items-center bg-aa-gray-100 h-14 rounded">
+              <label for="search-query" class="w-0 h-0 absolute text-aa-gray-100 overflow-hidden">검색어</label>
+              <input type="text" class="text bg-transparent flex-grow pl-3" id="search-query" name="q" placeholder="검색어">
+              <button class="flex-shrink-0 w-10 h-10">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                  </svg>
+              </button>
+          </form>
+      </div>
+      {{/*  //header  */}}
+      {{/*  contents  */}}
+      <div class="bg-aa-gray-100 pt-12 pb-28">
+          <div class="container" id="search-results">
+          </div>
+      </div>
+      {{/*  //contents  */}}
+  </div>
+  {{/*  //contents-area  */}}
+
+<div id="wait" class="flex justify-center absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 items-center hidden">
+  <div class="animate-spin rounded-full h-32 w-32 border-b-8 border-blue-500"></div>
+</div>
+  
+<template id="search-result-template" >
+    {{/*  카테고리1  */}}
+    <div class="mb-16" >
+        {{/*  <div class="flex justify-between border-b border-aa-gray-200 pb-2 mb-6">
+          <h3 class="text-xl font-bold">카테고리1</h3>
+          <a class="text-aa-purple-500" href="#">더 보기</a>
+        </div>  */}}
+        <ul>
+            <li class="search_summary mb-12">
+                <a href="" class="flex flex-col-reverse lg:flex-row lg:items-center lg:justify-between search_link">
+                    <span class="lg:w-3/4 text-aa-gray-500 flex-shrink-0 lg:pr-5">
+                        <b class="search_title block mb-2 text-2xl text-aa-gray-900"></b>
+
+                        <p><em class="search_snippet"></em></p>
+                        <p class="my-2 search-if_summary"><em class="search_summary"></em></p>
+                        <p class="my-2 search-if_tags text-blue-500"><strong class="mr-3">태그</strong><span class="search_tags"></span></p>
+                        <p class="my-2 search-if_categories"><strong>카테고리</strong><em class="search_categories"></em></p>
+                        {{/*  <div class="search-if_summary">
+                          <span class="search_summary block mb-2 leading-7 line-clamp-2 "></span>
+                        </div>  */}}
+                        {{/*  <div class="search-if_description">
+                          <span class="search_description block mb-2 leading-7 line-clamp-2"></span>
+                        </div>  */}}
+                        {{/*  <span class="block text-sm">
+                          2020.01.01
+                          <em class="text-aa-purple-500 not-italic ml-2">작성자</em>
+                        </span>  */}}
+                    </span>
+                    {{/*  <span class="lg:w-1/4 flex-shrink-0 mb-3 lg:mb-0">
+                      <span class="block overflow-hidden relative" style="padding-bottom:67.8%">
+                          <img class="search-if_thumb absolute h-full w-full object-cover" src="" alt="">
+                      </span>
+                    </span>  */}}
+                </a>
+            </li>
+        </ul>
+    </div>
+    {{/*  //카테고리1  */}}
+</template>
+
+  <!-- If you don't need IE 11 support you can remove this next script block -->
+  <script type="text/javascript">
+    // @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&dn=gpl-3.0.txt GPL-v3-or-Later
+    if (window.navigator.userAgent.indexOf('Trident/') > 0) {
+      let urls = [
+        {{ "js/libs/iecompat/promises.min.js" | absURL }},
+        {{ "js/libs/iecompat/fetch.min.js" | absURL }},
+        {{ "js/libs/iecompat/template.min.js" | absURL }},
+        {{ "js/libs/iecompat/remove.min.js" | absURL }}
+      ];
+      let head = document.getElementsByTagName("head")[0];
+      urls.forEach(function(url) {
+        let script = document.createElement("script");
+        script.src = url;
+        head.appendChild(script);
+      });
+    }
+    // @license-end
+  </script>
+  {{/*  These are the two libraries needed for current browsers.  */}}
+  <script src={{ "js/libs/fuse.js/3.2.1/fuse.min.js" | absURL }}></script>
+  <script src={{ "js/libs/mark.js/9.0.0/mark.min.js" | absURL }}></script>
+
+  {{/*  Below works *only if* this theme component is named "hugo-search-fuse-js"
+        AND *if* the themesDir is left at the default value of "themes".  */}}
+  {{/*  <script src={{ printf "%s?%s" ("js/search.js" | absURL) }}></script>  */}}
+  <script src={{ printf "%s" ("js/search.js" | absURL) }}></script>
+{{ end }}

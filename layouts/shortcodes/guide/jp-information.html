@@ -1,0 +1,109 @@
+{{ with site.Data.admission_guide.jp }}
+<div class="mb-20" style="font-family:Kokoro,sans-serif;">
+    <div class="flex justify-between items-center mb-6 border-b border-aa-gray-900 pb-6">
+        <h2 class="text-3xl font-bold text-aa-gray-900 leading-none">{{ .소식참여.title }}</h2>
+    </div>
+    <div class="lg:flex justify-between">
+        <div class="leading-loose text-lg">
+            {{ if .소식참여.정기후원신청하기 }}
+            <dl class="flex">
+                <dt class="lg:w-24 w-36 text-aa-gray-900 font-bold flex justify-between mr-3 flex-shrink-0">{{ .소식참여.정기후원신청하기.title }}<span>|</span></dt>
+                <dd>
+                    <ol class="list-decimal ml-5">
+                       {{ range .소식참여.정기후원신청하기.body }}
+                        <li>{{ . }}</li>
+                        {{ end }}
+                    </ol>
+                </dd>
+            </dl>
+            {{ end }}
+            <dl class="flex">
+                <dt class="lg:w-24 w-36 text-aa-gray-900 font-bold flex justify-between mr-3 flex-shrink-0">{{ .소식참여.일시후원신청하기.title }}<span>|</span></dt>
+                <dd>
+                    <ul class="list-decimal ml-5">
+                        {{ range .소식참여.일시후원신청하기.body }}
+                        <li>{{ . }}</li>
+                        {{ end }}
+                    </ul>
+                </dd>
+            </dl>              
+        </div>
+    </div>
+</div>
+
+<div class="mb-20" style="font-family:Kokoro,sans-serif;">
+    <div class="flex justify-between items-center mb-6 border-b border-aa-gray-900 pb-6">
+        <h2 class="text-3xl font-bold text-aa-gray-900 leading-none">{{ .박물관소개.title }}</h2>
+    </div>  
+    <div class="flex justify-between items-center mb-6 pb-6">
+        <h3 class="text-2xl font-bold text-aa-gray-900 leading-none">{{ .박물관소개.인사말.title }}</h3>
+    </div>
+    <div class="justify-center mb-20">
+        <h2 class="w-full flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-8" >{{ .박물관소개.인사말.message }}</h2>
+        <div class="w-full text-lg" style="font-family:Kokoro">
+            {{ range .박물관소개.인사말.body }}
+                <p class="mb-7" style="font-family:Kokoro">{{ . }}</p>
+            {{ end }}
+        </div>
+    </div>
+    <div class="flex justify-between items-center mb-6 pb-6 border-b border-aa-gray-200">
+        <h3 class="text-2xl font-bold text-aa-gray-900 leading-none">{{ .박물관소개.미션비전.title }}</h3>
+    </div>
+    <div class="border-b border-aa-gray-200 pb-16 text-center">
+        <b class="text-aa-purple-500 font-bold mb-8 block">{{ .박물관소개.미션비전.비전.title }}</b>
+        <h2 class="text-4xl font-bold leading-normal" style="word-break:keep-all">{{ .박물관소개.미션비전.비전.body }}</h2>
+    </div>
+    <div class="justify-center mb-20">
+        <div class="pt-16 text-center">
+            <b class="text-aa-purple-500 font-bold mb-14 block">{{ .박물관소개.미션비전.미션.title }}</b>
+            <ul class="flex flex-wrap justify-center lg:-mx-7 -mx-2" style="word-break:keep-all">
+                {{ range .박물관소개.미션비전.미션.목록 }}
+                    <li class="lg:px-7 px-2 w-1/2 lg:w-1/3 relative lg:mb-14 mb-4">
+                        <img class="w-full" src="{{ .image }}">
+                        <b class="text-2xl text-white absolute w-full lg:px-12 px-4 left-0 top-1/2 transform -translate-y-1/2">{{ .body }}</b>
+                    </li>
+                {{ end }}
+            </ul>
+            <ul class="flex flex-wrap justify-center lg:-mx-7 -mx-2" style="word-break:keep-all">
+                {{ range .박물관소개.미션비전.미션.body }}
+                    <li class="lg:px-7 px-2 w-1/2 lg:w-1/3 relative lg:mb-14 mb-4">
+                        <img class="w-full" src="/images/mission-and-vision-002.jpg">
+                        <b class="text-2xl text-white absolute w-full lg:px-12 px-4 left-0 top-1/2 transform -translate-y-1/2">{{ . }}</b>
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+    <div class="flex justify-between items-center mb-6 pb-6 border-b border-aa-gray-200">
+        <h3 class="text-2xl font-bold text-aa-gray-900 leading-none">{{ .박물관소개.연혁.title }}</h3>
+    </div>
+    <h2 class="text-4xl font-bold leading-normal mb-14" style="word-break:keep-all">{{ .박물관소개.연혁.전쟁과여성인권박물관연혁.title }}</h2>
+    <ul class="text-aa-gray-900 mb-14">
+        {{ range .박물관소개.연혁.전쟁과여성인권박물관연혁.목록 }}
+            <li class="lg:flex mb-4">
+                <h3 class="lg:w-2/12 flex-shrink-0 text-aa-purple-500 text-4xl font-bold lg:mb-0">{{ .title }}</h3>
+                <div>
+                    <dl class="flex">
+                        <dt class="w-36 flex-shrink-0">{{ .date }}</dt>
+                        <dd>{{ range .body}}{{ . }}{{ end }}</dd>
+                    </dl>
+                </div>
+            </li>
+        {{ end }}      
+    </ul>
+    <h2 class="text-4xl font-bold leading-normal mb-14" style="word-break:keep-all">{{ .박물관소개.연혁.전쟁과여성인권박물관건립추진연혁.title }}</h2>
+    <ul class="text-aa-gray-900">
+        {{ range .박물관소개.연혁.전쟁과여성인권박물관건립추진연혁.목록 }}
+        <li class="lg:flex mb-4">
+            <h3 class="lg:w-2/12 flex-shrink-0 text-aa-purple-500 text-4xl font-bold mb-6 lg:mb-0">{{ .title }}</h3>
+            <div>
+                <dl class="flex">
+                    <dt class="w-36 flex-shrink-0">{{ .date }}</dt>
+                    <dd>{{ range .body}}{{ . }}{{ end }}</dd>
+                </dl>                               
+            </div>
+        </li>
+        {{ end }}
+    </ul>    
+</div>
+{{ end }}

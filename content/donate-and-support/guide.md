@@ -8,5 +8,5 @@ banner:
   imageLink: /img/pagebanner/connect/support.jpg
   itemLink:
 ---
-!! 정의기억연대 후원 메세지로 변경해야 함.
-{{< news/museum-donation >}}
+
+{{< donate-and-support/ww-donation >}}
