@@ -10,7 +10,7 @@ SELECT
   ,c.`date` AS 'created'
   ,c.`update` AS 'updated'
   ,c.`notice` AS 'pinned'
-  ,c.`image`
+  ,c.`thumbnail_file` AS 'image'
   ,GROUP_CONCAT(a.`file_name` SEPARATOR '|') AS 'files_name'
   ,GROUP_CONCAT(a.`file_path` SEPARATOR '|') AS 'files_path'
   ,GROUP_CONCAT(a.`download_count` SEPARATOR '|') AS 'files_download_count'
@@ -34,7 +34,7 @@ SELECT
   ,c.`date` AS 'created'
   ,c.`update` AS 'updated'
   ,c.`notice` AS 'pinned'
-  ,c.`image`
+  ,c.`thumbnail_file` AS 'image'
   ,GROUP_CONCAT(a.`file_name` SEPARATOR '|') AS 'files_name'
   ,GROUP_CONCAT(a.`file_path` SEPARATOR '|') AS 'files_path'
   ,GROUP_CONCAT(a.`download_count` SEPARATOR '|') AS 'files_download_count'
@@ -58,7 +58,7 @@ SELECT
   ,c.`date` AS 'created'
   ,c.`update` AS 'updated'
   ,c.`notice` AS 'pinned'
-  ,c.`image`
+  ,c.`thumbnail_file` AS 'image'
   ,GROUP_CONCAT(a.`file_name` SEPARATOR '|') AS 'files_name'
   ,GROUP_CONCAT(a.`file_path` SEPARATOR '|') AS 'files_path'
   ,GROUP_CONCAT(a.`download_count` SEPARATOR '|') AS 'files_download_count'
@@ -82,7 +82,7 @@ SELECT
   ,c.`date` AS 'created'
   ,c.`update` AS 'updated'
   ,c.`notice` AS 'pinned'
-  ,c.`image`
+  ,c.`thumbnail_file` AS 'image'
   ,GROUP_CONCAT(a.`file_name` SEPARATOR '|') AS 'files_name'
   ,GROUP_CONCAT(a.`file_path` SEPARATOR '|') AS 'files_path'
   ,GROUP_CONCAT(a.`download_count` SEPARATOR '|') AS 'files_download_count'
