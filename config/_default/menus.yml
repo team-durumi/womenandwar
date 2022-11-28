@@ -29,7 +29,11 @@ main:
   - name: 조직과 사람들
     url: /about/org-and-people
     weight: 3
-    parent: 단체소개   
+    parent: 단체소개
+  - name: 연혁
+    url: /about/history
+    weight: 4
+    parent: 단체소개    
   - name: 살림살이
     url: /about/budget
     weight: 4
@@ -43,57 +47,57 @@ main:
     weight: 6
     parent: 단체소개
 
-  - name: 활동소개
+  - name: 활동소식
     url: /actions
     weight: -90
-  - name: 피해자지원
+  - name: 할머니소식
     url: /categories/생존자복지/
     weight: 1
-    parent: 활동소개
+    parent: 활동소식
   - name: 수요시위
     url: /categories/this-week/
     weight: 2
-    parent: 활동소개
+    parent: 활동소식
   - name: 국내연대
     url: /categories/연대사업/
     weight: 3
-    parent: 활동소개
+    parent: 활동소식
   - name: 해외연대
     url: /categories/updates/
     weight: 4
-    parent: 활동소개   
+    parent: 활동소식   
   - name: 교육사업
     url: /categories/연구조사교육/
     weight: 5
-    parent: 활동소개  
+    parent: 활동소식 
   - name: 평화비
     url: /categories/기림사업/
     weight: 6
-    parent: 활동소개
-  - name: 전시성폭력재발방지
+    parent: 활동소식
+  - name: 나비기금
     url: categories/나비기금
     weight: 7
-    parent: 활동소개
+    parent: 활동소식
 
-  - name: 단체소식
+  - name: 단체알림
     url: /connect
     weight: -80 
   - name: 공지
     url: /connect/notice
     weight: 1
-    parent: 단체소식
+    parent: 단체알림
   - name: 보도자료
     url: /connect/press-release
     weight: 2
-    parent: 단체소식
+    parent: 단체알림
   - name: 자료실
     url: /connect/resource
     weight: 3
-    parent: 단체소식    
+    parent: 단체알림    
   - name: 뉴스레터
     url: /connect/newsletter
     weight: 4
-    parent: 단체소식
+    parent: 단체알림
 
   - name: 후원/참여  
     url: /donate-and-support
