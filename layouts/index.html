@@ -50,7 +50,43 @@
         </div>
       </section>
       
-      {{/* 활동소개  */}}
+      {{/* 공지사항 / 보도자료 */}}    
+      <div class="container pt-12 pb-12">
+        <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">공지사항</h1>
+        <div class="flex text-sm text-aa-700 py-2 border-aa-purple-500 border-b-2">
+            <span class="w-4/6 text-center">제목</span>
+            <span class="w-1/6 text-center">날짜</span>
+            <span class="w-1/6 text-center">작성자</span>
+        </div>
+        <ul class="mb-20">
+            {{ range first 3 (where site.RegularPages "Type" "connect") }}
+                <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
+                    <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
+                    <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
+                    <span class="w-1/6 text-center">{{ .Params.Author }}</span>
+                </li>
+            {{ end }}
+        </ul>
+      </div>
+      <div class="container pt-12 pb-12">
+        <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">보도자료</h1>
+        <div class="flex text-sm text-aa-700 py-2 border-aa-purple-500 border-b-2">
+            <span class="w-4/6 text-center">제목</span>
+            <span class="w-1/6 text-center">날짜</span>
+            <span class="w-1/6 text-center">작성자</span>
+        </div>
+        <ul class="mb-20">
+            {{ range first 3 (where site.RegularPages "Type" "connect") }}
+                <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
+                    <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
+                    <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
+                    <span class="w-1/6 text-center">{{ .Params.Author }}</span>
+                </li>
+            {{ end }}
+        </ul>
+      </div>         
+      
+      {{/* 활동소식  */}}
       <div class="container pt-12">
         <div class="relative">
           <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">활동소식</h1>
@@ -92,43 +128,7 @@
             })
           })
         })
-        </script>
-        
-      {{/* 공지사항 / 보도자료 */}}    
-      <div class="container pt-12 pb-12">
-        <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">공지사항</h1>
-        <div class="flex text-sm text-aa-700 py-2 border-aa-purple-500 border-b-2">
-            <span class="w-4/6 text-center">제목</span>
-            <span class="w-1/6 text-center">날짜</span>
-            <span class="w-1/6 text-center">작성자</span>
-        </div>
-        <ul class="mb-20">
-            {{ range first 3 (where site.RegularPages "Type" "connect") }}
-                <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
-                    <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
-                    <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
-                    <span class="w-1/6 text-center">{{ .Params.Author }}</span>
-                </li>
-            {{ end }}
-        </ul>
-      </div>
-      <div class="container pt-12 pb-12">
-        <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">보도자료</h1>
-        <div class="flex text-sm text-aa-700 py-2 border-aa-purple-500 border-b-2">
-            <span class="w-4/6 text-center">제목</span>
-            <span class="w-1/6 text-center">날짜</span>
-            <span class="w-1/6 text-center">작성자</span>
-        </div>
-        <ul class="mb-20">
-            {{ range first 3 (where site.RegularPages "Type" "connect") }}
-                <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
-                    <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
-                    <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
-                    <span class="w-1/6 text-center">{{ .Params.Author }}</span>
-                </li>
-            {{ end }}
-        </ul>
-      </div>      
+        </script>   
 
       {{/* 박물관 안내 */}}
       <div class="relative bg-aa-gray-100 bg-no-repeat">
