@@ -79,9 +79,29 @@ main:
     weight: 7
     parent: 활동소식
 
+  - name: 후원/참여  
+    url: /donate-and-support
+    weight: -80
+  - name: 후원안내
+    url: /donate-and-support/guide
+    weight: 1
+    parent: 후원/참여  
+  - name: 봉사/재능기부
+    url: /donate-and-support/volunteer
+    weight: 2
+    parent: 후원/참여
+  - name: 수요시위참여
+    url: /donate-and-support/support
+    weight: 3
+    parent: 후원/참여
+  - name: 상점
+    url: https://womenandwarmuseum.net/guide/stores/
+    weight: 4
+    parent: 후원/참여   
+
   - name: 단체알림
     url: /connect
-    weight: -80 
+    weight: -70
   - name: 공지
     url: /connect/notice
     weight: 1
@@ -97,20 +117,4 @@ main:
   - name: 뉴스레터
     url: /connect/newsletter
     weight: 4
-    parent: 단체알림
-
-  - name: 후원/참여  
-    url: /donate-and-support
-    weight: -90
-  - name: 후원안내
-    url: /donate-and-support/guide
-    weight: 1
-    parent: 후원/참여  
-  - name: 봉사/재능기부
-    url: /donate-and-support/volunteer
-    weight: 2
-    parent: 후원/참여
-  - name: 수요시위참여
-    url: /donate-and-support/support
-    weight: 3
-    parent: 후원/참여
+    parent: 단체알림    

@@ -8,10 +8,52 @@
       {{/* 슬라이드 배너 홈페이지용 */}}
       {{ partial "marketing/banner--ww--slide" . }}
       
+      {{/* 정의기억연대 현안 */}}
+      <section class="container py-12 text-gray-600 body-font">
+        <div class="px-5 py-5 mx-auto">
+          <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">현안</h1>
+        </div>
+        <div class="flex sm:-m-4 -mx-4 -mb-10 -mt-4 pb-12">
+          <div class="flex-wrap p-4 md:w-1/3 sm:w-full sm:mb-0 mb-6">
+            <div class="h-64 overflow-hidden">
+              <img alt="content" class="object-cover object-center h-full w-full" src="https://media.womenandwar.net/web/img/후원의밤.jpg">
+            </div>
+            <h2 class="text-xl font-medium title-font text-gray-900 mt-5">일본군성노예제 문제해결운동 32주년 기념 '2022 정의기억연대 후원의 밤'이 진행</h2>
+            <a class="text-lg text-aa-purple-500 inline-flex items-center pt-2" href="/comfort-women/meanings/">더 알아보기
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                  <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+              </svg>
+            </a>
+          </div>
+          <div class="flex-wrap p-4 md:w-1/3 sm:w-full sm:mb-0 mb-6">
+            <div class="rounded-none h-64 overflow-hidden">
+              <img alt="content" class="object-cover object-center h-full w-full" src="https://media.womenandwar.net/web/img/photo_2022-10-14_14-13-32.jpg">
+            </div>
+            <h2 class="text-xl font-medium title-font text-gray-900 mt-5">피해자 보호법 개정 서명운동 [긴급 서명 요청] 일본군'위안부' 피해자에 대한 명예훼손을 막아주세요!</h2>
+            <a class="text-lg text-aa-purple-500 inline-flex items-center pt-2" href="/about/greetings/">서명하러 가기
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                  <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+              </svg>
+            </a>
+          </div>
+          <div class="flex-wrap p-4 md:w-1/3 sm:w-full sm:mb-0 mb-6">
+            <div class="rounded-none h-64 overflow-hidden">
+              <img alt="content" class="object-cover object-center h-full w-full" src="https://media.womenandwar.net/web/img/첫수요집회 사본.jpg">
+            </div>
+            <h2 class="text-xl font-medium title-font text-gray-900 mt-5">수요시위에 참여해주세요 !! </h2>
+            <a class="text-lg text-aa-purple-500 inline-flex items-center pt-2" href="/about/greetings/">더 알아보기
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                  <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </section>
+      
       {{/* 활동소개  */}}
-      <div class="container pt-20">
+      <div class="container pt-12">
         <div class="relative">
-          <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">활동소개</h1>
+          <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">활동소식</h1>
           <a class="absolute top-2 right-0 text-aa-purple-500" href="/items">최근 활동 모두보기</a>
         </div>
         {{/*  <p class="text-lg mb-8 text-aa-gray-700">All / Updates / 日本語 / 기림사업 / 나비기금 / 동영상 / 소식 / 모금소식 / 생존자복지쉼터소식 / 연구조사 / 교육연대사업 / 이번 주 수요시위 / 일본국상대소송 / 장학사업 / 전시성폭력재발방지</p> */}}
@@ -61,7 +103,7 @@
             <span class="w-1/6 text-center">작성자</span>
         </div>
         <ul class="mb-20">
-            {{ range first 5 (where site.RegularPages "Type" "connect") }}
+            {{ range first 3 (where site.RegularPages "Type" "connect") }}
                 <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
                     <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
                     <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
@@ -78,7 +120,7 @@
             <span class="w-1/6 text-center">작성자</span>
         </div>
         <ul class="mb-20">
-            {{ range first 5 (where site.RegularPages "Type" "connect") }}
+            {{ range first 3 (where site.RegularPages "Type" "connect") }}
                 <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
                     <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
                     <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
@@ -107,102 +149,6 @@
         </div>
         <div class="lg:absolute lg:left-1/2 lg:top-0 lg:h-full h-80 lg:w-1/2 bg-no-repeat bg-contain bg-center" style="background-image:url(/images/bg-main-welcome-wwm.jpg)"></div>
       </div>
-
-      <div class="container pt-12 pb-12">
-        <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">메세지</h1>
-        <ul>
-            {{ range first 2 (where site.RegularPages "Type" "connect") }}
-            <li class="mb-12">
-                <a href="#" class="flex flex-col-reverse lg:flex-row lg:items-center lg:justify-between">
-                    <span class="lg:w-2/3 text-aa-gray-500 flex-shrink-0 lg:pr-5">
-                        <b class="block mb-2 text-2xl text-aa-gray-900">{{ .Title }}</b>
-                        <span class="block mb-2 leading-7 line-clamp-2">{{ .Summary }}</span>
-                        <span class="block text-sm">
-                            {{ .Date.Format "2006년 1월 2일" }}
-                            <em class="text-aa-purple-500 not-italic ml-2">{{ .Params.Author }}</em>
-                        </span>
-                    </span>
-                    <span class="lg:w-1/3 flex-shrink-0 mb-3 lg:mb-0">
-                        <span class="block overflow-hidden relative" style="padding-bottom:67.8%">
-                            <img class="absolute w-fullx object-cover" src="{{ .Params.image }}" alt="">
-                        </span>
-                    </span>
-                </a>
-            </li>
-            {{ end }}
-        </ul>
-      </div>
-      {{/* 팩트체크 - data.yml에서 편집하도록 처리 */}}
-      <section class="container pt-12 pb-12 text-gray-600 body-font">
-        <div class="px-5 py-5 mx-auto">
-          <h1 class="text-4xl mb-4 text-aa-gray-900 font-bold">팩트</h1>
-        </div>
-        <div class="flex sm:-m-4 -mx-4 -mb-10 -mt-4 pb-12">
-          <div class="flex-1 p-4 md:w-1/3 sm:mb-0 mb-6">
-            <div class="h-64 overflow-hidden">
-              <img alt="content" class="object-cover object-center h-full w-full" src="https://media.womenandwar.net/web/img/후원의밤.jpg">
-            </div>
-            <h2 class="text-xl font-medium title-font text-gray-900 mt-5">후원의 밤</h2>
-            <p class="text-base leading-relaxed mt-2">11월 16일 수요일 오후 7시 서울 영등포구 하이서울유스호스텔 대강당에서 일본군성노예제 문제해결운동 32주년 기념 '2022 정의기억연대 후원의 밤'이 진행됩니다! 2022년 활동을 돌아보며, 후원회원분들께 감사 마음을 전달하는 시상식과 김복동인권평화상 시상, 문화공연 등 활동가들이 정성스레 마련한 자리에 여러분을 초대합니다.</p>
-            <a class="text-lg text-aa-purple-500 inline-flex items-center pt-2" href="/comfort-women/meanings/">더 알아보기
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                  <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-              </svg>
-            </a>
-          </div>
-          <div class="flex-1 p-4 md:w-1/3 sm:mb-0 mb-6">
-            <div class="rounded-none h-64 overflow-hidden">
-              <img alt="content" class="object-cover object-center h-full w-full" src="https://media.womenandwar.net/web/img/photo_2022-10-14_14-13-32.jpg">
-            </div>
-            <h2 class="text-xl font-medium title-font text-gray-900 mt-5">피해자 보호법 개정 서명운동 [긴급 서명 요청] 일본군'위안부' 피해자에 대한 명예훼손을 막아주세요!</h2>
-            <p class="text-base leading-relaxed mt-2">역사부정세력은 일본군'위안부'피해자를 공격하며 사회적 약자에 대한 혐오를 부추기고 있습니다. 미래세대에게 올바른 역사의식을 심어주기 위해서, 약자에 대한 혐오확산을 멈추기 위해서 역사부정세력의 만행을 막아줄 일본군'위안부'피해자 보호법 개정이 필요합니다. 지금 여러분의 서명으로 힘을 보태주세요!
-            </p>
-            <a class="text-lg text-aa-purple-500 inline-flex items-center pt-2" href="/about/greetings/">더 알아보기
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                  <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-              </svg>
-            </a>
-          </div>
-          <div class="flex-1 p-4 md:w-1/3 sm:mb-0 mb-6">
-            <div class="rounded-none h-64 overflow-hidden">
-              <img alt="content" class="object-cover object-center h-full w-full" src="https://media.womenandwar.net/web/img/첫수요집회 사본.jpg">
-            </div>
-            <h2 class="text-xl font-medium title-font text-gray-900 mt-5">수요시위</h2>
-            <p class="text-base leading-relaxed mt-2">일본군성노예제피해자들과 연대하는 시민들은 1992년 1월 8일 일본대사관 앞에서 첫 시위를 시작한 이래 30여 년 동안 변함없이 수요시위를 개최하여 평화적인 방법으로 일본정부에 공식사죄를 요구하고 있습니다. 오늘날 수요시위는 미래세대들이 인권과 평화의 중요성을 배우는 살아있는 역사·인권·평화 교육의 공간이자, 국경을 넘어선 세계 시민들의 연대의 장으로 확대되었습니다. </p>
-            <a class="text-lg text-aa-purple-500 inline-flex items-center pt-2" href="/about/greetings/">더 알아보기
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                  <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-              </svg>
-            </a>
-          </div>
-        </div>
-        <div class="flex sm:-m-4 -mx-4 -mb-10 -mt-4">
-          <div class="flex-none p-4 w-1/3 sm:mb-0 mb-6">
-            <div class="h-64 overflow-hidden">
-              <img alt="content" class="object-cover object-center h-full w-full" src="https://media.womenandwar.net/web/img/1991 김학순 할머니 첫증언.png">
-            </div>
-            <h2 class="text-xl font-medium title-font text-gray-900 mt-5">피해자들의 외침(일본군성노예제란)</h2>
-            <p class="leading-relaxed mt-2">일본군성노예제란 1930년대부터 1945년 일본의 패전에 이르기까지 일본군이 제도적으로 ‘군위안소’를 설치하여 점령지와 식민지 여성들을 동원해 성노예로 만든 범죄를 말합니다. 범죄의 주체인 일본군을 명기하고 역사적인 용어로서의 위안부를 따옴표 안에 넣어 일본군‘위안부’로 표기하며, 영어로는 Military Sexual Slavery by Japan 으로 표현하여 ‘성노예’라는 범죄의 본질을 드러내고 있습니다.</p>
-            <a class="text-lg text-aa-purple-500 inline-flex items-center pt-2" href="/about/greetings/">더 알아보기
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                  <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-              </svg>
-            </a>
-          </div>
-          <div class="flex-grow p-4 w-2/3 sm:mb-0 mb-6">
-            <div class="rounded-none h-64 overflow-hidden">
-              <img alt="content" class="object-cover object-center h-full w-full" src="https://media.womenandwar.net/web/img/성폭력_반대_16일_캠페인에_참여한_마마유시리카_여성들.jpg">
-            </div>
-            <h2 class="text-xl font-medium title-font text-gray-900 mt-5">나비기금</h2>
-            <p class="leading-relaxed mt-2">2012년 3월 8일 세계 여성의 날, 김복동, 길원옥 할머니께서 일본정부로부터 법적배상을 받으면 자신들과 같이 고통받고 있는 전시 성폭력피해 여성들을 위한 지원활동을 기부하고 싶다는 의지를 밝히셨고, 할머니들의 이러한 뜻에 따라 정의기억연대는 나비기금을 제정하여 콩고, 우간다, 베트남 등의 전시성폭력 피해 여성과 아동들을 지원하며 연대하고 있습니다.</p>
-            <a class="text-lg text-aa-purple-500 inline-flex items-center pt-2" href="/about/greetings/">더 알아보기
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                  <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-              </svg>
-            </a>
-          </div>
-        </div>  
-      </section>
       {{/* 뉴스레터 구독폼 */}}
       {{ partial "marketing/form--newsletter" . }}
       {{ partial "feedback/notifications" . }}
