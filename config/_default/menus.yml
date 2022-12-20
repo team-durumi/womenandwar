@@ -14,6 +14,10 @@ main:
     url: /comfort-women/testimonies
     weight: 3
     parent: 일본군성노예제
+  - name: 역사부정론 반박
+    url: /comfort-women/refute
+    weight: 4
+    parent: 일본군성노예제        
 
   - name: 단체소개
     url: /about
