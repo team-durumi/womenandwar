@@ -1,5 +1,5 @@
 <header x-data="{ megaMenu: false }" class="header bg-white text-gray-700" {{ if .IsHome }} :class="{ 'bg-white text-gray-700': megaMenu }"{{ end }}>
-    <div class="absolute top-0 left-0 bg-white w-full z-10 transition-all duration-100 ease-linear" x-on:mouseleave="megaMenu = false"  :style="{ 'height' : (megaMenu ? '32rem' : '0') }"></div>
+    <div class="absolute top-0 left-0 bg-white w-full z-10 transition-all duration-100 ease-linear" x-on:mouseleave="megaMenu = false"  :style="{ 'height' : (megaMenu ? '35rem' : '0') }"></div>
     <div class="bg-aa-purple-500 text-white text-right lg:px-8 px-4 py-2 relative z-10 hidden lg:block">
       <ul class="inline-flex">
         <li class="rounded-full px-4 py-2 text-white bg-aa-purple-500 hover:bg-white hover:text-aa-gray-900 text-sm">
@@ -39,7 +39,7 @@
       </a>
       <ul class="menu-main lg:flex justify-end items-center whitespace-nowrap absolute left-0 top-16 lg:static w-full lg:w-auto px-4 lg:px-0 max-h-0 lg:max-h-full overflow-hidden lg:overflow-visible">
         {{ range site.Menus.main }}
-        <li class="relative xl:mr-20 lg:mr-16">
+        <li class="relative xl:mr-28 lg:mr-24">
           <a class="block text-center text-lg leading-7 py-4 px-0" x-on:mouseover="megaMenu = true" href="#">{{ .Name }}</a>
           <ul class="absolute left-1/2 top-20 text-gray-700 transform -translate-x-1/2 text-center z-20 max-h-0 opacity-0 transition-all duration-300 overflow-hidden" :class="{ 'max-h-96 opacity-100 block': megaMenu, 'hidden': !megaMenu }" x-on:mouseover="megaMenu = true">
             {{ range .Children }}

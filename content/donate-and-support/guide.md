@@ -5,8 +5,8 @@ layout: section_single
 banner:
   title:
   summary:
-  imageLink: /img/pagebanner/connect/support.jpg
+  imageLink:
   itemLink:
 ---
 
-{{< donate-and-support/ww-donation >}}
+{{< donate-and-support/ww-donation-new >}}

@@ -6,119 +6,135 @@ main:
     url: /comfort-women/meanings
     weight: 1
     parent: 일본군성노예제
-  - name: 운동사(연혁)
-    url: /comfort-women/history
+  - name: 피해생존자들의 삶
+    url: /comfort-women/testimonies
     weight: 2
     parent: 일본군성노예제
-  - name: 피해자들의 외침
-    url: /comfort-women/testimonies
-    weight: 3
-    parent: 일본군성노예제
-  - name: 역사부정론 반박
+  - name: 역사부정론 현황과 반박
     url: /comfort-women/refute
-    weight: 4
+    weight: 3
     parent: 일본군성노예제        
 
-  - name: 단체소개
+  - name: 소개
     url: /about
     weight: -100
-  - name: 인사말
+  - name: 정의기억연대란
     url: /about/greetings
     weight: 1
-    parent: 단체소개
-  - name: 비전과 미션
-    url: /about/vision-and-mission
-    weight: 2
-    parent: 단체소개
-  - name: 조직과 사람들
-    url: /about/org-and-people
-    weight: 3
-    parent: 단체소개
+    parent: 소개
   - name: 연혁
     url: /about/history
-    weight: 4
-    parent: 단체소개    
-  - name: 살림살이
-    url: /about/budget
-    weight: 4
-    parent: 단체소개
-  - name: 오시는길
-    url: /about/location
-    weight: 5
-    parent: 단체소개
+    weight: 2
+    parent: 소개
   - name: 정관
     url: /about/articles
+    weight: 3
+    parent: 소개       
+  - name: 비전.미션
+    url: /about/vision-and-mission
+    weight: 4
+    parent: 소개
+  - name: 조직과 사람들
+    url: /about/org-and-people
+    weight: 5
+    parent: 소개
+  - name: 살림살이
+    url: /about/budget
     weight: 6
-    parent: 단체소개
+    parent: 소개
+  - name: 오시는길
+    url: /about/location
+    weight: 7
+    parent: 소개
 
-  - name: 활동소식
-    url: /actions
+  - name: 활동
+    url: /activity
     weight: -90
+  - name: 수요시위
+    url: /activity/Wednesday-Demonstration
+    weight: 1
+    parent: 활동
+  - name: 피해자생존지원
+    url: /activity/Victim-Support
+    weight: 2
+    parent: 활동
+  - name: 국내 연대
+    url: /activity/Domestic-Solidarity
+    weight: 3
+    parent: 활동
+  - name: 국제 연대
+    url: /activity/International-Solidarity
+    weight: 4
+    parent: 활동
+  - name: 법적 대응
+    url: /activity/Lawsuit
+    weight: 5
+    parent: 활동
+  - name: 기억.기림
+    url: /activity/Memorial
+    weight: 6
+    parent: 활동
+  - name: 나비기금
+    url: /activity/Butterfly-Fund
+    weight: 7
+    parent: 활동
+  - name: 교육·연구·장학
+    url: /activity/Research-Education-Scholarship
+    weight: 8
+    parent: 활동
+
+  - name: 소식
+    url: /actions
+    weight: -80
   - name: 할머니소식
     url: /categories/생존자복지/
     weight: 1
-    parent: 활동소식
+    parent: 소식
   - name: 수요시위
     url: /categories/this-week/
     weight: 2
-    parent: 활동소식
-  - name: 국내연대
-    url: /categories/연대사업/
-    weight: 3
-    parent: 활동소식
-  - name: 해외연대
-    url: /categories/updates/
-    weight: 4
-    parent: 활동소식   
-  - name: 교육사업
-    url: /categories/연구조사교육/
-    weight: 5
-    parent: 활동소식 
-  - name: 평화비
-    url: /categories/기림사업/
-    weight: 6
-    parent: 활동소식
-  - name: 나비기금
-    url: categories/나비기금
-    weight: 7
-    parent: 활동소식
-
-  - name: 후원/참여  
-    url: /donate-and-support
-    weight: -80
-  - name: 후원안내
-    url: /donate-and-support/guide
-    weight: 1
-    parent: 후원/참여  
-  - name: 봉사/재능기부
-    url: /donate-and-support/volunteer
-    weight: 2
-    parent: 후원/참여
-  - name: 수요시위참여
-    url: /donate-and-support/support
-    weight: 3
-    parent: 후원/참여
-  - name: 상점
-    url: https://womenandwarmuseum.net/guide/stores/
-    weight: 4
-    parent: 후원/참여   
-
-  - name: 단체알림
-    url: /connect
-    weight: -70
-  - name: 공지
+    parent: 소식
+  - name: 공지사항
     url: /connect/notice
-    weight: 1
-    parent: 단체알림
-  - name: 보도자료
-    url: /connect/press-release
-    weight: 2
-    parent: 단체알림
+    weight: 3
+    parent: 소식    
+  - name: 액션.캠페인
+    url: /categories/연대사업/
+    weight: 4
+    parent: 소식
+  - name: 성명.논평
+    url: /connect/notice
+    weight: 5
+    parent: 소식
+  - name: 발간물
+    url: /connect/notice
+    weight: 6
+    parent: 소식
+  - name: 언론동향
+    url: /connect/notice
+    weight: 7
+    parent: 소식     
   - name: 자료실
     url: /connect/resource
+    weight: 8
+    parent: 소식
+
+  - name: 후원.참여  
+    url: /donate-and-support
+    weight: -70
+  - name: 후원하기
+    url: /donate-and-support/guide
+    weight: 1
+    parent: 후원.참여
+  - name: 후원스토리
+    url: categories/후원스토리
+    weight: 2
+    parent: 후원.참여       
+  - name: 봉사.재능기부
+    url: /donate-and-support/volunteer
     weight: 3
-    parent: 단체알림    
-  - name: 뉴스레터
-    url: /connect/newsletter
+    parent: 후원.참여
+  - name: 수요시위 참여
+    url: /donate-and-support/support
     weight: 4
-    parent: 단체알림    
+    parent: 후원.참여
