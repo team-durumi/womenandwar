@@ -90,7 +90,7 @@ main:
     url: /categories/생존자복지/
     weight: 1
     parent: 소식
-  - name: 수요시위
+  - name: 이번주 수요시위
     url: /categories/this-week/
     weight: 2
     parent: 소식
