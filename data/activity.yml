@@ -181,6 +181,36 @@ ko:
     참여:
       title: 참여하려면
       slug: join
+  victim_support:
+    title: "피해생존자지원"
+    slug: victim_support
+    활동소개:
+      title: 활동소개
+      slug: victim_support
+  domestic_solidarity:
+    title: "국내 연대"
+    slug: domestic_solidarity
+    활동소개:
+      title: 활동소개
+      slug: domestic_solidarity
+  international_solidarity:
+    title: "국제 연대"
+    slug: international_solidarity
+    아시아연대회의:
+      title: 아시아연대회의
+      slug:
+    법정:
+      title: 2000년법정
+      slug:
+    UN:
+      title: UN
+      slug: un
+    해외연대단체:
+      title: 해외연대단체
+      slug: international_solidarity_organization
+    결의안:
+      title: 결의안
+      slug:
   memorial:
     title: "기억.기림"
     slug: memorial
@@ -194,32 +224,26 @@ ko:
       title: 평화비(해외)
       slug: international-peace-statue
   lawsuit:
-      title: "법적대응"
-      slug: lawsuit
-      설명:
-        title: 설명
-        slug: descptions
-      국내법적대응:
-        title: 국내 법적대응
-        slug: domestic-lawsuit
-      국외법적대응:
-        title: 국외 법적대응
-        slug: international-lawsuit
-  international_solidarity:
-      title: "국제연대"
-      slug: international-solidarity
-      아시아연대회의:
-        title: 아시아연대회의
-        slug:
-      법정:
-        title: 2000년법정
-        slug:
-      UN:
-        title: UN
-        slug: un
-      해외연대단체:
-        title: 해외연대단체
-        slug: international-solidarity-organization
-      결의안:
-        title: 결의안
-        slug: international-solidarity-organization                
+    title: "법적대응"
+    slug: lawsuit
+    설명:
+      title: 설명
+      slug: descptions
+    국내법적대응:
+      title: 국내 법적대응
+      slug: domestic-lawsuit
+    국외법적대응:
+      title: 국외 법적대응
+      slug: international-lawsuit
+  butterfly_fund:
+    title: "나비기금"
+    slug: butterfly_fund
+    기금설명:
+      title: 기금설명
+      slug: descptions
+  research_education_scholarship:
+    title: "교육·연구·장학"
+    slug: research_education_scholarship
+    사업설명:
+      title: 사업설명
+      slug: research_education_scholarship

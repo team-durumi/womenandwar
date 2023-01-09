@@ -9,4 +9,4 @@ banner:
   itemLink: /items/ex-02/운동사관/침묵을깨트리다/첫수요집회-사본/
 ---
 
-{{< activity/wednesday-demonstration >}}
+{{< activity/wednesday_demonstration >}}
