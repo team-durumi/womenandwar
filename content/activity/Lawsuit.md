@@ -9,6 +9,4 @@ banner:
   itemLink: /items/ex-02/운동사관/침묵을깨트리다/첫수요집회-사본/
 ---
 
-설명
-국내 법적대응
-국외 법적대응
+{{< activity/lawsuit >}}
