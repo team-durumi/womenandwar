@@ -181,6 +181,10 @@ ko:
     참여:
       title: 참여하려면
       slug: join
+    이번주수요시위:
+      title: 이번주 수요시위
+      slug: this_week
+      url: "/categories/this-week/"      
   victim_support:
     title: "피해생존자지원"
     slug: victim_support

@@ -43,8 +43,6 @@ googleFonts:
   - https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200&display=swap
   - https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;700&display=swap
 
-
-
 stibee:
   subscriptionForm: https://page.stibee.com/subscriptions/112752
   accessToken: DONTCOMMIT
