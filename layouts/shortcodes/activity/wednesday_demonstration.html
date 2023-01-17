@@ -20,7 +20,7 @@
                     <a :class="openTab === 3 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .참여.slug }}">{{ .참여.title }}</a>
                 </li> 
                 <li @click="openTab = 4" :class="{ '-mb-px': openTab === 4 }" class="mx-4 xl:mx-16">
-                    <a :class="openTab === 4 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .이번주수요시위.url }}">{{ .이번주수요시위.title }}</a>
+                    <a :class="openTab === 4 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .이번주수요시위.url }}" target="_blank">{{ .이번주수요시위.title }}</a>
                 </li>                    
             </ul>
             <div class="w-full pt-4">
