@@ -9,59 +9,99 @@
             }" 
             class="p-2 xl:p-8"
         >
-            <ul class="flex items-start justify-start text-3xl">
-            <li @click="openTab = 1" :class="{ '-mb-px': openTab === 1 }" class="-mb-px mx-4 xl:mx-4">
-                <a :class="openTab === 1 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 px-4 font-semibold" href="#{{ .아시아연대회의.slug }}">{{ .아시아연대회의.title }}</a>
-            </li>
-            <li @click="openTab = 2" :class="{ '-mb-px': openTab === 2 }" class="mx-4 xl:mx-4">
-                <a :class="openTab === 2 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 px-4 font-semibold" href="#{{ .법정.slug }}">{{ .법정.title }}</a>
-            </li>
-            <li @click="openTab = 3" :class="{ '-mb-px': openTab === 3 }" class="mx-4 xl:mx-4">
-                <a :class="openTab === 3 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 px-4 font-semibold" href="#{{ .UN.slug }}">{{ .UN.title }}</a>
-            </li>
-            <li @click="openTab = 4" :class="{ '-mb-px': openTab === 4 }" class="mx-4 xl:mx-4">
-                <a :class="openTab === 4 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 px-4 font-semibold" href="#{{ .해외연대단체.slug }}">{{ .해외연대단체.title }}</a>
-            </li>
-            <li @click="openTab = 5" :class="{ '-mb-px': openTab === 5 }" class="mx-4 xl:mx-4">
-                <a :class="openTab === 5 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 px-4 font-semibold" href="#{{ .결의안.slug }}">{{ .결의안.title }}</a>
-            </li>                           
+            <ul class="flex items-start justify-start xs:text-xs md:text-2xl">
+                <li @click="openTab = 1" :class="{ '-mb-px': openTab === 1 }" class="-mb-px mx-4">
+                    <a :class="openTab === 1 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .아시아연대회의.slug }}">{{ .아시아연대회의.title }}</a>
+                </li>
+                <li @click="openTab = 2" :class="{ '-mb-px': openTab === 2 }" class="mx-4">
+                    <a :class="openTab === 2 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .법정.slug }}">{{ .법정.title }}</a>
+                </li>
+                <li @click="openTab = 3" :class="{ '-mb-px': openTab === 3 }" class="mx-4">
+                    <a :class="openTab === 3 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .UN.slug }}">{{ .UN.title }}</a>
+                </li>
+                <li @click="openTab = 4" :class="{ '-mb-px': openTab === 4 }" class="mx-4">
+                    <a :class="openTab === 4 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .해외연대단체.slug }}">{{ .해외연대단체.title }}</a>
+                </li> 
+                <li @click="openTab = 5" :class="{ '-mb-px': openTab === 5 }" class="mx-4">
+                    <a :class="openTab === 5 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .결의안.slug }}">{{ .결의안.title }}</a>
+                </li>                                 
+                <li @click="openTab = 6" :class="{ '-mb-px': openTab === 6 }" class="mx-4">
+                    <a :class="openTab === 6 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .국외연대사업소식.url }}" target="_blank">{{ .국외연대사업소식.title }}</a>
+                </li>                    
             </ul>
             <div class="w-full pt-4">
                 <div x-show="openTab === 1">
                     <div class="lg:flex justify-center py-12">
-                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .아시아연대회의.title }}<br/><span class="mr-4"></span></h2>
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .아시아연대회의.title }}</h2>
                         <div class="text-lg">
-                            <p class="mb-7">정의기억연대는 일본군'위안부'피해생존자들이 겪었던 역사를 기억하고 교육하며,
-                                일본군 성노예제 문제 해결을 위해 활동하는 공간입니다. 지금도 일어나고 있는 전시성폭력 문제에 관심을 가지고 전쟁과 여성폭력 없는 세상을 위해 연대하고 행동하는 박물관입니다. </p>
-                    
-                            <p class="mb-7">안전하고 평화로운 세상에서 아이들이 자라길 바랐던 일본군'위안부' 피해생존자들의 오랜 염원은 국내외 시민들의 공감을 불러일으켜 모금 활동으로 이어졌습니다. 기나긴 여정을 지나
-                            마침내 2012년 5월 5일 어린이날, 정의기억연대는 미래세대와 시민들에게 특별한 선물이 되어 문을 열었습니다. </p>
-                    
-                            <p class="mb-7">정의기억연대는 다양한 전시와 교육 프로그램을 통해 과거의 역사와 기억을 알리고,
-                            ‘여성, 인권, 평화’를 향한 현재의 활동을 기록함으로써 미래세대에게 더 나은 세상을 전하고자 합니다.</p>
-                    
-                            <p class="mb-7">초국적 시민 연대의 통로, 미래세대 교육의 장, 기억과 기록의 국제 플랫폼이 되고자 하는 이곳 정의기억연대 홈페이지에 여러분들의 지속적인 관심과 참여 부탁드립니다. </p>
-                    
-                            <p>감사합니다.</p>
+                            <p class="mb-7">{{ .아시아연대회의.body }}</p>
                         </div>
                     </div>
                 </div>          
                 <div x-show="openTab === 2">
                     <div class="lg:flex justify-center py-12">
-                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .법정.title }}<br/><span class="mr-4"></span></h2>
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .법정.title }}</h2>
                         <div class="text-lg">
-                            <p class="mb-7">정의기억연대는 일본군'위안부'피해생존자들이 겪었던 역사를 기억하고 교육하며,
-                                일본군 성노예제 문제 해결을 위해 활동하는 공간입니다. 지금도 일어나고 있는 전시성폭력 문제에 관심을 가지고 전쟁과 여성폭력 없는 세상을 위해 연대하고 행동하는 박물관입니다. </p>
-                    
-                            <p class="mb-7">안전하고 평화로운 세상에서 아이들이 자라길 바랐던 일본군'위안부' 피해생존자들의 오랜 염원은 국내외 시민들의 공감을 불러일으켜 모금 활동으로 이어졌습니다. 기나긴 여정을 지나
-                            마침내 2012년 5월 5일 어린이날, 정의기억연대는 미래세대와 시민들에게 특별한 선물이 되어 문을 열었습니다. </p>
-                    
-                            <p class="mb-7">정의기억연대는 다양한 전시와 교육 프로그램을 통해 과거의 역사와 기억을 알리고,
-                            ‘여성, 인권, 평화’를 향한 현재의 활동을 기록함으로써 미래세대에게 더 나은 세상을 전하고자 합니다.</p>
-                    
-                            <p class="mb-7">초국적 시민 연대의 통로, 미래세대 교육의 장, 기억과 기록의 국제 플랫폼이 되고자 하는 이곳 정의기억연대 홈페이지에 여러분들의 지속적인 관심과 참여 부탁드립니다. </p>
-                    
-                            <p>감사합니다.</p>
+                            제1차 정신대문제 아시아연대회의 결의문<br>
+                            <br>
+                            <br>
+                            1992년 8월 10~11일 서울에서 열린 “정신대문제 아시아 연대회의”에 한국, 필리핀, 대만, 태국, 홍콩, 일본 등 6개국에서 참가한 우리는 식민지 지배와 침략전쟁에 의한 여성의 성적 노예화와 인간 존엄성 말상에 심각성을 확인하면서 다음과 같은 결의문을 채택한다.<br>
+                            <br>
+                            “강제 종군 위안부” 문제는 일본의 천황제 파시즘과 군국적인 국가권력의 체계적이고 조직적인 강제 연행, 윤간, 고문, 학살 등 전대미문의 잔학한 범죄이다. 이것은 가부장제와 군국주의 전쟁이 얼마나 조직적으로 여성을 성적으로 유린하고 인간성을 말살하는가를 극명하게 보여주는 예이다. 따라서 우리는 강제 종군 위안부 문제의 해결이야말로 전쟁범죄의 재발을 방지하고, 평화를 구축할 수 있는 중요한 과제라고 생각한다. <br>
+                            <br>
+                            그러나 일본정부는 지난 7월 6일 강제 종군 위안부 문제에 대해 형식적인 사죄에 그치고 과거 스스로 저지른 죄과에 대한 진정한 반성의 빛을 보이지 않은 채 전후 처리에 대한 책임을 회피하고 있다. 뿐만 아니라 최근 PKO법안을 통과시켜 자위대 해외 파병의 길을 열러 놓은데 대해 우리는 일본 군국주의의 부활을 우려하지 않을 수 없다. 일본이 아시아 여러 나라의 진정한 이웃나라가 되기 위해서는 과거 그들의 역사를 반성하고 종군위안부문제를 비롯한 전후 처리에 대해 책임있는 태도로 임하여야 할 것이다.<br>
+                            <br>
+                            우리는 강제 종군 위안부 문제 해결을 위해 한국, 북한, 중국, 대만, 태국, 필리핀, 인도네시아, 말레이시아 그리고 일본 등 아시아 각국에서 힘쓰고 있는 모든 민간단체 및 개인들의 강력한 연대가 필요하다는 것을 확인하였다. <br>
+                            <br>
+                            이를 위하여 오늘 이 회의에 모인 한국, 대만, 필리핀, 홍콩, 태국, 일본 6개국 대표들은 “강제 종군 위안부 문제 아세아 연대”를 결성했다. 이 아시아 연대를 통해서 우리는 “강제종군위안부” 문제 해결을 위한 다음과 같은 행동과제들을 해결해 나갈 것이다.<br>
+                            <br>
+                            1. 우리는 아시아 태평양 전쟁 때 아시아 전역에서 일본이 저지른 강제종군 위안부 실태조사를 계속한다.<br>
+                            2. 우리는 강제 종군 위안부 문제에 대한 진상규명, 배상, 보상, 역사교과서 시정 등 일본의 책임있는 전후 처리를 촉구한다.<br>
+                            3. 우리는 유엔을 위시하여 세계인권기구들에게 강제종군위안부 문제 해결을 위한 협력을 요청한다.<br>
+                            4. 우리는 금번 회의에 참가하지 못한 아시아 여러 나라들도 아시아 연대에 참가하도록 노력한다.<br>
+                            5. 우리는 아시아 연성의 인권 신장과 세계 평화를 위해 노력한다.<br>
+                            <br>
+                            “정신대 문제 아시아 연대 회의”의 참석자들은 일본 정부가 참회의 표현으로 다음과 같은 요구를 받아들이도록 촉구하는 것이 우리가 함께 해결해야 할 임무라고 생각한다.<br>
+                            <br>
+                            1. 일본 정부는 아시아 여러 나라의 여성들을 종군 위안부로 강제 연행한 사실을 인정하라.<br>
+                            2. 일본 정부는 “강제 종군 위안부 문제”의 전모에 대한 진상조사를 실시해야 하며, 전쟁에 의해 발생된 그와 같은 비국이 다시는 반복되지 않도록 국제사회에 공개하여야 한다.<br>
+                            3. 일본 정부는 아시아 사람들, 특별히 아시아 여성들에게 국제적으로 인정되는 기본적인 인권 기준을 침해하였다는 사실을 인정하고, 개별 희생자들과 아시아 각 국의 여성들에게 완전하고도 납득할 만한 완전한 공개사죄를 하여야 한다.<br>
+                            4. 일본 정부는 “강제 종군 위안부” 생존자들과 그 가족에게 국제법에 따라 배상을 실시하여야 한다.<br>
+                            5. 일본 정부는 일본군이 아시아 나라들을 침략하여 “ 강제 종군 위안부”라는 이름 하에 아시아 여성들을 강제 연행, 매춘을 강요하고, 인권을 유린한 사실을 일본 학교 교과서에 명기하여 가르쳐야 한다.<br>
+                            <br>
+                            <br>
+                            1992년 8월 11일<br>
+                            “정신대 문제 아시아 연대 회의” 참석자 일동<br>
+                            <br>
+                            <br>
+                            <br>
+                            ---<br>
+                            The joint resolution of the First Asian Solidarity Conference on military sexual slavery by Japan <br>
+                            <br>
+                            With the reconsideration of atrocities and women slavery during the military colonial period, the following resolution was adopted with the realization of seriousness of military sexual slavery by Japanese colonial invasion with the attendance of six nations; Korea, the Philippines, Taiwan, Thailand, Hong Kong, and Japan during the Seoul Asian Coalition Conference for Comfort Women During the Japanese Colonial Period from Oct. 10-11, 1992. <br>
+                            <br>
+                            "Military Sexual Slavery" is a cold-blooded act which was fulfilled systematically by Japanese military power and autocracy. This is a model example of how patriarchy and militarism-oriented war could dishonor women sexually. Therefore, we strongly believe that taking good care of the military sexual slavery incident during the Japanese colonial rule is the very solution to prevent any possible war and build up peace around the neighboring area. <br>
+                            <br>
+                            However, the Japanese government's apology against the military sexual slavery issue on July 6 was hardly satisfactory. Japan's never admitted its brutal wrongdoing and just tried to avoid any responsibility. Furthermore, the Junichiro Koizumi administration has passed PKO bill and opened a gate for Self-defense Forces. That's why we can not ignore the resurrection of Japanese autocracy. Japan must admit its wrongdoing and take the responsibility of its brutal and cruel actions during World War II, in order to become a real friend with neighboring nations.     <br>
+                            <br>
+                            We have realized that we need to build up a strong coalition among Asian countries such as South Korea, North Korea, China, Taiwan, Thailand, the Philippines, Indonesia, and Malaysia as well as Japan to solve the past military sexual slavery problem. For this, the six nations (Korea, Taiwan, the Philippines, Hongkong, Thailand, and Japan) have adopted the Asian Coalition Conference for Comfort Women During the Japanese Colonial Rule. Empowered by this coalition, the military sexual slavery issue will be dealt with as follows: <br>
+                            <br>
+                            1. We will continue doing the research on Japan's sexual slavery atrocity during  World War II. <br>
+                            2. We urge that the post-war actions (ex: examining the real truth, compensation, correcting history textbook, etc.) could be properly made with regard to sexual slavery issue.   <br>
+                            3. To solve the sexual slavery issue, we will work together with the UN's human rights organization and others. <br>
+                            4. We will make decent efforts to make the other absent nations participate in the Asian coalition above. <br>
+                            5. We will also do our best for world peace and women's rights. <br>
+                            <br>
+                            The attendants of the Asian Coalition Conference for Comfort Women During the Japanese Colonial Period have agreed that it's our duty to make the Japanese government admit the following issues: <br>
+                            <br>
+                            1. The Japanese government admits its sexual slavery atrocity in several Asian countries during the World War II. <br>
+                            2. The Japanese government forms a special organization and closely investigates the Military Sexual Slavery issue. Then, it announces the results worldwide to prevent the tragedy from reoccurring. <br>
+                            3. The Japanese government must admit that it trampled on human rights and publicly apologize its atrocity especially to the victims from many Asian nations.  <br>
+                            4. The Japanese government has to compensate the victims and their family based on related international law. <br>
+                            5. The Japanese government must have its school textbooks include its brutal and cruel atrocities such as forcing prostitution and violation of human rights by the name of "Military Sexual Slavery".  <br>
+                            <br>
+                            Aug. 11, 1992 <br>
+                            On behalf of all attendants of Asian Coalition Conference for Comfort Women During the Japanese Colonial Rule
                         </div>
                     </div>
                 </div>
@@ -69,18 +109,7 @@
                     <div class="lg:flex justify-center py-12">
                         <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .UN.title }}</h2>
                         <div class="text-lg">
-                            <p class="mb-7">정의기억연대는 일본군'위안부'피해생존자들이 겪었던 역사를 기억하고 교육하며,
-                                일본군 성노예제 문제 해결을 위해 활동하는 공간입니다. 지금도 일어나고 있는 전시성폭력 문제에 관심을 가지고 전쟁과 여성폭력 없는 세상을 위해 연대하고 행동하는 박물관입니다. </p>
-                    
-                            <p class="mb-7">안전하고 평화로운 세상에서 아이들이 자라길 바랐던 일본군'위안부' 피해생존자들의 오랜 염원은 국내외 시민들의 공감을 불러일으켜 모금 활동으로 이어졌습니다. 기나긴 여정을 지나
-                            마침내 2012년 5월 5일 어린이날, 정의기억연대는 미래세대와 시민들에게 특별한 선물이 되어 문을 열었습니다. </p>
-                    
-                            <p class="mb-7">정의기억연대는 다양한 전시와 교육 프로그램을 통해 과거의 역사와 기억을 알리고,
-                            ‘여성, 인권, 평화’를 향한 현재의 활동을 기록함으로써 미래세대에게 더 나은 세상을 전하고자 합니다.</p>
-                    
-                            <p class="mb-7">초국적 시민 연대의 통로, 미래세대 교육의 장, 기억과 기록의 국제 플랫폼이 되고자 하는 이곳 정의기억연대 홈페이지에 여러분들의 지속적인 관심과 참여 부탁드립니다. </p>
-                    
-                            <p>감사합니다.</p>
+                            <p class="mb-7">{{ .UN.body }}</p>
                         </div>
                     </div>
                 </div>
@@ -88,18 +117,7 @@
                     <div class="lg:flex justify-center py-12">
                         <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .해외연대단체.title }}</h2>
                         <div class="text-lg">
-                            <p class="mb-7">정의기억연대는 일본군'위안부'피해생존자들이 겪었던 역사를 기억하고 교육하며,
-                                일본군 성노예제 문제 해결을 위해 활동하는 공간입니다. 지금도 일어나고 있는 전시성폭력 문제에 관심을 가지고 전쟁과 여성폭력 없는 세상을 위해 연대하고 행동하는 박물관입니다. </p>
-                    
-                            <p class="mb-7">안전하고 평화로운 세상에서 아이들이 자라길 바랐던 일본군'위안부' 피해생존자들의 오랜 염원은 국내외 시민들의 공감을 불러일으켜 모금 활동으로 이어졌습니다. 기나긴 여정을 지나
-                            마침내 2012년 5월 5일 어린이날, 정의기억연대는 미래세대와 시민들에게 특별한 선물이 되어 문을 열었습니다. </p>
-                    
-                            <p class="mb-7">정의기억연대는 다양한 전시와 교육 프로그램을 통해 과거의 역사와 기억을 알리고,
-                            ‘여성, 인권, 평화’를 향한 현재의 활동을 기록함으로써 미래세대에게 더 나은 세상을 전하고자 합니다.</p>
-                    
-                            <p class="mb-7">초국적 시민 연대의 통로, 미래세대 교육의 장, 기억과 기록의 국제 플랫폼이 되고자 하는 이곳 정의기억연대 홈페이지에 여러분들의 지속적인 관심과 참여 부탁드립니다. </p>
-                    
-                            <p>감사합니다.</p>
+                            <p class="mb-7">{{ .해외연대단체.body }}</p>
                         </div>
                     </div>
                 </div>
@@ -107,21 +125,10 @@
                     <div class="lg:flex justify-center py-12">
                         <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .결의안.title }}</h2>
                         <div class="text-lg">
-                            <p class="mb-7">정의기억연대는 일본군'위안부'피해생존자들이 겪었던 역사를 기억하고 교육하며,
-                                일본군 성노예제 문제 해결을 위해 활동하는 공간입니다. 지금도 일어나고 있는 전시성폭력 문제에 관심을 가지고 전쟁과 여성폭력 없는 세상을 위해 연대하고 행동하는 박물관입니다. </p>
-                    
-                            <p class="mb-7">안전하고 평화로운 세상에서 아이들이 자라길 바랐던 일본군'위안부' 피해생존자들의 오랜 염원은 국내외 시민들의 공감을 불러일으켜 모금 활동으로 이어졌습니다. 기나긴 여정을 지나
-                            마침내 2012년 5월 5일 어린이날, 정의기억연대는 미래세대와 시민들에게 특별한 선물이 되어 문을 열었습니다. </p>
-                    
-                            <p class="mb-7">정의기억연대는 다양한 전시와 교육 프로그램을 통해 과거의 역사와 기억을 알리고,
-                            ‘여성, 인권, 평화’를 향한 현재의 활동을 기록함으로써 미래세대에게 더 나은 세상을 전하고자 합니다.</p>
-                    
-                            <p class="mb-7">초국적 시민 연대의 통로, 미래세대 교육의 장, 기억과 기록의 국제 플랫폼이 되고자 하는 이곳 정의기억연대 홈페이지에 여러분들의 지속적인 관심과 참여 부탁드립니다. </p>
-                    
-                            <p>감사합니다.</p>
+                            <p class="mb-7">{{ .결의안.body }}</p>
                         </div>
                     </div>
-                </div>                                
+                </div>                                              
             </div>
         </div>
     </div>

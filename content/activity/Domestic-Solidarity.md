@@ -5,7 +5,7 @@ layout: section_single
 banner:
   title:
   summary: 
-  imageLink: /img/pagebanner/about/history.jpg
+  imageLink: https://womenandwar.net/kr/wp-content/uploads/2023/01/photo_2023-01-05_16-12-56.jpg
   itemLink: 
 ---
 

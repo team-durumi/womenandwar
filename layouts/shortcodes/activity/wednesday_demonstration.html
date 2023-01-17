@@ -21,7 +21,7 @@
                 </li> 
                 <li @click="openTab = 4" :class="{ '-mb-px': openTab === 4 }" class="mx-4 xl:mx-16">
                     <a :class="openTab === 4 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .이번주수요시위.url }}" target="_blank">{{ .이번주수요시위.title }}</a>
-                </li>                    
+                </li>
             </ul>
             <div class="w-full pt-4">
                 <div x-show="openTab === 1 ">
@@ -86,7 +86,7 @@
                 </div>
                 <div x-show="openTab === 2">
                     {{ with .연혁.수요시위연혁 }}
-                    <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4 pt-12">{{ .title }}<br/><span class="mr-4"></span></h2>
+                    <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4 pt-12">{{ .title }}</h2>
                     <div class="lg:flex justify-center py-6">
                         <div class="mb-20">
                             <ul class="text-aa-gray-900 mb-14">
