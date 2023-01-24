@@ -1,5 +1,5 @@
 ---
-title: 수요시위
+title: 이번주 수요시위
 date: 2022-10-26
 banner:
   title: 첫 수요집회
