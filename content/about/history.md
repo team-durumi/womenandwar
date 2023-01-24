@@ -9,4 +9,4 @@ banner:
   itemLink: 
 ---
 
-{{< about/org-history >}}
+{{< about/history >}}
