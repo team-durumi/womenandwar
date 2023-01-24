@@ -14,7 +14,7 @@
                     <a :class="openTab === 1 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .기금설명.slug }}">{{ .기금설명.title }}</a>
                 </li>
                 <li @click="openTab = 2" :class="{ '-mb-px': openTab === 2 }" class="mx-4 xl:mx-16">
-                    <a :class="openTab === 2 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .전시성폭력재발방지.url }}" target="_blank">{{ .전시성폭력재발방지.title }}</a>
+                    <a :class="openTab === 2 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .전시성폭력재발방지.url }}">{{ .전시성폭력재발방지.title }}</a>
                 </li>
             </ul>            
             <div class="w-full pt-4">

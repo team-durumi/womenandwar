@@ -10,15 +10,18 @@
             class="p-2 xl:p-8"
         >
             <ul class="flex items-start justify-start text-lg md:text-3xl">
-                <li @click="openTab = 1" :class="{ '-mb-px': openTab === 1 }" class="-mb-px mx-4 xl:mx-16">
+                <li @click="openTab = 1" :class="{ '-mb-px': openTab === 1 }" class="-mb-px mx-4">
                     <a :class="openTab === 1 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .기림일.slug }}">{{ .기림일.title }}</a>
                 </li>
-                <li @click="openTab = 2" :class="{ '-mb-px': openTab === 2 }" class="mx-4 xl:mx-16">
-                    <a :class="openTab === 2 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .국내평화비.url }}">{{ .국내평화비.title }}</a>
+                <li @click="openTab = 2" :class="{ '-mb-px': openTab === 2 }" class="mx-4">
+                    <a :class="openTab === 2 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .국내평화비.slug }}">{{ .국내평화비.title }}</a>
                 </li>
-                <li @click="openTab = 3" :class="{ '-mb-px': openTab === 3 }" class="mx-4 xl:mx-16">
-                    <a :class="openTab === 3 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .해외평화비.url }}">{{ .해외평화비.title }}</a>
-                </li>    
+                <li @click="openTab = 3" :class="{ '-mb-px': openTab === 3 }" class="mx-4">
+                    <a :class="openTab === 3 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .해외평화비.slug }}">{{ .해외평화비.title }}</a>
+                </li>
+                <li @click="openTab = 4" :class="{ '-mb-px': openTab === 4 }" class="mx-4">
+                    <a :class="openTab === 4 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .기림사업.url }}">{{ .기림사업.title }}</a>
+                </li>                    
             </ul>            
             <div class="w-full pt-4">
                 <div x-show="openTab === 1">

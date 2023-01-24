@@ -26,7 +26,7 @@
                     <a :class="openTab === 5 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .결의안.slug }}">{{ .결의안.title }}</a>
                 </li>                                 
                 <li @click="openTab = 6" :class="{ '-mb-px': openTab === 6 }" class="mx-4">
-                    <a :class="openTab === 6 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .국외연대사업소식.url }}" target="_blank">{{ .국외연대사업소식.title }}</a>
+                    <a :class="openTab === 6 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .국외연대사업소식.url }}">{{ .국외연대사업소식.title }}</a>
                 </li>                    
             </ul>
             <div class="w-full pt-4">

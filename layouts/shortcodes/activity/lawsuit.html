@@ -14,10 +14,10 @@
                     <a :class="openTab === 1 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .활동소개.slug }}">{{ .활동소개.title }}</a>
                 </li>
                 <li @click="openTab = 2" :class="{ '-mb-px': openTab === 2 }" class="mx-4 xl:mx-16">
-                    <a :class="openTab === 2 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .국내법적대응.slug }}" target="_blank">{{ .국내법적대응.title }}</a>
+                    <a :class="openTab === 2 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .국내법적대응.slug }}">{{ .국내법적대응.title }}</a>
                 </li>
                 <li @click="openTab = 3" :class="{ '-mb-px': openTab === 3 }" class="mx-4 xl:mx-16">
-                    <a :class="openTab === 3 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .국외법적대응.slug }}" target="_blank">{{ .국외법적대응.title }}</a>
+                    <a :class="openTab === 3 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .국외법적대응.slug }}">{{ .국외법적대응.title }}</a>
                 </li>
             </ul>            
             <div class="w-full pt-4">
