@@ -103,15 +103,15 @@ main:
     weight: 4
     parent: 소식
   - name: 성명.논평
-    url: /connect/notice
+    url: /connect/press-release
     weight: 5
     parent: 소식
   - name: 발간물
-    url: /connect/notice
+    url: /connect/resource
     weight: 6
     parent: 소식
   - name: 언론동향
-    url: /connect/notice
+    url: /connect/resource
     weight: 7
     parent: 소식     
   - name: 자료실
