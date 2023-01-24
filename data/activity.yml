@@ -603,4 +603,34 @@ ko:
       title: 장학사업 소식
       slug: activities
       url: "/categories/장학사업/"      
-
+  donation:
+    title: "후원하기"
+    slug: donation
+    후원목록:
+      title: 후원목록
+      slug: donation_list
+      목록:
+        - title: 정기후원
+          body: 일본군성노예제 문제의 정의로운 해결을 위한 수요시위, 피해자의 명예회복과 국내.외 시민들과 함께 여성 인권 평화를 위한 활동에 쓰입니다.
+          url: https://mrmweb.hsit.co.kr/v2/Default.aspx?action=join&server=anSZe1lBpJs/ev/3FiPISw==
+        - title: 일시후원
+          body: 일본군성노예제 문제의 정의로운 해결을 위한 수요시위, 피해자의 명예회복과 국내.외 시민들과 함께 여성 인권 평화를 위한 활동에 쓰입니다.
+          url: https://mrmweb.hsit.co.kr/v2/Member/SupportOnce.aspx?action=once&server=anSZe1lBpJs/ev/3FiPISw==
+        - title: 희망저금통
+          body: 일본군성노예제의 정의로운 해결을 바라는 마음으로 가까운 곳에 저금통을 놓고 채워주세요. 모아주신 금액은 20만 동행인 캠페인에 사용됩니다.
+          url: http://womenandwar.net/kr/%ED%9D%AC%EB%A7%9D%EC%A0%80%EA%B8%88%ED%86%B5-%EC%8B%A0%EC%B2%AD/
+        - title: 동행팔찌 구매
+          body: 할머니들께서 정의를 위해 외쳐왔던 소중한 말씀 한 구절 한 구절을 팔찌에 담았습니다. 동행팔찌 구매를 통해 20만 동행인 캠페인에 함께 해요!  
+          url: https://docs.google.com/forms/d/e/1FAIpQLSchLG2PCsXYUIGLHjPYcG7N0YUMM4wR0vGVFLJOeP_yMa2-Zg/viewform
+        - title: 나비기금
+          body: 일본군 성노예제 피해 할머니들이 고통을 겪었던 것처럼, 지금 이 순간에도 수많은 여성이 전쟁의 한가운데에서 폭력의 괴로움 속에 살고 있습니다. 2012년 3월 8일 세계 여성의 날, 김복동 할머니와 길원옥 할머니는 일본 정부로부터 법적 배상을 받으면 전액을 전시 성폭력 피해 여성들을 위해 기부하겠다는 약속을 하셨습니다. 할머니들의 숭고한 뜻에 따라 나비기금은 콩고, 베트남, 인도네시아 등의 전시 성폭력 피해 여성들이 희망을 품고 당당하게 살 수 있도록 지원하고 있습니다.
+          url: https://mrmweb.hsit.co.kr/v2/Member/SupportOnce.aspx?action=once&server=anSZe1lBpJs/ev/3FiPISw==              
+        - title: 세계 평화비 기금 만들기
+          body: 2011년 12월 14일 일본군성노예제 문제해결을 위한 수요시위가 천회를 맞이하던 날 주한일본대사관 앞 평화로에 세워진 평화비. 소녀의 빈 의자, 바닥의 그림자 등이 하나의 평화비를 이루어 전국 각지, 해외 곳곳에 세워져 일본군성노예제 역사를 알리는 데 기여하고 있습니다. 모아진 평화비 기금은 일본군성노예제 문제해결을 위해 해외에 세워지는 평화비 건립확산을 위해 사용됩니다.
+          url: https://mrmweb.hsit.co.kr/v2/Member/SupportOnce.aspx?action=once&server=anSZe1lBpJs/ev/3FiPISw==
+        - title: 김복동 평화기금
+          body: 김복동 할머니는 평화의 중요성을 전세계에 알리는 여성인권 활동가의 삶을 살아오셨습니다. 할머니의 뜻을 이어받아 열심히 평화와 인권을 외칠 미래세대를 지원하기 위하여 만들어진 기금입니다.
+          url: https://mrmweb.hsit.co.kr/v2/Member/SupportOnce.aspx?action=once&server=anSZe1lBpJs/ev/3FiPISw==    
+        - title: 희망씨앗기금
+          body: 2017년 11월 25일 세계여성폭력추방의 날을 기념하여 정의기억재단은 대한민국정부에 등록된 모든 피해자 할머니들께 여성 인권 운동가로서의 삶을 살아오심에 감사드리며 100만 시민이 드리는 ‘여성인권상’을 전달드렸습니다. 특히 송신도 할머니를 비롯한 일본정부가 위로금 명목으로 지급했던 10억 엔을 거부하며 싸워오신 피해자 할머니들께 부상으로 상금을 전해드렸습니다. 2017년 12월 16일 세상을 떠나시기 전 정의기억재단이 전달드린 상금 전액을 기부해주셨습니다. 이렇게 송신도 희망씨앗기금이 만들어졌고, 2017년 6월 9일 일본의 미래세대들을 위한 교육사업을 목적으로 설립된 ‘희망씨앗기금’과의 교류사업을 위해 사용 되고 있습니다.
+          url: https://www.kibotane.org/about-us

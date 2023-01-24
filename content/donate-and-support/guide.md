@@ -5,7 +5,7 @@ layout: section_single
 banner:
   title:
   summary:
-  imageLink:
+  imageLink: https://media.womenandwar.net/web/img/guide_donation.png
   itemLink:
 ---
 
