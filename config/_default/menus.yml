@@ -127,7 +127,7 @@ main:
     weight: 1
     parent: 후원.참여
   - name: 후원스토리
-    url: categories/후원스토리
+    url: /categories/후원스토리
     weight: 2
     parent: 후원.참여       
   - name: 봉사.재능기부
