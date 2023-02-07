@@ -74,7 +74,7 @@ collections:
         name: "categories"
         widget: "select"
         multiple: true
-        options: [ "this-week", "연대사업", "video", "생존자복지", "연구조사교육", "전시성폭력재발방지", "기림사업", "나비기금", "donation", "쉼터소식", "일본국상대소송", "japanese", "장학사업" ]
+        options: [ "this-week", "연대사업", "video", "생존자복지", "연구조사교육", "전시성폭력재발방지", "기림사업", "나비기금", "donation", "쉼터소식", "일본국상대소송", "japanese", "장학사업", "후원스토리" ]
         default: [ "this-week" ]
         hint: 'this-week 수요시위'              
       - { label: '본문', name: 'body', widget: 'markdown' }
