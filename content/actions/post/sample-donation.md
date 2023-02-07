@@ -1,7 +1,7 @@
 ---
 title: 서재석님
 author: 정의기억연대
-date: 2019-05-02
+date: 2023-02-07T13:02:25.592Z
 summary: 안녕하세요 저는 사회복지 현장에 10년째 일하고 있는 사회복지사 입니다.
 image: https://media.womenandwar.net/web/img/guide_donation.png
 categories:
