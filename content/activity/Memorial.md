@@ -1,5 +1,5 @@
 ---
-title: 기억.기림
+title: 기억·기림
 date: 2023-01-03
 layout: section_single
 banner:

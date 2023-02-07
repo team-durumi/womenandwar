@@ -30,7 +30,7 @@ main:
     url: /about/articles
     weight: 3
     parent: 소개       
-  - name: 비전.미션
+  - name: 비전·미션
     url: /about/vision-and-mission
     weight: 4
     parent: 소개
@@ -70,7 +70,7 @@ main:
     url: /activity/Lawsuit
     weight: 5
     parent: 활동
-  - name: 기억.기림
+  - name: 기억·기림
     url: /activity/Memorial
     weight: 6
     parent: 활동
@@ -98,11 +98,11 @@ main:
     url: /connect/notice
     weight: 3
     parent: 소식    
-  - name: 액션.캠페인
-    url: /categories/연대사업/
+  - name: 액션·캠페인
+    url: /campaign
     weight: 4
     parent: 소식
-  - name: 성명.논평
+  - name: 성명·논평
     url: /connect/press-release
     weight: 5
     parent: 소식
@@ -119,22 +119,22 @@ main:
     weight: 8
     parent: 소식
 
-  - name: 후원.참여  
+  - name: 후원·참여  
     url: /donate-and-support
     weight: -70
   - name: 후원하기
     url: /donate-and-support/guide
     weight: 1
-    parent: 후원.참여
+    parent: 후원·참여
   - name: 후원스토리
     url: /categories/후원스토리
     weight: 2
-    parent: 후원.참여       
-  - name: 봉사.재능기부
+    parent: 후원·참여       
+  - name: 봉사·재능기부
     url: /donate-and-support/volunteer
     weight: 3
-    parent: 후원.참여
+    parent: 후원·참여
   - name: 수요시위 참여
     url: /donate-and-support/support
     weight: 4
-    parent: 후원.참여
+    parent: 후원·참여

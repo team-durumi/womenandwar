@@ -1,5 +1,5 @@
 ---
-title: 봉사/재능기부
+title: 봉사·재능기부
 date: 2011-11-17
 layout: section_single
 banner:

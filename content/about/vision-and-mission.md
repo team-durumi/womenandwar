@@ -1,5 +1,5 @@
 ---
-title: 비전과미션
+title: 비전·미션
 date: 2022-09-20
 layout: section_single
 banner:
