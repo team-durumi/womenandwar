@@ -1,2 +1,209 @@
-피해자들의 외침testimonies
-https://womenandwar.net/kr/testimony/
+{{ with site.Data.comfort_women.ko.testimonies }}
+<div class="mb-20">
+    <div class="flex justify-between items-center mb-6 border-b border-aa-gray-900 pb-6">
+        <h2 class="text-3xl font-bold text-aa-gray-900 leading-none">{{ .title }}</h2>
+    </div>
+    <div class="mb-20">
+        <ul class="flex flex-wrap pt-6">
+            <li class="lg:w-1/3 w-full p-5">
+                <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                    <img class="absolute w-full object-cover" src="{{ .길원옥.src }}" alt="{{ .길원옥.name }}">
+                </span>
+                <p class="mt-4 text-lg font-bold text-center">{{ .길원옥.name }}</p>
+                <p class="my-2 text-center">{{ .길원옥.lifespan }}</p>
+                <p class="my-2 text-center">{{ .길원옥.message }}</p>
+                <div class="mt-10" style="font-family:Kokoro,sans-serif;">
+                    <a class="inline-block w-full text-center border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+                </div>
+            </li>
+            <li class="lg:w-1/3 w-full p-5">
+                <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                    <img class="absolute w-full" src="{{ .강경덕.src }}" alt="{{ .강경덕.name }}">
+                </span>
+                <p class="mt-4 text-lg font-bold text-center">{{ .강경덕.name }}</p>
+                <p class="my-2 text-center">{{ .강경덕.lifespan }}</p>
+                <p class="my-2 text-center">{{ .강경덕.message }}</p>
+                <div class="mt-10" style="font-family:Kokoro,sans-serif;">
+                    <a class="inline-block w-full text-center border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+                </div>
+            </li>
+            <li class="lg:w-1/3 w-full p-5">
+                <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                    <img class="absolute w-full" src="{{ .김복동.src }}" alt="{{ .김복동.name }}">
+                </span>
+                <p class="mt-4 text-lg font-bold text-center">{{ .김복동.name }}</p>
+                <p class="my-2 text-center">{{ .김복동.lifespan }}</p>
+                <p class="my-2 text-center">{{ .김복동.message }}</p>
+                <div class="mt-10" style="font-family:Kokoro,sans-serif;">
+                    <a class="inline-block w-full text-center border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+                </div>
+            </li>
+            <li class="lg:w-1/3 w-full p-5">
+                <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                    <img class="absolute w-full" src="{{ .황금주.src }}" alt="{{ .황금주.name }}">
+                </span>
+                <p class="mt-4 text-lg font-bold text-center">{{ .황금주.name }}</p>
+                <p class="my-2 text-center">{{ .황금주.lifespan }}</p>
+                <p class="my-2 text-center">{{ .황금주.message }}</p>
+                <div class="mt-10" style="font-family:Kokoro,sans-serif;">
+                    <a class="inline-block w-full text-center border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+                </div>
+            </li>
+            <li class="lg:w-1/3 w-full p-5">
+                <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                    <img class="absolute w-full" src="{{ .김학순.src }}" alt="{{ .김학순.name }}">
+                </span>
+                <p class="mt-4 text-lg font-bold text-center">{{ .김학순.name }}</p>
+                <p class="my-2 text-center">{{ .김학순.lifespan }}</p>
+                <p class="my-2 text-center">{{ .김학순.message }}</p>
+                <div class="mt-10" style="font-family:Kokoro,sans-serif;">
+                    <a class="inline-block w-full text-center border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+                </div>
+            </li>
+            <li class="lg:w-1/3 w-full p-5">
+                <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                    <img class="absolute w-full" src="{{ .송신도.src }}" alt="{{ .송신도.name }}">
+                </span>
+                <p class="mt-4 text-lg font-bold text-center">{{ .송신도.name }}</p>
+                <p class="my-2 text-center">{{ .송신도.lifespan }}</p>
+                <p class="my-2 text-center">{{ .송신도.message }}</p>
+                <div class="mt-10" style="font-family:Kokoro,sans-serif;">
+                    <a class="inline-block w-full text-center border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+                </div>
+            </li> 
+            <li class="lg:w-1/3 w-full p-5">
+                <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                    <img class="absolute w-full" src="{{ .이용수.src }}" alt="{{ .이용수.name }}">
+                </span>
+                <p class="mt-4 text-lg font-bold text-center">{{ .이용수.name }}</p>
+                <p class="my-2 text-center">{{ .이용수.lifespan }}</p>
+                <p class="my-2 text-center">{{ .이용수.message }}</p>
+                <div class="mt-10" style="font-family:Kokoro,sans-serif;">
+                    <a class="inline-block w-full text-center border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+                </div>
+            </li> 
+            <li class="lg:w-1/3 w-full p-5">
+                <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                    <img class="absolute w-full" src="{{ .정서운.src }}" alt="{{ .정서운.name }}">
+                </span>
+                <p class="mt-4 text-lg font-bold text-center">{{ .정서운.name }}</p>
+                <p class="my-2 text-center">{{ .정서운.lifespan }}</p>
+                <p class="my-2 text-center">{{ .정서운.message }}</p>
+                <div class="mt-10" style="font-family:Kokoro,sans-serif;">
+                    <a class="inline-block w-full text-center border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+                </div>
+            </li>
+            <li class="lg:w-1/3 w-full p-5">
+                <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                    <img class="absolute w-full" src="{{ .안점순.src }}" alt="{{ .안점순.name }}">
+                </span>
+                <p class="mt-4 text-lg font-bold text-center">{{ .안점순.name }}</p>
+                <p class="my-2 text-center">{{ .안점순.lifespan }}</p>
+                <p class="my-2 text-center">{{ .안점순.message }}</p>
+                <div class="mt-10" style="font-family:Kokoro,sans-serif;">
+                    <a class="inline-block w-full text-center border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+                </div>
+            </li>
+            <li class="lg:w-1/3 w-full p-5">
+                <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                    <img class="absolute w-full" src="{{ .문필기.src }}" alt="{{ .문필기.name }}">
+                </span>
+                <p class="mt-4 text-lg font-bold text-center">{{ .문필기.name }}</p>
+                <p class="my-2 text-center">{{ .문필기.lifespan }}</p>
+                <p class="my-2 text-center">{{ .문필기.message }}</p>
+                <div class="mt-10" style="font-family:Kokoro,sans-serif;">
+                    <a class="inline-block w-full text-center border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+                </div>
+            </li>                                                                         
+        </ul>
+    </div>
+    <div class="mt-10 lg:mt-0" style="font-family:Kokoro,sans-serif;">
+        <a class="inline-block border border-aa-purple-500 py-2 px-6 text-aa-purple-500 hover:text-black hover:border-black mr-3 cursor-pointer" @click="enModal = true" href="#">할머니의 삶</a>
+    </div>
+</div>
+
+{{ end }}
+
+<!-- Modal -->
+{{ range $index, $element := site.Data.admission_guide }}
+<div x-show="{{ $index }}Modal" style="font-family:Kokoro,sans-serif;">
+    <div class="fixed w-full h-full top-0 left-0 bg-black bg-opacity-60"></div>
+    <div class="absolute lg:w-10/12 w-full lg:top-24 top-0 lg:left-1/2 left-0 lg:transform lg:-translate-x-1/2 bg-white lg:rounded-xl overflow-hidden z-50">
+        <a href="#" class="absolute block w-12 h-12 top-4 right-4" @click="{{ $index }}Modal = false">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+        </a>
+        <div class="lg:py-14 py-6 lg:px-28 px-4">
+            <h2 class="text-2xl font-bold text-aa-gray-900 leading-none mb-6">{{ .관람안내.title }}</h2>
+            <div class="lg:flex justify-between">
+                <div class="leading-loose text-lg">
+                    <dl class="flex">
+                        <dt class="lg:w-20 w-24 text-aa-gray-900 font-bold flex justify-between mr-3 flex-shrink-0">{{ .관람안내.개관일.title }}<span>|</span></dt>
+                        <dd>{{ .관람안내.개관일.body }}</dd>
+                    </dl>
+                    <dl class="flex">
+                        <dt class="lg:w-20 w-24 text-aa-gray-900 font-bold flex justify-between mr-3 flex-shrink-0">{{ .관람안내.휴관일.title }}<span>|</span></dt>
+                        <dd>{{ .관람안내.휴관일.title }}</dd>
+                    </dl>
+                    <dl class="flex">
+                        <dt class="lg:w-20 w-24 text-aa-gray-900 font-bold flex justify-between mr-3 flex-shrink-0">{{ .관람안내.주소.title }}<span>|</span></dt>
+                        <dd>{{ .관람안내.주소.body }}</dd>
+                    </dl>
+                    <dl class="flex">
+                        <dt class="lg:w-20 w-24 text-aa-gray-900 font-bold flex justify-between mr-3 flex-shrink-0">{{ .관람안내.문의.title }}<span>|</span> </dt>
+                        <dd>{{ .관람안내.문의.body }}</dd>
+                    </dl>
+                    <dl>
+                        <dt class="lg:w-20 w-24 text-aa-gray-900 font-bold flex justify-between mr-3 flex-shrink-0">{{ .관람안내.안내.title }}</dt>
+                        <dd>
+                            <ol class="ml-5">
+                                {{ range .관람안내.안내.body }}
+                                    <li>{{ . }}</li>
+                                {{ end }}
+                            </ol>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+        <div class="lg:py-14 py-6 lg:px-28 px-4">
+            <h2 class="text-2xl font-bold text-aa-gray-900 leading-none mb-8">{{ .온라인예약안내.title }}</h2>
+            <ul>
+                <li class="justify-between mb-4">
+                    <dl class="mb-8">
+                        <dt class="w-10 h-10 leading-10 text-center rounded-3xl bg-aa-purple-500 text-white mb-4">1</dt>
+                        {{ range .온라인예약안내.body_1 }}
+                            <dd class="text-xl mb-2">{{ . }}</dd>
+                        {{ end }}
+                    </dl>
+                    <div class="w-96 h-full bg-aa-gray-50 text-center mb-8">
+                        <img class="h-full mx-auto" src="/images/museum-booking-01.png" alt="온라인예약예시화면-01">
+                    </div>
+                </li>
+                <li class="justify-between mb-4">
+                    <dl class="mb-8">
+                        <dt class="w-10 h-10 leading-10 text-center rounded-3xl bg-aa-purple-500 text-white mb-4">2</dt>
+                        {{ range .온라인예약안내.body_2 }}
+                            <dd class="text-xl mb-2">{{ . }}</dd>
+                        {{ end }}
+                    </dl>
+                    <div class="w-96 h-full bg-aa-gray-50 flex items-center">
+                        <img class="h-full mx-auto" src="/images/museum-booking-02.png" alt="온라인예약예시화면-02">
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="lg:py-14 py-6 lg:px-28 px-4">
+            <h2 class="text-2xl font-bold text-aa-gray-900 leading-none mb-8">{{ .예약관련문의.title }}</h2>
+            <p>
+                {{ .예약관련문의.body }}
+                <a href="mailto:{{ site.Params.footer.이메일 }}">{{ site.Params.footer.이메일 }}</a>
+            </p>
+        </div>
+        <br>
+        <a class="block text-center bg-aa-purple-500 text-white py-3.5" href="{{ site.Params.bookingNaver }}" target="_blank">{{ .온라인예약이동 }}</a>
+    </div>
+</div>
+{{ end }}
+<!-- //Modal -->
