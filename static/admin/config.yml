@@ -20,7 +20,7 @@ collections:
       - { label: "슬라이드 배경이미지", name: "image", widget: "image" }
       - { label: '버튼제목', name: 'button_name', widget: 'string', required: false }
       - { label: '버튼URL', name: 'button_url', widget: 'string', required: false }
-  - name: 'slides'
+  - name: 'issues'
     label: '메인 정의연 현안 3개 섹션'
     folder: 'content/issues'
     create: true
