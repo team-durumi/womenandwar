@@ -12,7 +12,7 @@ tags:
   - "victim-support"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2018/12/bangtansonyeondan-paendanche-ami-kibu-huwon-kesikeul-04.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2018/12/bangtansonyeondan-paendanche-ami-kibu-huwon-kesikeul-04.jpg)
 
 On Sunday, December 16th, the BTS fan club 'Army' donated winter goods to support the victims of Japanese military sexual slavery. 'Army' organized a fundraising event with fans from Korea, the U.S., Japan, Europe, and Central/South America from November 9th to November 30th.
 

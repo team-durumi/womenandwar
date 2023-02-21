@@ -15,19 +15,19 @@ tags:
 
 REMED, an organization in DR Congo, and Ushirika, a initiative for survivors of wartime sexual violence in DR Congo, organized an event to commemorate the Japanese military sexual slavery victims for the 1400th Wednesday Demonstration & 7th International Memorial Day for Japanese Military "Comfort Women" on August 14th 2019.
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-1-1-1024x683.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-1-1-1024x683.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-2-2-1024x683.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-2-2-1024x683.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-3-1-1024x683.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-3-1-1024x683.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-5-1-1024x683.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-5-1-1024x683.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-6-1-1024x683.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-6-1-1024x683.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-7-1-1024x683.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-7-1-1024x683.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-4-1-1024x683.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-4-1-1024x683.jpg)
 
 Below is a message from REMED:
 

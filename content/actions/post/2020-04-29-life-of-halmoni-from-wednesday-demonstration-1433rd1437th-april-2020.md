@@ -22,20 +22,20 @@ Donate via PayPal at war\_women@naver.com
 
 [#ComfortWomen](https://www.facebook.com/hashtag/comfortwomen?source=feed_text&epa=HASHTAG) [#JapaneseMilitaryComfortWomen](https://www.facebook.com/hashtag/japanesemilitarycomfortwomen?source=feed_text&epa=HASHTAG) [#WednesdayDemonstration](https://www.facebook.com/hashtag/wednesdaydemonstration?source=feed_text&epa=HASHTAG) [#수요시위](https://www.facebook.com/hashtag/%EC%88%98%EC%9A%94%EC%8B%9C%EC%9C%84?source=feed_text&epa=HASHTAG) [#일본군위안부](https://www.facebook.com/hashtag/%EC%9D%BC%EB%B3%B8%EA%B5%B0%EC%9C%84%EC%95%88%EB%B6%80?source=feed_text&epa=HASHTAG) [#위안부](https://www.facebook.com/hashtag/%EC%9C%84%EC%95%88%EB%B6%80?source=feed_text&epa=HASHTAG)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드1-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드1-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드2-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드2-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드5-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드5-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드6-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드6-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드9-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드9-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드11-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드11-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드12-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드12-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드15-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드15-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드16-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/04/슬라이드16-1024x1024.jpg)

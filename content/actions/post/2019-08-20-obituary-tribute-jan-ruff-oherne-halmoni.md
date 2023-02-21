@@ -12,13 +12,13 @@ tags:
   - "victim-support"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/08/69409357_2609447499086247_1163576725762736128_o-1024x768.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2019/08/69409357_2609447499086247_1163576725762736128_o-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/08/68692538_2609453482418982_6024856921691914240_o-1024x685.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2019/08/68692538_2609453482418982_6024856921691914240_o-1024x685.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/08/68483585_2609448605752803_3220497440683589632_o-1024x768.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2019/08/68483585_2609448605752803_3220497440683589632_o-1024x768.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/08/69092477_2609451519085845_5874195700945780736_o-1024x685.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2019/08/69092477_2609451519085845_5874195700945780736_o-1024x685.jpg)
     
 
 \[Obituary\]
@@ -37,9 +37,9 @@ Together with Korean victims Jang Jeom-dol and Gil Won-ok, she engaged in active
 
 The Korean Council feels heartbroken upon hearing that Jan Ruff-O’Herne halmoni, who has long fought for the Japanese Government’s recognition of war crimes, official apology, and legal reparations, passed away. We hope that where she rests will be a peaceful world without war and without sexual violence. We will continue her hopes to achieve just resolution of the Japanese military sexual slavery, through the perpetrator Japanese Government’s sincere apology.
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/08/68600698_2609513582412972_3949950941024747520_n.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2019/08/68600698_2609513582412972_3949950941024747520_n.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2019/08/68815499_2609517582412572_1470491270508969984_o-1024x681.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2019/08/68815499_2609517582412572_1470491270508969984_o-1024x681.jpg)
     
 
 \[Tribute to Japanese military sexual slavery victim Jan Ruff-O’Herne halmoni\]

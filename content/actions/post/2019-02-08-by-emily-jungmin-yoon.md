@@ -9,7 +9,7 @@ tags:
   - "international-solidarity"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/02/16Fischer2-articleLarge.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/02/16Fischer2-articleLarge.jpg)
 
 A debut poet, Emily Jungmin Yoon wrote about the experiences of the Japanese military sexual slavery victims. _A Cruelty Special to Our Species_, captured the readers through Emily Jungmin Yoon's own "experience of 'intertwined languages' and the postwar Korean diaspora" as described in the New York Times : [https://www.nytimes.com/2018/12/13/books/review/cruelty-special-to-our-species-emily-jungmin-yoon.html](https://www.nytimes.com/2018/12/13/books/review/cruelty-special-to-our-species-emily-jungmin-yoon.html)
 

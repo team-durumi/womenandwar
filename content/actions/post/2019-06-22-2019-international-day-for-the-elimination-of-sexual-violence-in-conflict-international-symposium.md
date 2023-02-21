@@ -13,7 +13,7 @@ tags:
   - "wend-africa"
 ---
 
-For photos click link to the Korean post: [http://womenandwar.net/kr/2019-%ec%84%b8%ea%b3%84-%ec%a0%84%ec%8b%9c%ec%84%b1%ed%8f%ad%eb%a0%a5-%ec%b6%94%eb%b0%a9%ec%9d%98-%eb%82%a0-%ea%b5%ad%ec%a0%9c%ec%8b%ac%ed%8f%ac%ec%a7%80%ec%97%84/?ckattempt=1](http://womenandwar.net/kr/2019-%ec%84%b8%ea%b3%84-%ec%a0%84%ec%8b%9c%ec%84%b1%ed%8f%ad%eb%a0%a5-%ec%b6%94%eb%b0%a9%ec%9d%98-%eb%82%a0-%ea%b5%ad%ec%a0%9c%ec%8b%ac%ed%8f%ac%ec%a7%80%ec%97%84/?ckattempt=1)
+For photos click link to the Korean post: [https://womenandwar.net/kr/2019-%ec%84%b8%ea%b3%84-%ec%a0%84%ec%8b%9c%ec%84%b1%ed%8f%ad%eb%a0%a5-%ec%b6%94%eb%b0%a9%ec%9d%98-%eb%82%a0-%ea%b5%ad%ec%a0%9c%ec%8b%ac%ed%8f%ac%ec%a7%80%ec%97%84/?ckattempt=1](https://womenandwar.net/kr/2019-%ec%84%b8%ea%b3%84-%ec%a0%84%ec%8b%9c%ec%84%b1%ed%8f%ad%eb%a0%a5-%ec%b6%94%eb%b0%a9%ec%9d%98-%eb%82%a0-%ea%b5%ad%ec%a0%9c%ec%8b%ac%ed%8f%ac%ec%a7%80%ec%97%84/?ckattempt=1)
 
 2019 International Day for the Elimination of Sexual Violence in Conflict International Symposium <Endless Pain, for Prevention of the Crimes of Sexual Violence in Armed Conflict>
 

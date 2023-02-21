@@ -284,4 +284,4 @@ Melbourne 'Comfort Women' Memorial TaskForce
 
 Friends of "Comfort Women" in Sydney
 
-Korean version: http://womenandwar.net/kr/notice/?uid=1243&mod=document&pageid=1
+Korean version: https://womenandwar.net/kr/notice/?uid=1243&mod=document&pageid=1

@@ -72,9 +72,9 @@ January 13, 2021
 
 Lee Na-Young, Chair of Board, the Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/일어주간보고1-781x1024.png)
+![](https://womenandwar.net/kr/wp-content/uploads/2021/01/일어주간보고1-781x1024.png)
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2021/01/일어주간보고2-2-1024x896.png)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2021/01/일어주간보고2-2-1024x896.png)
     
 
 **미국 사회정의교육재단(ESJF) 한국 법원의 판결(2021년 1월 8일) 성명서**
@@ -220,8 +220,8 @@ Thank you.
 
 January 13, 2021
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/김창록일어1-740x1024.png)
+![](https://womenandwar.net/kr/wp-content/uploads/2021/01/김창록일어1-740x1024.png)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/김창록일어2-756x1024.png)
+![](https://womenandwar.net/kr/wp-content/uploads/2021/01/김창록일어2-756x1024.png)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2021/01/김창록일어3-1024x405.png)
+![](https://womenandwar.net/kr/wp-content/uploads/2021/01/김창록일어3-1024x405.png)

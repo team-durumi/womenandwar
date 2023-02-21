@@ -9,9 +9,9 @@ categories:
   - "report"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/03/1551440488601-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/03/1551440488601-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/03/1551440487435-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/03/1551440487435-1024x1024.jpg)
 
 베트남 국제학교에 다니는 심수빈님은 <25년간의 수요일>을 읽고, 일본군성노예제문제와 베트남 전쟁 때 한국군에 의해 성폭력 피해를 입은 여성들에 대해 배우게 되었습니다.
 

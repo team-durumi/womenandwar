@@ -56,25 +56,8 @@ rclone sync --progress /Users/woonjjang/durumi/womenandwar/media ww:media
 ## post | 1396 items
 - wordpress xml 파일을 기준으로 마이그레이션
 - wordpress to markdown
+- Mixed content detected (5054개) replace http:// ->https://
 
 
-## 활동소개
-- 피해자지원
--- 생존자복지쉼터소식
-- 수요시위
--- 이번 주 수요시위
-- 국내연대
--- 연대사업
-- 해외연대
--- 나비기금, 전시성폭력재발방지는 해외연대 안에 나비기금
-- 교육사업
--- 연구조사 / 교육연대사업 / 장학사업
-- 평화비(평화비건립)
--- 기림사업
-- 미디어자료 (메뉴 너무 많음)
---  동영상 
-
- (해당없음)모금소식 / 일본국상대소송
-
-## 살림살이
-- budget 게시판 형태로 구성
+## 메뉴 및 페이지 관련
+https://docs.google.com/spreadsheets/d/1GDTYcoEUKJ_K4oJ8_enAcN0AOb9ZpG3jP0QKO7ax3Eo/edit#gid=0

@@ -17,7 +17,7 @@ Cecilia Gaerlan, founder and executive director of the Bataan Legacy History Soc
 
 \*The Bataan Death March is a war crime committed by the Japanese Imperial Military since April 9th, 1942, during which the Japanese Imperial Military occupied the Bataan Peninsula, forcibly mobilized around 76,000 Filipino soldiers and prisoners for more than 120km, abused, and killed them.
 
-More information can be found here: [http://bataanlegacy.org/index.html](http://bataanlegacy.org/index.html)
+More information can be found here: [https://bataanlegacy.org/index.html](https://bataanlegacy.org/index.html)
 
 The author of _Rampage_ and a former Nieman Fellow at Harvard University, James M. Scott and the author of _Honor: the Legacy of Jose Abad Santos_, Desiree Ann Cua Benipayo presented on the Japanese Imperial Military's massacre of civilians in the Philippines, abuse of war prisoners, and war crimes against women.
 

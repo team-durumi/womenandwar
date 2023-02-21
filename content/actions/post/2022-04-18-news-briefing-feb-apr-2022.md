@@ -40,7 +40,7 @@ Key articles
 
 [Seoul critical of Tokyo's revision of history books](https://www.asianews.it/news-en/Seoul-critical-of-Tokyo%27s-revision-of-history-books--55518.html)
 
-[Fmr. Japanese education official says new textbooks 'manipulated by politics'](http://www.arirang.co.kr/News/News_View.asp?nseq=297075)
+[Fmr. Japanese education official says new textbooks 'manipulated by politics'](https://www.arirang.co.kr/News/News_View.asp?nseq=297075)
 
   
 📌 Presidential election

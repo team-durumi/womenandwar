@@ -11,7 +11,7 @@ tags:
 
 The 6th International Memorial Day for Japanese Military 'Comfort Women' invited people across the world who work towards prevention of sexual violence in conflict. Survivors from Uganda, DRC, Kosovo, the Yazidis in Northern Iraq, an activist from the Mukwege Foundation, former UN Special Rapporteur on Violence against Women Prof. Rashida Manjoo stayed in Korea throughout the Memorial Day programs.
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/10/1-5-300x225.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/10/1-5.jpg)
+[![](https://womenandwar.net/kr/wp-content/uploads/2018/10/1-5-300x225.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/10/1-5.jpg)
 
 On August 12th,
 
@@ -29,11 +29,11 @@ On August 14th,
 
 everyone participated in the International Symposium "73 Years of Waiting, Emancipation Finally Comes! - Voices of Survivors of Sexual Violence in Conflict" and shared that the survivors' courageous voices and solidarity from the community can change the world.
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/10/2-2-300x225.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/10/2-2.jpg)[![](http://womenandwar.net/kr/wp-content/uploads/2018/10/3-2-300x200.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/10/3-2.jpg)[![](http://womenandwar.net/kr/wp-content/uploads/2018/10/kimbokdong-pyeonghwasang-1-300x200.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/10/kimbokdong-pyeonghwasang-1.jpg)[![](http://womenandwar.net/kr/wp-content/uploads/2018/10/kimbokdong-pyeonghwasang-3-300x200.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/10/kimbokdong-pyeonghwasang-3.jpg)
+[![](https://womenandwar.net/kr/wp-content/uploads/2018/10/2-2-300x225.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/10/2-2.jpg)[![](https://womenandwar.net/kr/wp-content/uploads/2018/10/3-2-300x200.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/10/3-2.jpg)[![](https://womenandwar.net/kr/wp-content/uploads/2018/10/kimbokdong-pyeonghwasang-1-300x200.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/10/kimbokdong-pyeonghwasang-1.jpg)[![](https://womenandwar.net/kr/wp-content/uploads/2018/10/kimbokdong-pyeonghwasang-3-300x200.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/10/kimbokdong-pyeonghwasang-3.jpg)
 
 Ms. Acan Sylvia Obal, the recipient of the 1st Kim Bok-dong Peace Prize received the award and flowers from Kim Bok-dong halmoni.
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/10/4-2-300x225.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/10/4-2.jpg)
+[![](https://womenandwar.net/kr/wp-content/uploads/2018/10/4-2-300x225.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/10/4-2.jpg)
 
 In the afternoon, everyone attended the Candlelight Festival to enjoy the performances of the students and younger generations to remember the stories of Japanese military sexual slavery victims.
 
@@ -53,17 +53,17 @@ On August 16th,
 
 Everyone attended meetings with the Gender Equality and Family Committee of the National Assembly of Korea, Minister of Foreign Affairs, and Minister of Gender Equality and Family to deliver the message that everyone should work together towards resolution of the Japanese military sexual slavery and sexual violence in conflict issues.
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/10/5-2-300x200.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/10/5-2.jpg)
+[![](https://womenandwar.net/kr/wp-content/uploads/2018/10/5-2-300x200.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/10/5-2.jpg)
 
 During break time, survivors visited the "Truth and Justice : Remembering 'Comfort Women'" exhibition in Insandong, Seoul and looked around souvenirs from Korea.
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/10/6-2-300x225.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/10/6-2.jpg)
+[![](https://womenandwar.net/kr/wp-content/uploads/2018/10/6-2-300x225.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/10/6-2.jpg)
 
 On August 17th,
 
 Most guests left Korea. They shared tat it was meaningful to learn about the Japanese military sexual slavery issue, meet with halmonis, and stand in solidarity with people who work to support the survivors of sexual violence in conflict. Everyone shared that they would love to visit Korea again.
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/10/7-2-225x300.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/10/7-2.jpg)
+[![](https://womenandwar.net/kr/wp-content/uploads/2018/10/7-2-225x300.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/10/7-2.jpg)
 
 August 18th,
 

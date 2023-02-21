@@ -11,7 +11,7 @@ tags:
   - "uganda"
 ---
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/11/danche-sajin-300x200.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/11/danche-sajin.jpg)
+[![](https://womenandwar.net/kr/wp-content/uploads/2018/11/danche-sajin-300x200.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/11/danche-sajin.jpg)
 
 The Golden Women Vision in Uganda is an organization that supports victims of sexual slavery and child soldier system by the Lord's Resistance Army in Uganda.
 
@@ -25,14 +25,14 @@ Her tireless efforts and enthusiasm led her to win the 1st Kim Bok-dong Peace Pr
 
  
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/11/kimbokdong-halmeoniwa-daleun-saengjonja-yeongsang-sicheonghaneun-seutaepeuwa-saengjonjadeul-1-300x200.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/11/kimbokdong-halmeoniwa-daleun-saengjonja-yeongsang-sicheonghaneun-seutaepeuwa-saengjonjadeul-1.jpg)
+[![](https://womenandwar.net/kr/wp-content/uploads/2018/11/kimbokdong-halmeoniwa-daleun-saengjonja-yeongsang-sicheonghaneun-seutaepeuwa-saengjonjadeul-1-300x200.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/11/kimbokdong-halmeoniwa-daleun-saengjonja-yeongsang-sicheonghaneun-seutaepeuwa-saengjonjadeul-1.jpg)
 
 During her visit to Korea, she thanked Japanese military 'comfort women' victims for sharing the courage to continue the works to support other victims of sexual violence in conflict.
 
 Recently, the Golden Women Vision staff and survivors viewed videos of Kim Bok-dong halmoni and other survivors. After the video, they had group discussions on how to organize programs for survivors.
 
-[![](http://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-8-300x200.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-8.jpg)[![](http://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-7-300x200.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-7.jpg)
+[![](https://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-8-300x200.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-8.jpg)[![](https://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-7-300x200.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-7.jpg)
 
- [![](http://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-2-300x200.jpg)](http://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-2.jpg) 
+ [![](https://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-2-300x200.jpg)](https://womenandwar.net/kr/wp-content/uploads/2018/11/GWVU-2.jpg) 
 
 Please join us to support the survivors of sexual violence in conflict through the Butterfly Fund!

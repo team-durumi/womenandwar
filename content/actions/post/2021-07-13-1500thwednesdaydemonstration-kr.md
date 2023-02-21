@@ -230,7 +230,7 @@ https://youtu.be/J1Lsl4C5KQg
 
 그리고 7월 14일, 1500인이 주관하는 1500차 수요시위가 하루 앞으로 다가왔습니다! 바로 내일, 11시 40분부터 유튜브 라이브로 참여하시어 사전퍼포먼스와 수요시위에 함께해 주세요! 좋아요와 응원댓글 많이 부탁드립니다~🥰
 
-💜유튜브 바로가기 [youtube.com/thekoreancouncil](http://youtube.com/thekoreancouncil)  
+💜유튜브 바로가기 [youtube.com/thekoreancouncil](https://youtube.com/thekoreancouncil)  
 💛인증샷 이벤트 #1500차수요시위인증샷 #1500차수요시위
 
 ![](https://womenandwar.net/kr/wp-content/uploads/2021/07/photo_2021-07-13_11-02-09-1024x1024.jpg)
@@ -284,7 +284,7 @@ https://youtu.be/J1Lsl4C5KQg
 1) 1500차 수요시위 15자 메시지 남기기(구글폼 마지막 순서)  
 2) 주변, SNS에 1500차 수요시위 행사 정보와 웹자보 퍼나르기  
 \***해시태그 #1500차수요시위 #1500thWednesdayDemonstration #1500回水曜デモ**  
-3) 1500차 수요시위 유튜브 라이브 댓글 참여하기(정의기억연대 유튜브 채널: [youtube.com/thekoreancouncil](http://youtube.com/thekoreancouncil) )  
+3) 1500차 수요시위 유튜브 라이브 댓글 참여하기(정의기억연대 유튜브 채널: [youtube.com/thekoreancouncil](https://youtube.com/thekoreancouncil) )  
 \*공동주관인 명단은 당일 현장에서 소개할 예정입니다.
 
 **📌3. 전쟁과여성인권박물관 시민기록물 수집 캠페인 안내(~8/14)**

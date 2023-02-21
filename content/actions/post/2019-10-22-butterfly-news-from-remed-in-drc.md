@@ -11,7 +11,7 @@ tags:
   - "remed"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-1-1-1024x683.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/08/콩고민주공화국-레메드_-8.14-1400차-수요시위-및-제7차-세계일본군위안부기림일-연대행동_정의기억연대-제공-1-1-1024x683.jpg)
 
 The Korean Council supports victims of sexual violence in conflict in the Democratic Republic of the Congo through organization called REMED, and its survivor initiative Ushirika Women!
 

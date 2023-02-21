@@ -52,7 +52,7 @@ Fill out the following form to receive an English copy: [bit.ly/cw10exhibiteng]
 
 #### 5\. **Special Film Screening for 10th International Memorial Day for Japanese Military "Comfort Women" - <Comfort> and Talk Session with Director Emmanuel Moonchil Park**
 
-- Fill out [this Google Form](http://bit.ly/%EB%B3%B4%EB%93%9C%EB%9E%8D%EA%B2%8C%EC%8B%A0%EC%B2%AD) to register (in Korean).
+- Fill out [this Google Form](https://bit.ly/%EB%B3%B4%EB%93%9C%EB%9E%8D%EA%B2%8C%EC%8B%A0%EC%B2%AD) to register (in Korean).
 - We also encourage you to watch movies during the week of International Memorial Day for Japanese Military "Comfort Women" and participate in our campaign! You can see the list of recommended films and leave your review by filling out [this Google Form](https://bit.ly/3ct58vq) (in Korean).
 
 ![](https://womenandwar.net/kr/wp-content/uploads/2022/07/20220722_2022-기림일_보드랍게_영문-724x1024.png)
@@ -64,7 +64,7 @@ Fill out the following form to receive an English copy: [bit.ly/cw10exhibiteng]
 Commemorate the 10th #InternationalMemorialDayforComfortWomen by erecting a virtual Statue of Peace in your surroundings! The Korean Council invites you to participate in a SNS campaign using AR #PlaceforPeace project created by Berlin-based graphic designer Hojin Kang(@hojinkangdotcom).
 
 🙌Take the following 4 steps:   
-1️⃣ Scan the QR Code or open this URL with your mobile browser (Safari/Chrome recommended): [uagallery.de/webari2](http://uagallery.de/webari2)   
+1️⃣ Scan the QR Code or open this URL with your mobile browser (Safari/Chrome recommended): [uagallery.de/webari2](https://uagallery.de/webari2)   
 2️⃣ Click the Start AR Button. The camera will be activated and you can place the statue on the floor.   
 3️⃣ Take a photo by clicking on the white circle at the bottom and save it (or just take a regular screenshot).  
 4️⃣ Upload the photo on your Instagram feed or story. Tag @war\_women and use #PlaceforPeace #InternationalMemorialDayforComfortWomen #ComfortWomen. (If your account is private, make sure to also DM us the photo!)

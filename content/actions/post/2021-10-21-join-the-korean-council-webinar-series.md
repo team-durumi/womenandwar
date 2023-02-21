@@ -12,7 +12,7 @@ tags:
 
 The Korean Council’s webinar program seeks to provide in-depth and intersectional understanding of the Japanese military sexual slavery issue for transnational English-speaking youth participants. Planned by a transnational youth organizing committee, the webinars will provide a space for remembrance, education, and empowerment for youth who want to learn more about the issue and get involved in the movement for justice.
 
-#### Sign up for the webinars: [**bit.ly/kcweb21**](http://bit.ly/kcweb21)
+#### Sign up for the webinars: [**bit.ly/kcweb21**](https://bit.ly/kcweb21)
 
 ![](https://womenandwar.net/kr/wp-content/uploads/2021/10/The-Korean-Council-Webinar-Series-2-683x1024.png)
 

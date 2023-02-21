@@ -9,29 +9,29 @@ tags:
   - "notice"
 ---
 
-\*Statements in reverse-chronological order, updated as translations are added. For Korean version: [http://womenandwar.net/kr/notice/?uid=790&mod=document&pageid=1](http://womenandwar.net/kr/notice/?uid=790&mod=document&pageid=1)
+\*Statements in reverse-chronological order, updated as translations are added. For Korean version: [https://womenandwar.net/kr/notice/?uid=790&mod=document&pageid=1](https://womenandwar.net/kr/notice/?uid=790&mod=document&pageid=1)
 
-For statements related to fake news: [http://womenandwar.net/kr/fake-news-corrections-and-statements/](http://womenandwar.net/kr/fake-news-corrections-and-statements/)
+For statements related to fake news: [https://womenandwar.net/kr/fake-news-corrections-and-statements/](https://womenandwar.net/kr/fake-news-corrections-and-statements/)
 
 **9.15 The Korean Council Statement on the prosecution’s investigation results**
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_1-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_1-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_2-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_2-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_3-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_3-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_4-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_4-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_5-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_5-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_6-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_6-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_7-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_7-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_8-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_8-1024x1024.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_9-1024x1024.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/09/카드뉴스-검찰-불기소_정의연-회계부정’-의혹은-대부분-문제되지-않는-것으로-판명-_9-1024x1024.jpg)
 
 On September 14th, 2020, the prosecution announced the “Investigation results on charges against the Chongdaehyup and the Korean Council.” The so-called “allegations of the Korean Council’s accounting fraud,” which triggered the prosecution’s investigation, have been found be groundless, and not legally problematic. As allegations raised indiscriminately over the past four months, such as "misappropriation of subsidies and donations,” are found to be groundless, we urge the media to take responsibilities for its false reports.
 
@@ -485,7 +485,7 @@ In 2019, we made the decision to run the War and Women’s Rights Museum as an i
 \[Related statements n Korean, English translations in progress\]
 
 \* View materials prepared for the Korean Council’s May 11 Press Conference (PDF):  
-[http://womenandwar.net/kr/notice/?uid=725&mod=document&pageid=1](http://womenandwar.net/kr/notice/?uid=725&mod=document&pageid=1)
+[https://womenandwar.net/kr/notice/?uid=725&mod=document&pageid=1](https://womenandwar.net/kr/notice/?uid=725&mod=document&pageid=1)
 
 Translated by volunteer
 
@@ -540,16 +540,16 @@ Translated by volunteer
 2019년 정대협 부설기관인 전쟁과여성인권박물관의 독자적 운영을 결정하고 운영법인설립을 논의하는 과정에서 아직 법적으로 남아있는 정대협을 박물관 운영법인으로 하는 것을 결정하게 됩니다. 이후 2020년 4월 박물관 운영법인의 기능으로 정관변경을 주무관청인 외교부에 제출하여 승인받았습니다.
 
 \*5월11일 정의기억연대 기자회견 자료 바로가기(pdf자료)  
-[http://womenandwar.net/kr/notice/?uid=725&mod=document&pageid=1](http://womenandwar.net/kr/notice/?uid=725&mod=document&pageid=1)
+[https://womenandwar.net/kr/notice/?uid=725&mod=document&pageid=1](https://womenandwar.net/kr/notice/?uid=725&mod=document&pageid=1)
 
 \*5월8일 \[공지\] 이용수 할머니 기자회견에 대한 정의연 입장 바로가기  
-[http://womenandwar.net/kr/notice/?uid=697&mod=document&pageid=1](http://womenandwar.net/kr/notice/?uid=697&mod=document&pageid=1)
+[https://womenandwar.net/kr/notice/?uid=697&mod=document&pageid=1](https://womenandwar.net/kr/notice/?uid=697&mod=document&pageid=1)
 
 \*5월 11일 조선일보는 정의연이 개최한 ‘현 상황에 대한 기자회견’에 대한 악의적 왜곡보도 즉각 중단하라!  
-[http://womenandwar.net/kr/notice/?uid=739&mod=document&pageid=1](http://womenandwar.net/kr/notice/?uid=739&mod=document&pageid=1)
+[https://womenandwar.net/kr/notice/?uid=739&mod=document&pageid=1](https://womenandwar.net/kr/notice/?uid=739&mod=document&pageid=1)
 
 \*5월 11일 한국경제신문은 악의적 허위보도/왜곡보도를 중단하라!  
-[http://womenandwar.net/kr/notice/?uid=745&mod=document&pageid=1](http://womenandwar.net/kr/notice/?uid=745&mod=document&pageid=1)
+[https://womenandwar.net/kr/notice/?uid=745&mod=document&pageid=1](https://womenandwar.net/kr/notice/?uid=745&mod=document&pageid=1)
 
 * * *
 

@@ -19,6 +19,6 @@ Join our discussion group to learn more about the Japanese military sexual slave
 
 ○ Eligibility: Young researchers / activists / students interested in learning & reading more about the Japanese military sexual slavery issue
 
-○ Learn more & sign up: **[bit.ly/kcdg2021](http://bit.ly/kcdg2021)**
+○ Learn more & sign up: **[bit.ly/kcdg2021](https://bit.ly/kcdg2021)**
 
 ![](https://womenandwar.net/kr/wp-content/uploads/2021/09/7857AB18-D2E6-49A8-8C83-CDA1C503D85D-1024x1024.png)

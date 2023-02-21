@@ -10,22 +10,22 @@ tags:
   - "research-and-education"
 ---
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/photo-2020-07-29-13-45-29_orig.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2020/08/photo-2020-07-29-13-45-29_orig.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/teacher-resource-guide-3rd-ed-5.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2020/08/teacher-resource-guide-3rd-ed-5.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/teacher-resource-guide-3rd-ed-4.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2020/08/teacher-resource-guide-3rd-ed-4.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/teacher-resource-guide-3rd-ed-3_orig-768x1024.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2020/08/teacher-resource-guide-3rd-ed-3_orig-768x1024.jpg)
     
 
 ESJF Teacher Resource Guide
 
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/photo-2020-07-29-13-50-08_orig-1024x845.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2020/08/photo-2020-07-29-13-50-08_orig-1024x845.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/photo-2020-07-29-09-59-12.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2020/08/photo-2020-07-29-09-59-12.jpg)
     
-- ![](http://womenandwar.net/kr/wp-content/uploads/2020/08/students2020-07-29-14-02-37-3.jpg)
+- ![](https://womenandwar.net/kr/wp-content/uploads/2020/08/students2020-07-29-14-02-37-3.jpg)
     
 
 ESJF Student Resource Guide
@@ -41,7 +41,7 @@ In you email, please include:
 3. Shipping address
 4. How many copies you would like to receive: Teacher Resource Guide / Student Resource Guide
 
-Read introduction to the _“Comfort women” History and Issues_ on the [ESJF website](http://www.e4sjf.org/comfort-women-history-and-issues1.html)
+Read introduction to the _“Comfort women” History and Issues_ on the [ESJF website](https://www.e4sjf.org/comfort-women-history-and-issues1.html)
 
 The Korean Council distributes materials on the Japanese military sexual slavery issue, thanks to the support from citizens who work together for its resolution.  
-If you would like to support more education and research activities for the Japanese military sexual slavery issue, share your support by donating to the Korean Council!  [http://womenandwar.net/kr/donate/](http://womenandwar.net/kr/donate/)
+If you would like to support more education and research activities for the Japanese military sexual slavery issue, share your support by donating to the Korean Council!  [https://womenandwar.net/kr/donate/](https://womenandwar.net/kr/donate/)

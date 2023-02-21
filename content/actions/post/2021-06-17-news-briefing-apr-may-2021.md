@@ -15,7 +15,7 @@ The 4/21 Seoul Central District Court ruling had rejected the survivors’ voice
 ### **Key articles**
 
 📌 4/21 Court Ruling  
-[S. Korean court dismisses lawsuit against Japan filed by “comfort women”](http://english.hani.co.kr/arti/english_edition/e_national/992197.html)
+[S. Korean court dismisses lawsuit against Japan filed by “comfort women”](https://english.hani.co.kr/arti/english_edition/e_national/992197.html)
 
 📌 Follow-up on 1/8 Court Ruling  
 [Court orders Tokyo to disclose assets in S. Korea after 'comfort women' ruling](https://en.yna.co.kr/view/AEN20210615010500315)  

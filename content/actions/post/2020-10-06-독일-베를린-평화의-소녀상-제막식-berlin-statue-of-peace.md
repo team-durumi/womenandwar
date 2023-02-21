@@ -20,7 +20,7 @@ tags:
 
 독일 코리아협의회 한정화 대표의 주도로 2009년 설립된 코리아협의회 <일본군위안부문제대책협의회>는 일본군‘위안부’ 문제를 독일 사회에 알리고 ‘위안부’ 문제를 해결하고자 다양한 집회 및 캠페인, 교육 사업 등을 진행해왔습니다. 피해생존자들을 독일로 초청해 순회 증언회 및 기자회견, 관련 정치인들과의 만남 및 대중강연회 등을 진행하고, 독일 내 국제 여성인권단체들과 연대해 세계일본군‘위안부’기림일 평화집회 등을 주관하였습니다. 또한 피해생존자들을 기억하기 위해 일본군‘위안부’ 문제 및 전시하 성폭력을 주제로 한 <무언다언 전시관>을 개관하고 주변 학교들과 협력해 교육 사업도 진행하고 있습니다.
 
-\*<일본군위안부문제대책협의회> [http://trostfrauen.de/](http://trostfrauen.de/?fbclid=IwAR0IYGqOyDJ4QN9qtkzunNldavtUlNC3OJ0DM7Sga20ftG_wYstdiyBmoOI)
+\*<일본군위안부문제대책협의회> [https://trostfrauen.de/](https://trostfrauen.de/?fbclid=IwAR0IYGqOyDJ4QN9qtkzunNldavtUlNC3OJ0DM7Sga20ftG_wYstdiyBmoOI)
 
 \*<코리아협의회> [https://www.koreaverband.de/](https://www.koreaverband.de/?fbclid=IwAR2v1_JgIbEbM2Rnzl074vtq9gOsfj1DK25omS3ycVYd6VGcOLQnLYNHJnM)
 
@@ -34,20 +34,20 @@ On Monday our [AG "Trostfrauen" - Solidarity with "Comfort Women"](https://www.f
 
 사진 출처 최동하 copyright Dong-Ha Choe
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4820.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4820.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4877.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4877.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4924.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4924.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4996.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4996.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DSF1009.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/10/DSF1009.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4920.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4920.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4909.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4909.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4958.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/10/DHC4958.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/10/DSF1048.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/10/DSF1048.jpg)

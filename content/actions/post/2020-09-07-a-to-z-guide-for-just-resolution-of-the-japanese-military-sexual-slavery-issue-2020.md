@@ -27,6 +27,6 @@ The booklet introduces the unstoppable call for justice that the victims and cit
 
 Please share the news and read together with your families and friends!
 
-[A to Z Guide for Just Resolution of the Japanese Military Sexual Slavery Issue - 웹업로드용](http://womenandwar.net/kr/wp-content/uploads/2020/09/A-to-Z-Guide-for-Just-Resolution-of-the-Japanese-Military-Sexual-Slavery-Issue-웹업로드용.pdf)[다운로드](http://womenandwar.net/kr/wp-content/uploads/2020/09/A-to-Z-Guide-for-Just-Resolution-of-the-Japanese-Military-Sexual-Slavery-Issue-웹업로드용.pdf)
+[A to Z Guide for Just Resolution of the Japanese Military Sexual Slavery Issue - 웹업로드용](https://womenandwar.net/kr/wp-content/uploads/2020/09/A-to-Z-Guide-for-Just-Resolution-of-the-Japanese-Military-Sexual-Slavery-Issue-웹업로드용.pdf)[다운로드](https://womenandwar.net/kr/wp-content/uploads/2020/09/A-to-Z-Guide-for-Just-Resolution-of-the-Japanese-Military-Sexual-Slavery-Issue-웹업로드용.pdf)
 
 https://issuu.com/womenandwar.kc/docs/a\_to\_z\_guide\_for\_just\_resolution\_of\_a5736734f5670e

@@ -9,9 +9,9 @@ tags:
   - "notice"
 ---
 
-\*Statements in reverse-chronological order, updated as translations are added. For Korean version: [http://womenandwar.net/kr/notice/?uid=790&mod=document&pageid=1](http://womenandwar.net/kr/notice/?uid=790&mod=document&pageid=1)
+\*Statements in reverse-chronological order, updated as translations are added. For Korean version: [https://womenandwar.net/kr/notice/?uid=790&mod=document&pageid=1](https://womenandwar.net/kr/notice/?uid=790&mod=document&pageid=1)
 
-For statements related to prosecutor investigation results and Lee Yong-soo halmoni's press conference in May 2020: [http://womenandwar.net/kr/statements-on-prosecution-investigation-results-and-lee-yong-soo-halmonis-press-conference-in-may-2020/](http://womenandwar.net/kr/statements-on-prosecution-investigation-results-and-lee-yong-soo-halmonis-press-conference-in-may-2020/)
+For statements related to prosecutor investigation results and Lee Yong-soo halmoni's press conference in May 2020: [https://womenandwar.net/kr/statements-on-prosecution-investigation-results-and-lee-yong-soo-halmonis-press-conference-in-may-2020/](https://womenandwar.net/kr/statements-on-prosecution-investigation-results-and-lee-yong-soo-halmonis-press-conference-in-may-2020/)
 
 **9.8\_Civil suit filed against media companies**
 
@@ -115,7 +115,7 @@ TV조선, MBN, YTN이 주장한 '데스킹 부족' 등은 옹색한 핑계거리
 
 #KoreanCouncil #ComfortWomen #JapaneseMilitarySexualSlavery #TVChosun #MBN #YTN #FakeNews #FalseReport #KoreanCommunicationsStandardsCommission #방심위 #법정제재 #가짜뉴스 #허위보도 #왜곡보도
 
-[http://www.hani.co.kr/arti/society/media/959479.html](http://www.hani.co.kr/arti/society/media/959479.html)
+[https://www.hani.co.kr/arti/society/media/959479.html](https://www.hani.co.kr/arti/society/media/959479.html)
 
 * * *
 
@@ -251,11 +251,11 @@ The Korean Council for Justice and Remembrance for the Issues of Military Sexual
 
 **7.15 The Korean Council Statement on Corrections of False Reports by the Chosun Ilbo, Chosun Biz, JoongAng Ilbo** 
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/7.15-조선일보-정정보도.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/07/7.15-조선일보-정정보도.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/7.15-조선비즈-정정보도.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/07/7.15-조선비즈-정정보도.jpg)
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/7.15-중앙일보-정정보도.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/07/7.15-중앙일보-정정보도.jpg)
 
 On July 9, the Korean Council requested corrections of false reports published by the three press companies, to the Press Arbitration Commission. As a result, the Chosun Ilbo and Chosun Biz published corrections and JoongAng Ilbo published a correction and modified the title of the article.
 
@@ -509,7 +509,7 @@ Compulsory arbitration by the PAC: Modify title
 
 **7.3. The Korean Council’s Statement on Correction of False Report by the Seoul Economic Daily**
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/슬라이드2-1.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/07/슬라이드2-1.jpg)
 
 On June 15, the Korean Council submitted a request to the Press Arbitration Commission (PAC), demanding correction of and compensation for the report written by Heo Jin of the Seoul Economic Daily (SED). On July 2, the PAC ordered the SED to delete the article and post correction of Heo Jin’s article titled ‘\[Exclusive\] Where Did the 30 million KRW Go, the Government Subsidy the Korean Council Claimed to Return, but Missing from Accounts?’ On July 3, following the arbitration of the PAC, SED deleted the report and published a correction on the society section.
 
@@ -557,7 +557,7 @@ The article claimed that the Korean Council produced a video of Gil's will and p
 
 2\. Chosun Ilbo disclosed the information without any consideration for the dignity and privacy of the survivor. This is an act that violates personal rights and the human rights-related reporting standards of the Journalists Association of Korea. Above all, it is an act that undermines the honor of activities by human rights activist Gil Won-ok.
 
-3\. Human rights activist Gil Won-ok has conditions such as memory loss and cognitive decline that have progressed little by little over the years due to old age and chronic disease but has never officially been diagnosed with dementia. Her last overseas activity, attending an opening ceremony of a Statue of Peace in the United States in 2019, was conducted after consultation with the doctor in charge who confirmed that she can attend, as clearly stated in the report submitted to the Ministry of Gender Equality and Family. The event was conducted after the doctor in charge assessed that there would be no issue with her attendance. However, since she was admitted to the hospital for 8 days in April of this year (2020) due to a physical abnormality, her physical and mental health status has rapidly deteriorated. Despite her poor health, human rights activist Gil Won-ok made donations in hopes of promoting human rights and peace, and actively testified at home and abroad, including at the United Nations. (See June 18 statement by the Korean Council: [http://womenandwar.net/kr/notice/?uid=1039&mod=document&pageid=1](http://womenandwar.net/kr/notice/?uid=1039&mod=document&pageid=1)). We, therefore, reiterate that the article by Chosun Ilbo constitutes a malicious act that undermines the noble practice of human rights activist Gil Won-ok as an unwilling behavior by “elders by dementia”.
+3\. Human rights activist Gil Won-ok has conditions such as memory loss and cognitive decline that have progressed little by little over the years due to old age and chronic disease but has never officially been diagnosed with dementia. Her last overseas activity, attending an opening ceremony of a Statue of Peace in the United States in 2019, was conducted after consultation with the doctor in charge who confirmed that she can attend, as clearly stated in the report submitted to the Ministry of Gender Equality and Family. The event was conducted after the doctor in charge assessed that there would be no issue with her attendance. However, since she was admitted to the hospital for 8 days in April of this year (2020) due to a physical abnormality, her physical and mental health status has rapidly deteriorated. Despite her poor health, human rights activist Gil Won-ok made donations in hopes of promoting human rights and peace, and actively testified at home and abroad, including at the United Nations. (See June 18 statement by the Korean Council: [https://womenandwar.net/kr/notice/?uid=1039&mod=document&pageid=1](https://womenandwar.net/kr/notice/?uid=1039&mod=document&pageid=1)). We, therefore, reiterate that the article by Chosun Ilbo constitutes a malicious act that undermines the noble practice of human rights activist Gil Won-ok as an unwilling behavior by “elders by dementia”.
 
 4\. The article states that the Korean Council uploaded the video of human rights activist Gil Won-ok's will. However, the Korean Council has not produced nor posted the will of human rights activist Gil Won-ok. Thus, the article is based on obvious false facts. Although we have already fully explained the context and truth to reporter Won Woo-sik, he ignored our explanation and reported the article. This is clearly a violation of the Journalists Association of Korea's Code of Press Ethics (4. Fair Collection of Information).
 
@@ -580,7 +580,7 @@ The article claimed that the Korean Council produced a video of Gil's will and p
 
 2\. 조선일보는 이를 당사자의 존엄과 사생활에 대한 어떠한 고려도 없이 공개하고 있습니다. 당사자의 인격권을 침해하고 한국기자협회의 인권보도준칙을 명백히 위반한 행위입니다. 무엇보다 길원옥 인권운동가의 그간의 활동을 폄훼하고 명예를 훼손하는 행위입니다.
 
-3\. 길원옥 인권운동가는 고령과 지병으로 인하여 기억력 감퇴, 인지능력의 저하 등이 수년에 걸쳐 조금씩 진행된 측면이 있으나 정식으로 치매 등급을 받으신 적은 없습니다. 마지막 해외 활동이었던 2019년 미국 평화의 제막식 참석은 여가부에 제출한 보고서에도 분명히 나와 있듯, 다녀오셔도 아무 이상이 없다는 담당의사의 소견을 듣고 진행되었습니다. 다만 올해(2020년) 4월, 신체적 이상으로 8일간 병원에 입원하신 이후 신체적, 정신적 건강상태가 급격히 저하되셨습니다. 거동이 불편하시고 건강이 좋지 않은 와중에도 길원옥 인권운동가는 평소의 의지에 따라 인권과 평화를 소망하며 기부활동을 하셨고 유엔을 비롯해 활발한 국내외 증언활동을 하셨습니다(관련 내용은 정의연 입장문 6월 18일자 참고 [http://womenandwar.net/kr/notice/?uid=1039&mod=document&pageid=1).](http://womenandwar.net/kr/notice/?uid=1039&mod=document&pageid=1).) 조선일보의 기사는 이러한 길원옥 인권운동가의 숭고한 실천의 역사를 ‘치매노인’의 비의지적 행동으로 폄훼하는 악의적 행위임을 다시 한 번 분명히 합니다.
+3\. 길원옥 인권운동가는 고령과 지병으로 인하여 기억력 감퇴, 인지능력의 저하 등이 수년에 걸쳐 조금씩 진행된 측면이 있으나 정식으로 치매 등급을 받으신 적은 없습니다. 마지막 해외 활동이었던 2019년 미국 평화의 제막식 참석은 여가부에 제출한 보고서에도 분명히 나와 있듯, 다녀오셔도 아무 이상이 없다는 담당의사의 소견을 듣고 진행되었습니다. 다만 올해(2020년) 4월, 신체적 이상으로 8일간 병원에 입원하신 이후 신체적, 정신적 건강상태가 급격히 저하되셨습니다. 거동이 불편하시고 건강이 좋지 않은 와중에도 길원옥 인권운동가는 평소의 의지에 따라 인권과 평화를 소망하며 기부활동을 하셨고 유엔을 비롯해 활발한 국내외 증언활동을 하셨습니다(관련 내용은 정의연 입장문 6월 18일자 참고 [https://womenandwar.net/kr/notice/?uid=1039&mod=document&pageid=1).](https://womenandwar.net/kr/notice/?uid=1039&mod=document&pageid=1).) 조선일보의 기사는 이러한 길원옥 인권운동가의 숭고한 실천의 역사를 ‘치매노인’의 비의지적 행동으로 폄훼하는 악의적 행위임을 다시 한 번 분명히 합니다.
 
 4\. 기사에는 길원옥 인권운동가의 유언 동영상을 올린 주체가 한국정신대문제대책협의회라고 나와 있습니다. 그러나 정의연은 길원옥 인권운동가의 유언을 제작하여 올린 일이 없으므로명백한 허위사실에 기초한 기사입니다. 관련해 원우식 기자의 문자 문의에 이미 충분히 설명한 바 있으나 해당 기자를 이를 무시한 채 보도했습니다. 이는 명백히 한국기자협회 윤리강령 (4. 정당한 정보수집) 위반행위에 해당합니다.
 
@@ -716,7 +716,7 @@ Department in charge: Women's Policy Officer of the Women's and Family Policy Af
 
 **6.25 Korean Council Statement on Submission of 2nd Mediation Request to the Press Arbitration Commission**
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/6.-25-언론중재위-영어.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/07/6.-25-언론중재위-영어.jpg)
 
 The Korean council has suffered from serious defamation by some of the media that have continuously produced false/distorted articles and caused irreversible damages to the reputation of the Korean Council. In order to give a warning to the irresponsible media coverage and request for more responsible and mature attitudes from the media, the Korean Council submitted its second mediation request to the Press Arbitration Commission to seek corrections of false reports and demand compensation for defamation of the Korean Council, regarding five articles produced by four new companies : Chosun Ilbo, JoongAng Ilbo, New Daily, and Seoul Economic Daily.
 
@@ -782,9 +782,9 @@ The above articles asserted that “The Ministry of Gender Equality and Family i
 
 2) Board members of The Korean Council for the Women Drafted for Military Sexual Slavery by Japan, The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan, and the Foundation for Justice and Remembrance for the Issue of Military Sexual Slavery by Japan have not participated as members of the Selection Committee.
 
-3) The abovementioned facts have been confirmed in a press release by the Ministry of Gender Equality and Family (Tuesday, June 16th, 2020, [http://www.mogef.go.kr/nw/rpd/nw\_rpd\_s001d.do?mid=news406&bbtSn=707084](http://www.mogef.go.kr/nw/rpd/nw_rpd_s001d.do?mid=news406&bbtSn=707084)), as well as the Democratic Party, the government, and the Blue House meeting (June 22, related report
+3) The abovementioned facts have been confirmed in a press release by the Ministry of Gender Equality and Family (Tuesday, June 16th, 2020, [https://www.mogef.go.kr/nw/rpd/nw\_rpd\_s001d.do?mid=news406&bbtSn=707084](https://www.mogef.go.kr/nw/rpd/nw_rpd_s001d.do?mid=news406&bbtSn=707084)), as well as the Democratic Party, the government, and the Blue House meeting (June 22, related report
 
-http://news.kbs.co.kr/news/view.do?ncd=4476307&ref=A, etc.).
+https://news.kbs.co.kr/news/view.do?ncd=4476307&ref=A, etc.).
 
 4) As false information was misrepresented as fact, we urge corrections and responsibility for defamation based on false facts.
 
@@ -848,8 +848,8 @@ The Korean Council for the Women Drafted for Military Sexual Slavery by Japan
 \- ‘심의위원회\*’는 개별적인 보조사업자의 선정이 아닌 기념사업의 전반적인 추진방안을 심의하는 위원회이고, ‘선정위원회\*\*’는 보조금법 제17조에 따라 사업별로 구성되는 위원회입니다. 해당 보조사업과 이해관계가 있는 경우에는 위원 대상에서 배제됨  
 2) 한국정신대문제대책협의회(정대협), 정의연, 정의기억재단 이사는 보조사업자 선정위원회 위원으로 참여한 바 없음  
 3) 이상의 내용은 여성가족부 보도설명자료(2020. 6. 16.(화)권익정책과 작성,  
-[http://www.mogef.go.kr/nw/rpd/nw\_rpd\_s001d.do?mid=news406&bbtSn=707084)와](http://www.mogef.go.kr/nw/rpd/nw_rpd_s001d.do?mid=news406&bbtSn=707084)%EC%99%80) 더불어민주당, 정부, 청와대의 당·정·청 협의회(6월 22일)에서 확인된 바 있음(관련 보도  
-[http://news.kbs.co.kr/news/view.do?ncd=4476307&ref=A](http://news.kbs.co.kr/news/view.do?ncd=4476307&ref=A) 등).  
+[https://www.mogef.go.kr/nw/rpd/nw\_rpd\_s001d.do?mid=news406&bbtSn=707084)와](https://www.mogef.go.kr/nw/rpd/nw_rpd_s001d.do?mid=news406&bbtSn=707084)%EC%99%80) 더불어민주당, 정부, 청와대의 당·정·청 협의회(6월 22일)에서 확인된 바 있음(관련 보도  
+[https://news.kbs.co.kr/news/view.do?ncd=4476307&ref=A](https://news.kbs.co.kr/news/view.do?ncd=4476307&ref=A) 등).  
 4) 이에 허위사실을 사실로 호도한 것이 밝혀진 바, 정정보도와 허위사실에 기초한 명예훼손에 대한 책임을 촉구함.
 
 3\. 중앙일보 6월 19일 박현주 기자의 기사, “정의연 감사편지 쓴 날…후원자 25명, 기부금 반환 소송”...“한국정신대문제대책협의회(정대협) 후원자들이 정대협과 윤미향 더불어민주당 의원을 상대로 후원금 반환 소송을 제기한다.”
@@ -879,7 +879,7 @@ The Korean Council for the Women Drafted for Military Sexual Slavery by Japan
 
 **6.15 The Korean Council Statement on Submission of Mediation Request to the Press Arbitration Commission**
 
-![](http://womenandwar.net/kr/wp-content/uploads/2020/07/영어-일본어-입장문-이미지-0521-검찰-압수수색.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2020/07/영어-일본어-입장문-이미지-0521-검찰-압수수색.jpg)
 
 On June 15, the Korean Council for Justice and Remembrance for the Issues of Military Sexual slavery by Japan (the Korean Council, Chair of Board  Lee, Na-young) submitted a request of mediation to the Press Arbitration Commission to seek correction of false reports and compensation for damages. 
 
@@ -933,7 +933,7 @@ We request corrections to be made and reports to be on accurate facts.
 
 3\. The “Moon Hee-sang proposal” was not abolished because Yoon Mee-hyang opposed it. Due to its various problems, many lawmakers in the Democratic Party, as well as relevant organizations and victims, opposed it. Accordingly, it was automatically discarded due to the expiration of the bill without further deliberation. Please refer to the link below for further information:
 
-[http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC\_X1B9T1C2P1U8D1V6G3N0A5L0O9W1W3](http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1B9T1C2P1U8D1V6G3N0A5L0O9W1W3)
+[https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC\_X1B9T1C2P1U8D1V6G3N0A5L0O9W1W3](https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1B9T1C2P1U8D1V6G3N0A5L0O9W1W3)
 
 ☞ We strongly request that JoongAng Ilbo reporter Kim Hong-beom revise the article accordingly, and we hope that reports such as above that are not based on facts will not be produced again.
 
@@ -963,7 +963,7 @@ This lawsuit on donations is not related to the Korean Council. By including the
 1\. 윤미향 전 정의연 이사장이 소위 ‘문희상안 (2+2+@)’에 반대한 것은 맞습니다. 이유는 ‘2015한일합의’ 후속으로 만들어진 화해치유재단에 일본이 냈던 잔액 60억원이 문희상안에 포함되어 있었기 때문입니다.  
 2\. 윤미향 전 정의연 이사장과 정의연이 “위안부 할머니들에게 (일본이 낸 화해·치유재단 지원금) 1억 원을 받지 말라고 한”적은 단 한 번도 없습니다.  
 3\. ‘문희상안’은 윤미향 전 이사장이 반대해 무산된 것이 아닙니다. 여러 가지 문제점 때문에 관련 단체들과 피해자당사자들은 물론, 민주당 내 다수의 국회의원들도 반대했으며, 심의조차 되지 못한 채 임기만료로 자동 폐기되었습니다. 관련 내용은 아래 링크를 참조하세요.  
-[http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC\_X1B9T1C2P1U8D1V6G3N0A5L0O9W1W3](http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1B9T1C2P1U8D1V6G3N0A5L0O9W1W3)
+[https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC\_X1B9T1C2P1U8D1V6G3N0A5L0O9W1W3](https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1B9T1C2P1U8D1V6G3N0A5L0O9W1W3)
 
 ☞ 중앙일보 김홍범 기자의 기사 수정을 강력 요청하며, 정확한 사실에 기초하지 않은 위와 같은 보도가 다시는 생산되지 않기를 바랍니다.
 
@@ -990,7 +990,7 @@ Above all, reporting behavior that does not take into account the state of armed
 
 Please refer to the link below for information on the Butterfly Fund that supports the Democratic Republic of the Congo.
 
-[womenandwar.net/kr/콩고민주공화국-활동-모음/](http://womenandwar.net/kr/%EC%BD%A9%EA%B3%A0%EB%AF%BC%EC%A3%BC%EA%B3%B5%ED%99%94%EA%B5%AD-%ED%99%9C%EB%8F%99-%EB%AA%A8%EC%9D%8C/)
+[womenandwar.net/kr/콩고민주공화국-활동-모음/](https://womenandwar.net/kr/%EC%BD%A9%EA%B3%A0%EB%AF%BC%EC%A3%BC%EA%B3%B5%ED%99%94%EA%B5%AD-%ED%99%9C%EB%8F%99-%EB%AA%A8%EC%9D%8C/)
 
 The Butterfly Fund is a project funded by the Korean Council that supports women who are victims of sexual violence in armed conflicts. On March 8, 2012, International Women's Day, the fund was established following Kim Bok Dong and Gil Won-ok’s wish to donate legal reparations they may receive from the Japanese government to support women who suffered from sexual violence in armed conflicts like them. The first beneficiary of the Butterfly Fund was APDUD, an organization that helps women and children who are victims of wartime sexual violence in the Democratic Republic of the Congo, which was supported from September 2012. Since then, the fund expanded its support to women and children who are victims of sexual violence in armed conflicts in Uganda and Vietnam.
 
@@ -1019,7 +1019,7 @@ The Korean Council for Justice and Remembrance
 
 콩고민주공화국에 지원되는 나비기금에 대한 내용은 아래 링크를 참고하시기 바랍니다.
 
-[womenandwar.net/kr/콩고민주공화국-활동-모음/](http://womenandwar.net/kr/%EC%BD%A9%EA%B3%A0%EB%AF%BC%EC%A3%BC%EA%B3%B5%ED%99%94%EA%B5%AD-%ED%99%9C%EB%8F%99-%EB%AA%A8%EC%9D%8C/)
+[womenandwar.net/kr/콩고민주공화국-활동-모음/](https://womenandwar.net/kr/%EC%BD%A9%EA%B3%A0%EB%AF%BC%EC%A3%BC%EA%B3%B5%ED%99%94%EA%B5%AD-%ED%99%9C%EB%8F%99-%EB%AA%A8%EC%9D%8C/)
 
 나비기금은 전시 성폭력 피해 여성들을 지원하는 정의연 기금사업입니다. 2012년 3월 8일 세계 여성의 날, 김복동, 길원옥 할머니께서 나중에 일본정부로부터 법적배상을 받으면 자신들과 같이 고통받고 있는 전시 성폭력 피해 여성들을 위해 기부하고 싶다는 숭고한 뜻에 따라 설립되었습니다. 나비기금의 첫 수혜단체는 콩고민주공화국 전시성폭력 피해 여성과 전쟁 피해 아동을 돕는 단체 압두드(APDUD)로 2012년 9월부터 지원을 시작했습니다. 이후 우간다, 베트남 등 세계 전시성폭력 피해 여성과 아동들로 지원이 확대됩니다.
 

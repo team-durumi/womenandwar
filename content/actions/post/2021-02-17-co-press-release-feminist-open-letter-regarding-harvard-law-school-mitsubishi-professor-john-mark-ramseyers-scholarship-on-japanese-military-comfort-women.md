@@ -49,9 +49,9 @@ We call on higher educational institutions to take the following actions:
 
 Sincerely,  
 The undersigned  
-Sign the statement here: [bit.ly/feministsonramseyersign](http://bit.ly/feministsonramseyersign)  
-View signatories here: [bit.ly/feministsonramseyerview](http://bit.ly/feministsonramseyerview)  
-\[Full statement including notes\] [bit.ly/feministsonramseyer](http://bit.ly/feministsonramseyer)
+Sign the statement here: [bit.ly/feministsonramseyersign](https://bit.ly/feministsonramseyersign)  
+View signatories here: [bit.ly/feministsonramseyerview](https://bit.ly/feministsonramseyerview)  
+\[Full statement including notes\] [bit.ly/feministsonramseyer](https://bit.ly/feministsonramseyer)
 
 **\[공동보도자료\] 하버드법대 존 마크 램자이어 미쓰비시 교수의 일본군‘위안부’ 관련 논문에 대한 전 세계 페미니스트 성명**
 
@@ -101,6 +101,6 @@ View signatories here: [bit.ly/feministsonramseyerview](http://bit.ly/feministso
 \- 전범 기업에 투자하거나, 투자받는 것을 지양하고, 해당 기업으로부터 지원받은 자금에 대한 정보를 공개하라.
 
 서명인  
-서명하기: [bit.ly/feministsonramseyersign](http://bit.ly/feministsonramseyersign)  
-서명인 보기: [bit.ly/feministsonramseyerview](http://bit.ly/feministsonramseyerview)  
-성명 웹사이트: [bit.ly/feministsonramseyerkor](http://bit.ly/feministsonramseyerkor)
+서명하기: [bit.ly/feministsonramseyersign](https://bit.ly/feministsonramseyersign)  
+서명인 보기: [bit.ly/feministsonramseyerview](https://bit.ly/feministsonramseyerview)  
+성명 웹사이트: [bit.ly/feministsonramseyerkor](https://bit.ly/feministsonramseyerkor)

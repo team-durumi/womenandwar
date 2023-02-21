@@ -46,4 +46,4 @@ On February 16, just a few weeks away from the presidential election, the Japane
 
 [From Minority to Majority: Thoughts on Asian American Hate from an Asian American Living in Japan](https://www.tokyoartbeat.com/en/articles/-/from-minority-to-majority-thoughts-on-asian-american-hate-from-an-asian)
 
-[Documentary film ‘Comfort’ tells untold story about former ‘comfort women’](http://www.koreaherald.com/view.php?ud=20220213000155)
+[Documentary film ‘Comfort’ tells untold story about former ‘comfort women’](https://www.koreaherald.com/view.php?ud=20220213000155)

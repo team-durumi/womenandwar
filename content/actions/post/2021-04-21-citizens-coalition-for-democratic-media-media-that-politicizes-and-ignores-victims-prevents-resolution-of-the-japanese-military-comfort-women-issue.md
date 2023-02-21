@@ -346,4 +346,4 @@ Peace activist and women’s rights activist Kim Bok Dong left us this will:
 “Please fight until the end for the resolution of the Japanese military “comfort women” issue. Please keep supporting students of Korean ethnic schools in Japan for me.” - Kim Bok Dong
 
 **Translator: E Ju Ro  
-Video source: [Citizens' Coalition for Democratic Media](http://www.ccdm.or.kr/xe/)**
+Video source: [Citizens' Coalition for Democratic Media](https://www.ccdm.or.kr/xe/)**

@@ -28,13 +28,13 @@
       </a>
       <a href="#" class="absolute right-4 top-6 lg:hidden" @click="showMobileMenu = !showMobileMenu">
         <span class="burger" :class="{ 'flex': !showMobileMenu }"  x-show="!showMobileMenu">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <svg xmlns="https://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
           </svg>
           <!-- <span class="ml-2">메뉴</span> -->
         </span>
         <span class="close" :class="{ 'flex': showMobileMenu }" x-show="showMobileMenu">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <svg xmlns="https://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
           </svg>
           <!-- <span class="ml-2">닫기</span> -->
@@ -77,7 +77,7 @@
             <div class="flex justify-between items-center">
               <a class="block text-lg leading-6 py-4" href="#">{{ .Name }}</a>
               <a class="h-11 w-11 flex justify-center items-center" @click="childMenu = !childMenu" :class="{ 'transform rotate-180': childMenu }">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg xmlns="https://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                 </svg>
               </a>

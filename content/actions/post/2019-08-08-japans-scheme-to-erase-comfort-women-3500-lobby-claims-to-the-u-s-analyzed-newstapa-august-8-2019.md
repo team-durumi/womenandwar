@@ -34,13 +34,13 @@ In his book, _Comfort Women of the Empire_, Park Yu-ha argued that the “comfor
 
 Lee Woo-yeon co-authored _Anti-Japan Tribalism_ with former Seoul National University Professor and colonial modernization theorist Lee Young-hoon. Recently, Lee Woo-yeon led a movement against establishment of memorials dedicated to the Japanese military “comfort women” and forced laborers ([https://www.hankookilbo.com/News/Read/201503061652735674](https://www.hankookilbo.com/News/Read/201503061652735674)).
 
-Soh Chung-hee argued that the Japanese military “comfort women” issue can be attributed not only to Japanese imperialism, but also to the Korean patriarchy that rendered these women vulnerable to trafficking as they were driven outside the protection of the home. She further argued that Korea’s nationalist politics and the international women’s human rights movement led to incomplete view of the “comfort women” issue ([http://userwww.sfsu.edu/soh/cwbook.htm](http://userwww.sfsu.edu/soh/cwbook.htm)).
+Soh Chung-hee argued that the Japanese military “comfort women” issue can be attributed not only to Japanese imperialism, but also to the Korean patriarchy that rendered these women vulnerable to trafficking as they were driven outside the protection of the home. She further argued that Korea’s nationalist politics and the international women’s human rights movement led to incomplete view of the “comfort women” issue ([https://userwww.sfsu.edu/soh/cwbook.htm](https://userwww.sfsu.edu/soh/cwbook.htm)).
 
 - Park Yu-ha’s _Comfort Women of the Empire,_ Soh Chung-hee’s _The Comfort Women: Sexual Violence and Postcolonial Memory in Korea and Japan_, Lee Woo-yeon’s “Korean Coal and Metal Mineworkers Mobilized in Wartime Japan: The Question of Wages and Ethnicity-Based Disparities”
 
-Ikuhiko Hata is known as the “scholar who denounced the ‘comfort women’ as sex workers and conceptualized such theory.” Hata is the Japanese Prime Minister Shinzō Abe’s scholarly mentor and led Abe’s Kono Statement Reassessment Team ([http://premium.chosun.com/site/data/html\_dir/2014/06/23/2014062300231.html?relpm](http://premium.chosun.com/site/data/html_dir/2014/06/23/2014062300231.html?relpm)). Hata is heavily cited in Park Yu-ha’s book.
+Ikuhiko Hata is known as the “scholar who denounced the ‘comfort women’ as sex workers and conceptualized such theory.” Hata is the Japanese Prime Minister Shinzō Abe’s scholarly mentor and led Abe’s Kono Statement Reassessment Team ([https://premium.chosun.com/site/data/html\_dir/2014/06/23/2014062300231.html?relpm](https://premium.chosun.com/site/data/html_dir/2014/06/23/2014062300231.html?relpm)). Hata is heavily cited in Park Yu-ha’s book.
 
-Tsutomu Nishioka is a far-right critic who denies that the Japanese military “comfort women” were forcibly mobilized. He is known as one of “Prime Minister Abe’s brains” ([http://www.sisajournal.com/news/articleView.html?idxno=118870](http://www.sisajournal.com/news/articleView.html?idxno=118870)).
+Tsutomu Nishioka is a far-right critic who denies that the Japanese military “comfort women” were forcibly mobilized. He is known as one of “Prime Minister Abe’s brains” ([https://www.sisajournal.com/news/articleView.html?idxno=118870](https://www.sisajournal.com/news/articleView.html?idxno=118870)).
 
 Archie Miyamoto argues that Korean comfort stations were run by Korean agents and Japanese comfort stations were run by Japanese agents, and there were no comfort stations run by the Japanese military ([https://japan-forward.com/comfort-women-statues-shame-not-help-koreans/](https://japan-forward.com/comfort-women-statues-shame-not-help-koreans/)).
 
@@ -161,7 +161,7 @@ Japan contacted more Republican senators (41 senators) than Democratic senators 
 
 Ranked 2nd was Republican Sen. Chuck Hagel who was appointed as Secretary of Defense during the Obama administration (24 instances of contact). Ranked 3rd was Sen. Larry Craig (20 instances) from the same party.
 
-Sen. Trent Lott, who ranked 4th with Sen. Robert Byrd, is known for helping Japanese company Nissan evade car fuel-efficiency requirements ([http://www.donga.com/news/View?gid=8413491&date=20070303](http://www.donga.com/news/View?gid=8413491&date=20070303)).
+Sen. Trent Lott, who ranked 4th with Sen. Robert Byrd, is known for helping Japanese company Nissan evade car fuel-efficiency requirements ([https://www.donga.com/news/View?gid=8413491&date=20070303](https://www.donga.com/news/View?gid=8413491&date=20070303)).
 
 **Vice President Dick Cheney and Karl Rove, Deputy Chief of Staff during the Bush administration were also lobbied during their time in office**
 
@@ -179,7 +179,7 @@ Included in the Top 10 list of federal government officials were a number of wel
 
 Japan’s lobby supplement recorded 71 lobby activities targeting the media and 13 targeting think tanks. Among media outlets, _The Washington Post_ came highest, having been contacted 18 times. Political newspaper, _The Hill_ (contacted 9 times), _ABC Network_ (6 times), _Wall Street Journal_ (5 times), and _The New York Times_ (5 times) followed suit.
 
-Of all journalists, Blaine Harden, Seattle correspondent at _The Washington Post_, received the most outreach from lobby firms hired by Japan. On July 18, 2007, when interest in the Honda resolution was high, Harden reported on a letter sent by Ryozo Kato, then Japanese Ambassador to the U.S., titled, “Japan Warns U.S. House Against Resolution on WWII Sex Slaves” ([http://www.washingtonpost.com/wp-dyn/content/article/2007/07/17/AR2007071701802.html](http://www.washingtonpost.com/wp-dyn/content/article/2007/07/17/AR2007071701802.html)). Japan’s lobby firms contacted Harden five times before the report was made and three times after.
+Of all journalists, Blaine Harden, Seattle correspondent at _The Washington Post_, received the most outreach from lobby firms hired by Japan. On July 18, 2007, when interest in the Honda resolution was high, Harden reported on a letter sent by Ryozo Kato, then Japanese Ambassador to the U.S., titled, “Japan Warns U.S. House Against Resolution on WWII Sex Slaves” ([https://www.washingtonpost.com/wp-dyn/content/article/2007/07/17/AR2007071701802.html](https://www.washingtonpost.com/wp-dyn/content/article/2007/07/17/AR2007071701802.html)). Japan’s lobby firms contacted Harden five times before the report was made and three times after.
 
 Among all people affiliated with think tanks, William Galston at Brookings Institution and Michael Oslin at the American Enterprise Institute (AEI) were contacted most number of times, which is four times respectively.
 

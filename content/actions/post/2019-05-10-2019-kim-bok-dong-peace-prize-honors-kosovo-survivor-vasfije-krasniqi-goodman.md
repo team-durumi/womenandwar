@@ -13,7 +13,7 @@ tags:
   - "vasfije-krasniqi-goodman"
 ---
 
-![](http://womenandwar.net/kr/wp-content/uploads/2019/05/슬라이드1.jpg)
+![](https://womenandwar.net/kr/wp-content/uploads/2019/05/슬라이드1.jpg)
 
 ?2019 Kim Bok-dong Peace Prize honors Kosovo survivor Vasfije Krasniqi-Goodman?
 

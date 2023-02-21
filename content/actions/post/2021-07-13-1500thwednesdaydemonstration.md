@@ -224,5 +224,5 @@ The first Wednesday Demonstration was held on January 8, 1992. In the past 29 ye
 ◼ Roles of co-organizer:  
 1) Share 15-character message to commemorate the 1500th Wednesday Demonstration! (Last step of the Google Form)  
 2) Promote the 1500th Wednesday Demonstration to others and social media **\*Hashtags: #1500차수요시위 #1500thWednesdayDemonstration #1500回水曜デモ**  
-3) Join the 1500th Wednesday Demonstration YouTube Live chat (The Korean Council YouTube channel: [youtube.com/thekoreancouncil](http://youtube.com/thekoreancouncil) )  
+3) Join the 1500th Wednesday Demonstration YouTube Live chat (The Korean Council YouTube channel: [youtube.com/thekoreancouncil](https://youtube.com/thekoreancouncil) )  
 \*The names of co-organizers will be disclosed at the 1500th Wednesday Demonstration.

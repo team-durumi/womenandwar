@@ -24,4 +24,4 @@ Events for the 1500th Wednesday Demonstration on July 14 and International Memor
 [\[Editorial\] “Comfort women” exhibition shouldn’t succumb to violence](https://english.hani.co.kr/arti/english_edition/english_editorials/1003195.html)  
 📌 Statue of Peace  
 [Japan protests Berlin district 'comfort women' statue extension](https://mainichi.jp/english/articles/20210906/p2g/00m/0na/028000c)  
-[Second-Generation Korean-German Designer Develops Virtual Statue of Peace Against Japanese Protest](http://koreabizwire.com/second-generation-korean-german-designer-develops-virtual-statue-of-peace-against-japanese-protest/196934)
+[Second-Generation Korean-German Designer Develops Virtual Statue of Peace Against Japanese Protest](https://koreabizwire.com/second-generation-korean-german-designer-develops-virtual-statue-of-peace-against-japanese-protest/196934)
