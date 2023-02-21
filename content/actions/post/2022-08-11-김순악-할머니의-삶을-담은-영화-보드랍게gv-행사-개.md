@@ -1,0 +1,34 @@
+---
+title: "김순악 할머니의 삶을 담은 영화 '보드랍게'GV 행사 개최"
+date: "2022-08-11"
+categories: 
+  - "기림사업"
+  - "report"
+---
+
+제10차 세계일본군‘위안부’기림일을 맞아 정의연에서는 8월 11일(목) 7시부터 특별영화 상영회를 진행하였습니다.
+
+영화는 <보드랍게>로 김순악 할머니의 이야기를 담은 다큐멘터리 영화였으며, 영화를 더 잘 이해하고, 우리가 함께 연대하여 일본군성노예제 문제를 해결하기 위한 다양한 방법을 알기 위해서 감독님과의 대화의 시간도 마련했습니다.
+
+상영회를 진행하는 동안 예상치 못한 역사부정세력들이 특별영화 상영회 장소인 다리소극장 주변에서 시위를 하며 소음 유발과 행사 방해를 하는 등의 어려움이 있었습니다. 하지만 이에 굴하지 않은 100명 이상의 신청자들이 영화를 관람하셨으며, 감독과의 대화에 89명이 참가하시는 등 뜨거운 호응이 있었습니다. 박문칠 감독님께 신청자들의 질문이 끊이지 않았고, 중간에 자리를 뜨는 사람들이 별로 없을 정도로 열기가 대단했습니다.
+
+행사를 끝내고 돌아가시는 참가자들을 보면서 앞으로도 종종 다양하고 더 좋은 행사로 후원회원들과 일반 시민들을 만나야겠다고 다짐하였습니다.  
+다시 한 번 참가해주신 모든 여러분께 감사의 인사를 드립니다.  
+저희는 어떤 어려움에도 굴하지 않고 꿋꿋하게 일본군성노예제 문제해결을 위해 다방면으로 활동하겠습니다.  
+감사합니다.
+
+- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0655-1024x683.jpg)
+    
+- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0658-1024x683.jpg)
+    
+- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0664-1024x683.jpg)
+    
+- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0691-1024x683.jpg)
+    
+- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0728-1024x683.jpg)
+    
+- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0753-1024x683.jpg)
+    
+- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0641-1024x683.jpg)
+    
+- ![](https://womenandwar.net/kr/wp-content/uploads/2022/09/IMG_0719-1024x683.jpg)

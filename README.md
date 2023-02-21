@@ -53,11 +53,9 @@ rclone sync --progress {구글공유드라이브}:backup/kr/wp-content/uploads/ 
 rclone sync --progress /Users/woonjjang/durumi/womenandwar/media ww:media
 ```
 
-## post
-- wordpress post type은 활동소개
-- 활동소개에 categories로 분리 
-- 국내연대
--- 나비기금, 전시성폭력재발방지는 해외연대 안에 나비기금
+## post | 1396 items
+- wordpress xml 파일을 기준으로 마이그레이션
+- wordpress to markdown
 
 
 ## 활동소개

@@ -1,0 +1,25 @@
+---
+title: "[동행소식] 홍콩 Joe님이 CLC 오승희 님의 생일을 맞아 기부해주셨어요!"
+date: "2019-10-08"
+categories: 
+  - "donation"
+  - "report"
+---
+
+![](http://womenandwar.net/kr/wp-content/uploads/2019/10/01-1024x566.jpg)
+
+중국인인 Joe 씨는 할머니, 할아버지께서 제2차세계대전 중 일본의 침략전쟁에 의해 겪은 아픔에 대해 배우며 자랐습니다. Joe 씨는 전쟁범죄를 부정하는 일본정부 및 군국주의자들이 부끄러워해야 하며, 중국과 한국을 비롯한 아시아태평양 지역의 사람들이 일본군의 전쟁범죄로 겪은 고통을 잊지 말아야 한다는 걸 강조했습니다.  
+Joe 씨는 정의기억연대가 일본군’위안부’ 피해자들을 지원한다는 걸 알게 된 후, 걸그룹 CLC 오승희 씨의 생일을 맞아 정의기억연대에 KRW951010원을 기부해 주셨습니다.CLC 멤버들과 오승희 씨는 데뷔 때부터 꾸준히 자선활동을 펼쳐왔고, Joe 씨도 CLC 멤버들을 통해 사람들과 나누고, 우리 사회의 변화를 위해 함께하겠다고 다짐했다고 합니다.  
+Joe 씨와 CLC의 아름다운 동행에 고맙습니다. 정의기억연대는 소중한 후원금으로 일본군성노예제 문제의 정의로운 해결을 위한 활동을 이어나가겠습니다.
+
+  
+\[Donation by Joe Chan\] In Celebration of CLC Oh Seunghee's birthday  
+As a Chinese, Joe has heard a lot about his grandparents' suffering during the Japanese aggression in World War II since his childhood. Joe emphasizes that people should understand how disgraceful it is for the Japanese militarist to deny such war crime and should never forget the pain they have inflicted to both of our nations and across Asia-Pacific region.Joe came across the work that the Korean Council has been doing for the living victims and decided to do something about it. He donated KRW951010 to the Council and would like to dedicate this donation to Oh Seunghee from girl group CLC, as a gift for her birthday.
+
+  
+Oh Seunghee and CLC groupmates have been constantly participating in charitable work ever since before their debut. Their kindness and generosity have motivated Joe to follow their path and make a difference at the best he can.
+
+  
+We thank Joe, Seunghee and CLC for the beautiful solidarity. The Korean Council will work towards just resolution of the Japanese military sexual slavery issue
+
+.#CLC #오승희 #정의기억연대
