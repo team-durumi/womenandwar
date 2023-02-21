@@ -634,3 +634,35 @@ ko:
         - title: 희망씨앗기금
           body: 2017년 11월 25일 세계여성폭력추방의 날을 기념하여 정의기억재단은 대한민국정부에 등록된 모든 피해자 할머니들께 여성 인권 운동가로서의 삶을 살아오심에 감사드리며 100만 시민이 드리는 ‘여성인권상’을 전달드렸습니다. 특히 송신도 할머니를 비롯한 일본정부가 위로금 명목으로 지급했던 10억 엔을 거부하며 싸워오신 피해자 할머니들께 부상으로 상금을 전해드렸습니다. 2017년 12월 16일 세상을 떠나시기 전 정의기억재단이 전달드린 상금 전액을 기부해주셨습니다. 이렇게 송신도 희망씨앗기금이 만들어졌고, 2017년 6월 9일 일본의 미래세대들을 위한 교육사업을 목적으로 설립된 ‘희망씨앗기금’과의 교류사업을 위해 사용 되고 있습니다.
           url: https://www.kibotane.org/about-us
+en:
+  submenu:
+    title: "영문페이지 서브메뉴 목록"
+    slug: english_introduction
+    소개:
+      title: About
+      slug: about
+      body: 내용이 필요합니다.
+    일본군성노예제:
+      title: What is Japanese Military Sexual Slavery System
+      slug: What is
+    증언:
+      title: Testimonies
+      slug: testimonies
+      body: 증언내용(할머니)    
+    연혁:
+      title: History of the movement
+      slug: History
+      body: 내용이 필요합니다.      
+    활동:
+      title: Activities
+      slug: activities
+      body: 내용이 필요합니다.
+    자료:
+      title: Resources
+      slug: resources
+      body: 내용이 필요합니다.
+      url: /connect/resource/1403/    
+    게시글:
+      title: Updates
+      slug: updates
+      url: "/categories/updates/"

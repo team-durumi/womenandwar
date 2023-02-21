@@ -1,0 +1,207 @@
+{{ with site.Data.activity.en.submenu }}
+<div class="container px-5 py-5 mx-auto">
+    <div class="flex flex-wrap -m-4">
+        {{ with site.Data.admission_guide.en }}
+        <div class="mb-20">
+            <div class="flex justify-between items-center mb-6 border-b border-aa-gray-900 pb-6">
+                <h2 class="text-3xl font-bold text-aa-gray-900 leading-none">{{ .소식참여.title }}</h2>
+            </div>
+            <div class="lg:flex justify-between">
+                <div class="leading-loose text-lg">
+                    {{ if .소식참여.정기후원신청하기 }}
+                    <dl class="flex">
+                        <dt class="lg:w-48 w-36 text-aa-gray-900 font-bold flex justify-between mr-3 flex-shrink-0">{{ .소식참여.정기후원신청하기.title }}<span>|</span></dt>
+                        <dd>
+                            <ol class="list-decimal ml-5">
+                               {{ range .소식참여.정기후원신청하기.body }}
+                                <li>{{ . }}</li>
+                                {{ end }}
+                            </ol>
+                        </dd>
+                    </dl>
+                    {{ end }}
+                    <dl class="flex">
+                        <dt class="lg:w-48 w-36 text-aa-gray-900 font-bold flex justify-between mr-3 flex-shrink-0">{{ .소식참여.일시후원신청하기.title }}<span>|</span></dt>
+                        <dd>
+                            <ul class="list-decimal ml-5">
+                                {{ range .소식참여.일시후원신청하기.body }}
+                                <li>{{ . }}</li>
+                                {{ end }}
+                            </ul>
+                        </dd>
+                    </dl>              
+                </div>
+            </div>
+        </div>
+        {{ end }}
+
+        <div 
+            x-data="{
+            openTab: 1,
+            activeClasses: 'border-2 border-aa-purple-500 text-aa-purple-500',
+            inactiveClasses: 'text-gray-900 hover:text-aa-purple-500'
+            }" 
+            class="p-2 xl:p-8"
+        >
+            <ul class="flex items-start justify-start xs:text-xs md:text-2xl">
+                <li @click="openTab = 1" :class="{ '-mb-px': openTab === 1 }" class="-mb-px mx-4">
+                    <a :class="openTab === 1 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .소개.slug }}">{{ .소개.title }}</a>
+                </li>
+                <li @click="openTab = 2" :class="{ '-mb-px': openTab === 2 }" class="mx-4">
+                    <a :class="openTab === 2 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .일본군성노예제.slug }}">{{ .일본군성노예제.slug }}</a>
+                </li>
+                <li @click="openTab = 3" :class="{ '-mb-px': openTab === 3 }" class="mx-4">
+                    <a :class="openTab === 3 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .증언.slug }}">{{ .증언.title }}</a>
+                </li>
+                <li @click="openTab = 4" :class="{ '-mb-px': openTab === 4 }" class="mx-4">
+                    <a :class="openTab === 4 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .연혁.slug }}">{{ .연혁.slug }}</a>
+                </li> 
+                <li @click="openTab = 5" :class="{ '-mb-px': openTab === 5 }" class="mx-4">
+                    <a :class="openTab === 5 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .활동.slug }}">{{ .활동.title }}</a>
+                </li>
+                <li @click="openTab = 6" :class="{ '-mb-px': openTab === 6 }" class="mx-4">
+                    <a :class="openTab === 6 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .자료.url }}">{{ .자료.title }}</a>
+                </li>                                                 
+                <li @click="openTab = 7" :class="{ '-mb-px': openTab === 7 }" class="mx-4">
+                    <a :class="openTab === 7 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .게시글.url }}">{{ .게시글.title }}</a>
+                </li>                    
+            </ul>
+            <div class="w-full pt-4">
+                <div x-show="openTab === 1">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .소개.title }}</h2>
+                        <div class="text-lg">
+                            <p class="mb-7">{{ .소개.body }}</p>
+                        </div>
+                    </div>
+                </div>          
+                <div x-show="openTab === 2">
+                    <div class="lg:flex justify-center py-12">
+                        <div class="text-lg">
+                            {{ with site.Data.comfort_women.en }}
+                            <div class="lg:flex justify-center pt-12">
+                                <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-4">{{ .definition.title }}</h2>
+                                <div class="text-lg">
+                                    <p class="mb-7">{{ .definition.section_01.body }}</p>
+                                    <p class="mb-7 font-bold">[ {{ .definition.혼동되기쉬운단어.title }} ] </p>
+                                    {{ range .definition.혼동되기쉬운단어.body }}
+                                        <p class="mb-7">{{ . }}</p>
+                                    {{ end }}
+                                </div>
+                            </div>
+                            <div class="mb-20"> 
+                                <ul class="flex flex-wrap pt-6">
+                                    <li class="lg:w-1/2 w-full">
+                                        <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                                            <img class="absolute w-full object-cover" src="{{ .definition.황금주.src }}" alt="{{ .definition.황금주.title }}">
+                                        </span>
+                                        <p class="mb-7 font-bold text-center">{{ .definition.황금주.title }}</p>
+                                    </li>
+                                    <li class="lg:w-1/2 w-full">
+                                        <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                                            <img class="absolute w-full" src="{{ .definition.피해자들.src }}" alt="{{ .definition.피해자들.title }}">
+                                        </span>
+                                        <p class="mb-7 font-bold text-center">{{ .definition.피해자들.title }}</p>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="mb-20">
+                                <ul class="flex flex-wrap pt-6">
+                                    <li class="lg:w-1/2 w-full">
+                                        <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                                            <img class="absolute w-full object-cover" src="{{ .definition.군위안소종업부등모집에관한건.src }}" alt="{{ .definition.군위안소종업부등모집에관한건.title }}">
+                                        </span>
+                                        <p class="mb-7 font-bold text-center">{{ .definition.군위안소종업부등모집에관한건.title }}</p>
+                                    </li>
+                                    <li class="lg:w-1/2 w-full">
+                                        <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                                            <img class="absolute w-full" src="{{ .definition.일본군위안소분포도.src }}" alt="{{ .definition.일본군위안소분포도.title }}">
+                                        </span>
+                                        <p class="mb-7 font-bold text-center">{{ .definition.일본군위안소분포도.title }}</p>
+                                    </li>
+                                </ul>
+                                <p class="mt-7 mb-7">{{ .definition.section_02.body }}</p>
+                            </div>
+                            <div class="mb-20">
+                                <ul class="flex flex-wrap pt-6">
+                                    <li class="lg:w-1/3 w-full">
+                                        <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                                            <img class="absolute w-full object-cover" src="{{ .definition.위안소에서사용된콘돔.src }}" alt="{{ .definition.위안소에서사용된콘돔.title }}">
+                                        </span>
+                                        <p class="mb-7 font-bold text-center">{{ .definition.위안소에서사용된콘돔.title }}</p>
+                                    </li>
+                                    <li class="lg:w-1/3 w-full">
+                                        <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                                            <img class="absolute w-full" src="{{ .definition.위안소규정.src }}" alt="{{ .definition.위안소규정.title }}">
+                                        </span>
+                                        <p class="mb-7 font-bold text-center">{{ .definition.위안소규정.title }}</p>
+                                    </li>
+                                    <li class="lg:w-1/3 w-full">
+                                        <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                                            <img class="absolute w-full" src="{{ .definition.위안소앞에서.src }}" alt="{{ .definition.위안소앞에서.title }}">
+                                        </span>
+                                        <p class="mb-7 font-bold text-center">{{ .definition.위안소앞에서.title }}</p>
+                                    </li>        
+                                </ul>
+                                {{ range .definition.section_03.body }}
+                                <p class="mb-7">{{ . }}</p>
+                                {{ end }}
+                            </div>
+                            <div class="mb-20">
+                                <ul class="flex flex-wrap pt-6">
+                                    <li class="lg:w-1/3 w-full">
+                                        <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                                            <img class="absolute w-full object-cover" src="{{ .definition.위안소내부모습.src }}" alt="{{ .definition.위안소내부모습.title }}">
+                                        </span>
+                                        <p class="mb-7 font-bold text-center">{{ .definition.위안소내부모습.title }}</p>
+                                    </li>
+                                    <li class="lg:w-1/3 w-full">
+                                        <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                                            <img class="absolute w-full" src="{{ .definition.성병검진대.src }}" alt="{{ .definition.성병검진대.title }}">
+                                        </span>
+                                        <p class="mb-7 font-bold text-center">{{ .definition.성병검진대.title }}</p>
+                                    </li>
+                                    <li class="lg:w-1/3 w-full">
+                                        <span class="block overflow-hidden relative" style="padding-bottom:100%">
+                                            <img class="absolute w-full" src="{{ .definition.박영심할머니.src }}" alt="{{ .definition.박영심할머니.title }}">
+                                        </span>
+                                        <p class="mb-7 font-bold text-center">{{ .definition.박영심할머니.title }}</p>
+                                    </li>        
+                                </ul>
+                                {{ range .definition.section_04.body }}
+                                <p class="mb-7">{{ . }}</p>
+                                {{ end }}
+                            </div>
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+                <div x-show="openTab === 3">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .증언.title }}</h2>
+                        <div class="text-lg">
+                            <p class="mb-7">{{ .증언.body }}</p>
+                        </div>
+                    </div>
+                </div>
+                <div x-show="openTab === 4">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .연혁.title }}</h2>
+                        <div class="text-lg">
+                            <p class="mb-7">{{ .연혁.body }}</p>
+                        </div>
+                    </div>
+                </div>
+                <div x-show="openTab === 5">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .활동.title }}</h2>
+                        <div class="text-lg">
+                            <p class="mb-7">{{ .활동.body }}</p>
+                        </div>
+                    </div>
+                </div>                                              
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
