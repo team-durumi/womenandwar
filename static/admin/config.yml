@@ -20,6 +20,21 @@ collections:
       - { label: "슬라이드 배경이미지", name: "image", widget: "image" }
       - { label: '버튼제목', name: 'button_name', widget: 'string', required: false }
       - { label: '버튼URL', name: 'button_url', widget: 'string', required: false }
+  - name: 'slides'
+    label: '메인 정의연 현안 3개 섹션'
+    folder: 'content/issues'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: '순서', name: 'weight', widget: 'string' }
+      - { label: '제목', name: 'title', widget: 'string', required: false }
+      - { label: '날짜', name: 'date', widget: 'datetime', required: false } 
+      - { label: "슬라이드 배경이미지", name: "image", widget: "image" }
+      - { label: '버튼제목', name: 'button_name', widget: 'string', required: false }
+      - { label: '버튼URL', name: 'button_url', widget: 'string', required: false }
+      - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }     
   - name: 'notice'
     label: '공지사항'
     folder: 'content/connect/notice'
@@ -46,7 +61,7 @@ collections:
         multiple: true
         options: [ "공지", "보도자료", "문서" ]
         default: ["공지"]
-        hint: '공지 / 보도자료 / 문서'              
+        hint: '공지 / 보도자료 / 문서'
       - { label: '본문', name: 'body', widget: 'markdown' }
       - { label: '메인 공개', name: 'home_sticky', widget: 'boolean', default: false, hint: 'true 메인공개', required: false }
       - { label: '목록 고정', name: 'pinned', widget: 'boolean', default: false, hint: 'true 목록고정', required: false }
