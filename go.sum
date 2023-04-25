@@ -1,11 +1,11 @@
 github.com/bep/hugo-starter-tailwind-basic/v2 v2.1.0 h1:Gc/99KUrAQkZlnoFcCaxWmYHmqzWgTSnYB+Pv4vNe4M=
 github.com/bep/hugo-starter-tailwind-basic/v2 v2.1.0/go.mod h1:uskmdVlDfz8aTjohnPUlsAfs5qFFTyfivqwsWXaQvgA=
-github.com/gohugoio/hugo-mod-heroicons v0.0.0-20221026065811-d924ae1bd579 h1:VCHjPVDu07zk9+BOvEO8mnyqmI8kB+YaHf3J/AZ07zE=
-github.com/gohugoio/hugo-mod-heroicons v0.0.0-20221026065811-d924ae1bd579/go.mod h1:mXpqouD8uQc8JIsJMHqlC4wtkewyiQPpfXk74/Fjv9k=
-github.com/tailwindlabs/heroicons v2.0.12+incompatible/go.mod h1:2SHGOdw86jviBkoeQINcTfkzAAao9dciip4RsMS9xIg=
+github.com/gohugoio/hugo-mod-heroicons v0.0.0-20230311221257-aa5a3a372386 h1:4ssTg+cPu0aiV35lrF2APJ+6d3/s909LcAyC30d+Sd8=
+github.com/gohugoio/hugo-mod-heroicons v0.0.0-20230311221257-aa5a3a372386/go.mod h1:Dr4s5WED0qTYSmJtl8LXknqSaO4Jmw5UF6OqKMCWaxo=
+github.com/tailwindlabs/heroicons v2.0.16+incompatible/go.mod h1:2SHGOdw86jviBkoeQINcTfkzAAao9dciip4RsMS9xIg=
 github.com/team-durumi/hugo-search-fuse-js-aa v0.0.0-20210628094619-e3ae4cfbf0b6 h1:PboSCXkAHe8rxzNniAMCa+kLbn84IqoZYTb/MMSTHpQ=
 github.com/team-durumi/hugo-search-fuse-js-aa v0.0.0-20210628094619-e3ae4cfbf0b6/go.mod h1:DDfMJGftuK8bUsDJdl3nM/vlzAvSjVNi2IejQleS5tY=
 github.com/team-durumi/tailwind-aa-theme v0.0.0-20211217133713-92022565cc93 h1:6kZpUECTDffWJr2CYe0KxgW8LozsSBNwhhmPhNBPpfQ=
 github.com/team-durumi/tailwind-aa-theme v0.0.0-20211217133713-92022565cc93/go.mod h1:vdKTWy/bSPbxjMX5JeEQg9oJPwrxQDu5I+f2iWfiaR0=
-github.com/team-durumi/theme-wwm v0.0.0-20230127081911-ea9cc1837dcc h1:+BqwM8ZcEBvZUphmXvXOG3hvrejwdqr49Jtm/aikXMI=
-github.com/team-durumi/theme-wwm v0.0.0-20230127081911-ea9cc1837dcc/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=
+github.com/team-durumi/theme-wwm v0.0.0-20230414033617-ddd1aacc4e48 h1:d6+TbMU0rc6uuhTFE3+ArbpRlpyMYPp5pHBDVcEgCb0=
+github.com/team-durumi/theme-wwm v0.0.0-20230414033617-ddd1aacc4e48/go.mod h1:CFjOfeGPDkaUdMdhIjrUdFnjdbk1b/P7hb4H2WQfxPM=

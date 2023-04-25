@@ -1,0 +1,102 @@
+{{ with site.Data.activity.ko.campaign }}
+<div class="container px-5 py-5 mx-auto">
+    <div class="flex flex-wrap -m-4">
+        <div 
+            x-data="{
+            openTab: 1,
+            activeClasses: 'border-2 border-aa-purple-500 text-aa-purple-500',
+            inactiveClasses: 'text-gray-900 hover:text-aa-purple-500'
+            }" 
+            class="p-2"
+        >
+            <ul class="flex items-start justify-start xs:text-xs md:text-xl">
+                <li @click="openTab = 1" :class="{ '-mb-px': openTab === 1 }" class="-mb-px mx-4">
+                    <a :class="openTab === 1 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 font-semibold" href="#{{ .국내연대.url }}">{{ .국내연대.title }}</a>
+                </li>
+                <li @click="openTab = 2" :class="{ '-mb-px': openTab === 2 }" class="mx-4">
+                    <a :class="openTab === 2 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 font-semibold" href="#{{ .해외연대.url }}">{{ .해외연대.title }}</a>
+                </li>
+                <li @click="openTab = 3" :class="{ '-mb-px': openTab === 3 }" class="mx-4">
+                    <a :class="openTab === 3 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 font-semibold" href="#{{ .국내법적대응.url }}">{{ .국내법적대응.title }}</a>
+                </li>
+                <li @click="openTab = 4" :class="{ '-mb-px': openTab === 4 }" class="mx-4">
+                    <a :class="openTab === 4 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 font-semibold" href="#{{ .국외법적대응.url }}">{{ .국외법적대응.title }}</a>
+                </li> 
+                <li @click="openTab = 5" :class="{ '-mb-px': openTab === 5 }" class="mx-4">
+                    <a :class="openTab === 5 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 font-semibold" href="#{{ .기림사업소식.slug }}">{{ .기림사업소식.title }}</a>
+                </li>                                 
+                <li @click="openTab = 6" :class="{ '-mb-px': openTab === 6 }" class="mx-4">
+                    <a :class="openTab === 6 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 font-semibold" href="#{{ .전시성폭력재발방지.url }}">{{ .전시성폭력재발방지.title }}</a>
+                </li>
+                <li @click="openTab = 7" :class="{ '-mb-px': openTab === 7 }" class="mx-4">
+                    <a :class="openTab === 7 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 font-semibold" href="#{{ .교육연구.url }}">{{ .교육연구.title }}</a>
+                </li>
+                <li @click="openTab = 8" :class="{ '-mb-px': openTab === 8 }" class="mx-4">
+                    <a :class="openTab === 8 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 font-semibold" href="#{{ .장학사업.url }}">{{ .장학사업.title }}</a>
+                </li>                                                
+            </ul>
+            <div class="w-full pt-4">
+                <div x-show="openTab === 1">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .아시아연대회의.title }}</h2>
+                        <ul>
+                            {{ range .regularPages }}
+                                <li>
+                                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                    {{ .Params.wikipedia }}
+                                </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>          
+                <div x-show="openTab === 2">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .법정.title }}</h2>
+              
+                    </div>
+                </div>
+                <div x-show="openTab === 3">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .UN.title }}</h2>
+                        <div class="text-lg">
+                            <p class="mb-7">{{ .UN.body }}</p>
+                        </div>
+                    </div>
+                </div>
+                <div x-show="openTab === 4">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .해외연대단체.title }}</h2>
+                        <div class="text-lg">
+                            <p class="mb-7">{{ .해외연대단체.body }}</p>
+                        </div>
+                    </div>
+                </div>
+                <div x-show="openTab === 5">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .결의안.title }}</h2>
+                        <div class="text-lg">
+                            <p class="mb-7">{{ .결의안.body }}</p>
+                        </div>
+                    </div>
+                </div>
+                <div x-show="openTab === 6">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .결의안.title }}</h2>
+                        <div class="text-lg">
+                            <p class="mb-7">{{ .결의안.body }}</p>
+                        </div>
+                    </div>
+                </div>
+                <div x-show="openTab === 7">
+                    <div class="lg:flex justify-center py-12">
+                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .결의안.title }}</h2>
+                        <div class="text-lg">
+                            <p class="mb-7">{{ .결의안.body }}</p>
+                        </div>
+                    </div>
+                </div>                                                                                
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

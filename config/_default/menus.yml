@@ -99,7 +99,7 @@ main:
     weight: 3
     parent: 소식    
   - name: 액션·캠페인
-    url: /campaign
+    url: /categories
     weight: 4
     parent: 소식
   - name: 성명·논평

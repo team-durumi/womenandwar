@@ -9,4 +9,4 @@ banner:
   itemLink:
 ---
 
-{{< activity/international_solidarity >}}
+{{< activity/butterfly_fund >}}
