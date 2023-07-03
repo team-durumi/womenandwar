@@ -6,17 +6,23 @@ public_folder: /img
 collections:
   - name: items
     label: 아이템
-    label_singular: 'Page'
-    folder: content/pages
+    label_singular: 'items'
+    folder: content/items
     create: true
     # adding a nested object will show the collection folder structure
     nested:
-      depth: 5 # max depth to show in the collection tree
+      depth: 100 # max depth to show in the collection tree
       summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     fields:
       - label: Title
         name: title
         widget: string
+      - label: Summary
+        name: summary
+        widget: string        
+      - label: Ref_Code
+        name: reference_code
+        widget: string  
       - label: Body
         name: body
         widget: markdown
