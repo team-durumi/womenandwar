@@ -1,5 +1,13 @@
 # 정의기억연대 홈페이지
 
+## dev
+- local 및 ubuntu 환경에서 오류 날 때 
+```
+hugo mod clean
+go mod tidy
+hugo server -F --cleanDestinationDir
+```
+
 ## stage
 - stage.womenandwar.net
 - 정의기억연대 cloudflare 연결 / 정의연 netlify 연결
@@ -10,7 +18,6 @@
 - 박물관, 홈페이지, 추후 아카이브도 R2를 사용하도록 연계
 |- 박물관 : items, exhibition, shop 관련 원본 자료 연계
 |- 홈페이지 : 계속적으로 늘어나는 미디어 파일 관리
-|- 추후 공개하는 아카이브 : 공개 파일 관리 공간
 
 ## themes
 ```
@@ -57,7 +64,3 @@ rclone sync --progress /Users/woonjjang/durumi/womenandwar/media ww:media
 - wordpress xml 파일을 기준으로 마이그레이션
 - wordpress to markdown
 - Mixed content detected (5054개) replace http:// ->https://
-
-
-## 메뉴 및 페이지 관련
-https://docs.google.com/spreadsheets/d/1GDTYcoEUKJ_K4oJ8_enAcN0AOb9ZpG3jP0QKO7ax3Eo/edit#gid=0
