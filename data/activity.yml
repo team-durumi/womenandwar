@@ -17,7 +17,7 @@ ko:
   org_history:
     title: 정의기억연대연혁
     slug: history
-    정의연연혁:
+    정의기억연대연혁:
       title: 정의기억연대연혁
       목록:
         - title: 2022
@@ -661,7 +661,6 @@ ko:
     장학사업:
       title: 장학사업
       url: /categories/장학사업/ 
-
 en:
   submenu:
     title: "영문페이지 서브메뉴 목록"
@@ -669,31 +668,61 @@ en:
     소개:
       title: About
       slug: about
-      body: 내용이 필요합니다.
     일본군성노예제:
-      title: What is Japanese Military Sexual Slavery System
-      slug: What is
-    증언:
-      title: Testimonies
-      slug: testimonies
-      body: 증언내용(할머니)    
-    연혁:
-      title: History of the movement
-      slug: History
-      body: 내용이 필요합니다.      
+      title: What is
+      slug: what_is
     활동:
       title: Activities
       slug: activities
-      body: 내용이 필요합니다.
-    자료:
-      title: Resources
-      slug: resources
-      body: 내용이 필요합니다.
-      url: /connect/resource/1403/    
+    연혁:
+      title: History
+      slug: history    
+    후원:
+      title: Donate
+      slug: donate
     게시글:
       title: Updates
       slug: updates
       url: "/categories/updates/"
+  정의기억연대소개:
+    title: We are
+    인사말:
+      title: We are
+      message: “We are”
+      body:
+      - The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan (the Korean Council) is the Non-Government Organization working towards a just resolution of the issue and prevention of wartime sexual violence.
+      - Japanese military “comfort women” victim-survivors’ longstanding hope for children to grow up in a safe and peaceful world resonated with citizens around the globe and sparked fundraising efforts. After a long journey, the War and Women’s Human Rights Museum opened on Childrens’ Day, May 5th, 2012 as a space for future generations and citizens.
+      - The War and Women’s Human Rights Museum strives to create a better world for future generations by raising awareness of past history and memory through various exhibitions and educational programs and recording ongoing activism for women, human rights, and peace.
+      - We ask for your continuous interest and participation in the War and Women’s Human Rights Museum, which aims to be an international platform for transnational citizens’ solidarity, education of future generations, memory and archiving.
+      - Thank you.
+    활동목적:
+      title: We take actions for
+      message: “We take actions for”
+      body:
+      - resolution of the Japanese military sexual slavery issue, revealed by Kim Hak-soon’s courageous testimony on August 14, 1991.
+      - realization of the message of the victims to restore their dignity and human rights and to achieve a peaceful world.
+      - education regarding the history of the Japanese military sexual slavery to future generations.
+      - restoring victims’ dignity and human rights and remembering the Japanese military sexual slavery issue.
+      - prevention of wartime sexual violence and sexual violence in conflict.
+      - "just resolution of the issue: includes acknowledgment of war crimes, formal/public apology, legal reparation, investigation of truth, education about the issue, and legal punishment of the perpetrators."    
+    미션비전:
+      title: Mission & Vision
+      미션:
+        title: Our mission     
+        body: From the perspective of peace and women’s rights, We will take the lead in solving·remembering the Japanese military sexual slavery issue, violation of women’s rights, and sexual exploitation.
+      비전:
+        title: Our vision
+        body:
+        - 1. Taking the lead of solidarity to find truth and justice
+        - 2. Archiving, remembering, and educating about women, human rights, and peace.
+        - 3. Transparent communication and reinforcement
+    연락처:
+      title: Contact
+      body:
+        - "Address : 12, World Cup buk-ro 11-gil, Mapo-gu, Seoul, Republic of Korea"
+        - "Tel : +82-2-365-4016"
+        - "Fax : +82-2-365-4017"
+        - "E-mail : info@womenandwar.net"    
   victim_support:
     title: "Victim Support"
     slug: victim_support
@@ -703,18 +732,15 @@ en:
       section_01: The Korean Council believes that the just resolution of the issue of Japanese Military Sexual Slavery is the sincere restoration of the victims’ human right domestically and internationally. We provide various support and welfare programs to improve the survivors’ lives.
       목록:
         - title: Regular visitation & Phone calls
-        - body:
         - title: Holiday & Birthday celebration
-        - body:
         - title: Funeral support & Cherish passed away victims
-        - body:
   wednesday_demonstration:
     title: "The Wednesday Demonstration"
     slug: wednesday_demonstration
     의미:
-      title: meanings
+      title: Meanings
       slug: meanings
-      descripttions : The Korean Council has held Wednesday Demonstrations demanding the settlement of the Japanese Military Sexual Slavery issue since January 8, 1992. The Wednesday Demonstrations have become a platform for remembrance, solidarity, and education, regardless of participants’ gender, age, and nationality. Along with the survivors of military sexual slavery by Japan, the Korean Council continues to hold demonstrations in solidarity with civic groups, women, students, citizens, and other various individuals and organizations.
+      body : The Korean Council has held Wednesday Demonstrations demanding the settlement of the Japanese Military Sexual Slavery issue since January 8, 1992. The Wednesday Demonstrations have become a platform for remembrance, solidarity, and education, regardless of participants’ gender, age, and nationality. Along with the survivors of military sexual slavery by Japan, the Korean Council continues to hold demonstrations in solidarity with civic groups, women, students, citizens, and other various individuals and organizations.
       wed_1차수요시위:
         title: 1차수요시위
         src: https://r2.womenandwar.net/2018/08/19920108_%E1%84%8C%E1%85%A61%E1%84%8E%E1%85%A1-%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A9%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B1%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%87%E1%85%AE%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6%E1%84%92%E1%85%A2%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%B1%E1%84%92%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AD%E1%84%89%E1%85%B5%E1%84%8B%E1%85%B1-600x600.jpg
@@ -869,7 +895,7 @@ en:
     title: "Butterfly Fund: Prevention of Sexual Violence in Conflict"
     slug: butterfly_fund
     기금설명:
-      title: descriptions
+      title: Descriptions
       slug: descriptions
       body:
       - The Korean Council actively engages in international solidarity activities to support women and children suffering from sexual violence in conflict and aims to prevent and eradicate sexual violence in conflict.
@@ -884,7 +910,7 @@ en:
         - 1) APDUD (2012,2014~2015,2019~)
         - 2) REMED/Ushirika (2015~)
       베트남:
-        title: "2. Vietnam: (2013~)"
+        title: "2. Vietnam (2013 ~)"
         descriptions: "Like the Japanese Military Sexual Slavery victims, From September 1964 to March 1973, the U.S.-Vietnam War, in which the Korean army participated, resulted in numerous civilian killings and sexual assaults against Vietnamese women. Just as the Japanese government should apologize and reparate for Japanese Military Sexual Slavery, Korea should also be responsible for crimes committed in Vietnam and not forget its history. Butterfly Fund is flying to Vietnam for the second time after Congo to help victims of Korean military sexual violence, their children, and villages."
       우간다:
         title: "3. Uganda"
@@ -894,7 +920,7 @@ en:
         - "2) Golden Women Vision: (2018~2020)"
         - "3) Can Rwede Pee: (2018~2022)"
       팔레스타인:
-        title: "4. Palestine: (2021~)"
+        title: "4. Palestine (2021 ~)"
         descriptions: "Over 70 years of violence and gender-based violence against women have been caused by Israel's armed occupation of the Palestinian West Bank and Gaza since 1967, causing double suffering to Palestinian women. The Butterfly Fund provides psychological, social, and legal support for Palestinian women through the NGO 'ADI' to the 'Palestinian Women's trauma healing center.‘"
     연락:
       body: "If you have any suggestions, send us the story via email at info@womenandwar.net"
@@ -917,7 +943,8 @@ en:
         - The shadow on the bottom represents the victims who have waited for long for justice and the history that will never be forgotten. The butterfly in the heart of the shadow represents the souls of victims who passed away, who suffered and dreamed of genuine emancipation.
     작은소녀상건립운동현황:
       title: The Small Sonyeosang Movement
-      body : "The Small Sonyeosang Movement was suggested by Ehwa Girl's High School student circle 'Jumeockdoki' to commemorate the lives of Japanese military sexual slavery victims and to honor and act together to set justice for Japanese military sexual slavery victims. In July 2018, 239 schools symbolizing 239 reported Japanese military sexual slavery victims registered with the Korean government, finished to built The Small Sonyeosang in schools."
+      body: 
+      - "The Small Sonyeosang Movement was suggested by Ehwa Girl's High School student circle 'Jumeockdoki' to commemorate the lives of Japanese military sexual slavery victims and to honor and act together to set justice for Japanese military sexual slavery victims. In July 2018, 239 schools symbolizing 239 reported Japanese military sexual slavery victims registered with the Korean government, finished to built The Small Sonyeosang in schools."
   domestic_solidarity:
     title: "Domestic Solidarity"
     slug: domestic_solidarity
@@ -929,7 +956,8 @@ en:
   international_solidarity:
     title: "International Solidarity"
     slug: international_solidarity
-    section_01: From the beginning of the movement, the Korean Council recognized the importance of publicizing the issue of Japanese Military Sexual Slavery to the international society.
+    body: 
+    - From the beginning of the movement, the Korean Council recognized the importance of publicizing the issue of Japanese Military Sexual Slavery to the international society.
     아시아연대회의:
       title: Asian Solidarity Conference
       slug: Asian_Solidarity_Conference
@@ -979,10 +1007,10 @@ en:
           body:
           - "It was established as a fund to discover and support domestic female activists for those actively working for peace, unification, and women's human rights. This Peace Prize started on May 17, 2017, when Gil Won-ok donated one million won, which she won in the '1st Ewha Christian Women's Peace Award.'"
   donation:
-    title: donate
+    title: Donate!
     slug: donate
     일시후원신청하기:
-      title: donate!
+      title: Account Info
       body:
       - "Account number: 069137-04-014198"
       - "Account holder: The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan"
@@ -990,21 +1018,22 @@ en:
       - "Bank address: 26, Gukjegeumyung-ro 8-gil, Yeongdeungpo-gu, Seoul, Korea"
       - "SWIFT code: CZNBKRSEXXX"
       paypal: 
-        title: "Paypal account:"
+        title: "Paypal account : "
         body: info@womenandwar.net
     후원목록:
       title: Choose to Donate
       slug: donation_list
-      목록:
-        - title: 1. The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan
-          body: 
-          - "Donations to the Korean Council will be used for various domestic and international programs including Wednesday Demonstration, War and Women’s Rights Museum, digital archives, and international campaigns at the United Nations or abroad."
-        - title: 2.Butterfly Fund
-          body: 
-          - "As the Japanese Military Sexual Slavery victims suffered from violence in war, there are countless women across the world who still suffer in conflicts."
-          - "On International Women’s Day on March 8th, 2012, the Japanese military sexual slavery victims Kim Bok-dong and Gil Won-ok promised to support women who still suffer from sexual violence in conflict with reparations they would receive from the Japanese government."
-          - "The Butterfly Fund supports victims of sexual violence in conflict in Vietnam, Uganda, and the Democratic Republic of Congo, and other places, following Halmonis’ messages. Butterfly Fund’s donations only used as Butterfly Fund."
-  org_hitory:
+      기본:
+        title: 1. The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan
+        body: 
+        - "Donations to the Korean Council will be used for various domestic and international programs including Wednesday Demonstration, War and Women’s Rights Museum, digital archives, and international campaigns at the United Nations or abroad."
+      나비기금:
+        title: 2.Butterfly Fund
+        body: 
+        - "As the Japanese Military Sexual Slavery victims suffered from violence in war, there are countless women across the world who still suffer in conflicts."
+        - "On International Women’s Day on March 8th, 2012, the Japanese military sexual slavery victims Kim Bok-dong and Gil Won-ok promised to support women who still suffer from sexual violence in conflict with reparations they would receive from the Japanese government."
+        - "The Butterfly Fund supports victims of sexual violence in conflict in Vietnam, Uganda, and the Democratic Republic of Congo, and other places, following Halmonis’ messages. Butterfly Fund’s donations only used as Butterfly Fund."
+  org_history:
     title: History
     정의기억연대연혁:
       title: History of The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan
@@ -1383,7 +1412,7 @@ en:
     title: what is
     slug: definition
     definition:
-      title: definition
+      title: Definition
       body:
       - The Japanese Military Sexual Slavery system refers to crimes that the Japanese military committed from the 1930s to 1945 when Japan was defeated. During that period, the Japanese military systematically set up ‘military comfort stations’ by recruiting women from colonized and occupied countries and forcing them to serve as sex slaves.
     background:
@@ -1427,9 +1456,44 @@ jp:
       slug: donation
       body: /jp/donation
     게시글:
-      title: Updates
-      slug: updates
+      title: 水曜デモ
+      slug: japanese_updates
       url: "/categories/japanese/"
+  정의기억연대소개:
+    title: 正義記憶連帯とは
+    인사말:
+      title: 私たちは
+      message: 私たちは
+      body:
+      - 「日本軍性奴隷制問題解決のための正義記憶連帯(正義連)」は日本軍性奴隷制問題 の解決や戦時性暴力を防止するため行動するNGO団体です。
+    활동목적:
+      title: 活動内容
+      message: 活動内容
+      body:
+      - 1991年8月14日、キム·ハクスンの勇気ある証言によって明らかになった日本軍性奴隷制問題の解決に取り組む
+      - サバイバーたちの尊厳や人権を回復するため、平和な世界を実現するためにサバイバーのメッセージを実現する
+      - 未来世代に向けて日本軍性奴隷制問題を教育する
+      - サバイバーの尊厳と人権の回復のために、日本軍性奴隷制問題の記憶する
+      - 戦時性暴力や紛争下における性暴力の防止に取り組む
+      - 真の解決とは、戦争犯罪の認定、公式/公開謝罪、法的賠償、真相究明、問題に対す る教育、加害者に対する法的処罰を含まなければならない。
+    미션비전:
+      title: Mission & Vision
+      미션:
+        title: Our mission(일문 없음)     
+        body: From the perspective of peace and women’s rights, We will take the lead in solving·remembering the Japanese military sexual slavery issue, violation of women’s rights, and sexual exploitation.
+      비전:
+        title: 私たちのビジョン
+        body:
+        - 1. 真実と正義のために、先頭にたち連帯する
+        - 2. 女性・人権・平和をアーカイブ、記憶、教育する
+        - 3. 透明にコミュニケーションし、組織を強化する
+    연락처:
+      title: お問い合わせ
+      body:
+        - "Address 住所: 12, World Cup buk-ro 11-gil, Mapo-gu, Seoul, Republic of Korea"
+        - "Tel : +82-2-365-4016"
+        - "Fax : +82-2-365-4017"
+        - "E-mail : info@womenandwar.net"      
   victim_support:
     title: サバイバー福祉
     slug: victim_support
@@ -1439,18 +1503,16 @@ jp:
       section_01: 日本軍性奴隷制問題の真の解決こそ、韓国国内およびアジア地域のサバイバーたちの 真の人権回復であるとみなし、サバイバーのために様々な福祉・支援活動を繰り広げ ています。彼女たちがより安定的に生活を営むように連帯・支援しています。
       목록:
         - title: 定期訪問、日常電話
-        - body:
         - title: 節日、お誕生日のお祝い
-        - body:
         - title: 葬儀支援、命日お墓参り
-        - body:
   wednesday_demonstration:
     title: "水曜デモ"
     slug: wednesday_demonstration
     의미:
       title: 水曜デモ
       slug: meanings
-      descripttions : 「日本軍性奴隷制問題解決のための定期水曜デモ」は、1992年1月8日、宮澤元日本総 理の訪韓をきっかけに始まり、日本軍性奴隷制問題に対する真相究明・責任履行な ど、問題解決およびサバイバーの名誉と人権の回復を求めてきました。また、問題解 決に取り組む活動を絶え間なく広め、サバイバーと市民が連帯する場、生きた歴史教 育の空間、女性の人権と平和の声を高める場、国境を越えた連帯の場として拡大して きました。「水曜デモ」は、日本軍性奴隷制問題解決のための正義記憶連帯が主催 し、数多くの市民団体や一般市民たちが主管および参加しており、今も続いている私 たち皆の大切な歴史です。
+      body:
+      - 「日本軍性奴隷制問題解決のための定期水曜デモ」は、1992年1月8日、宮澤元日本総 理の訪韓をきっかけに始まり、日本軍性奴隷制問題に対する真相究明・責任履行な ど、問題解決およびサバイバーの名誉と人権の回復を求めてきました。また、問題解 決に取り組む活動を絶え間なく広め、サバイバーと市民が連帯する場、生きた歴史教 育の空間、女性の人権と平和の声を高める場、国境を越えた連帯の場として拡大して きました。「水曜デモ」は、日本軍性奴隷制問題解決のための正義記憶連帯が主催 し、数多くの市民団体や一般市民たちが主管および参加しており、今も続いている私 たち皆の大切な歴史です。
       wed_1차수요시위:
         title: 1차수요시위
         src: https://r2.womenandwar.net/2018/08/19920108_%E1%84%8C%E1%85%A61%E1%84%8E%E1%85%A1-%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%87%E1%85%A9%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B1%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%87%E1%85%AE%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6%E1%84%92%E1%85%A2%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%B1%E1%84%92%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AD%E1%84%89%E1%85%B5%E1%84%8B%E1%85%B1-600x600.jpg
@@ -1524,7 +1586,8 @@ jp:
         - 旧日本大使館前では、第1000回水曜デモを迎え建立された「平和の碑」があります。 「平和の碑」は、日本軍性奴隷制問題の歴史的事実を記憶し、このような悲劇が二度 と起きないこと、世界各地で依然として生じている戦時性暴力が根絶することを願う 心を込めて創った造形物です。「平和の少女像」とも言います。「平和の碑」は、人 権と平和を念願する多くの市民たちが自発的に参加し、韓国国内はもちろん、世界各 地に「平和の碑」を立てており、平和を念願する開かれた教育の場として私たちと共 にしています。「平和の碑」は、地域・建立の性格によって少しずつ異なる姿をして いますが、全ては日本軍性奴隷制を忘れないよう、皆で記憶し人権と平和の実現を念 願する志を込めています。
     작은소녀상건립운동현황:
       title: 小さな少女像建立運動
-      body : 「小さな少女像建立運動」梨花(イファ)女子高校の歴史サークルの提案から、日本 軍性奴隷制のサバイバーたちの人生を記憶し、サバイバーの名誉回復のための運動を 未来世代である青少年たちが共にする意味で始まった活動です。2018年7月、大韓民 国政府に登録された申告被害者239名を象徴する239カ校に建立しました
+      body : 
+      - 「小さな少女像建立運動」梨花(イファ)女子高校の歴史サークルの提案から、日本 軍性奴隷制のサバイバーたちの人生を記憶し、サバイバーの名誉回復のための運動を 未来世代である青少年たちが共にする意味で始まった活動です。2018年7月、大韓民 国政府に登録された申告被害者239名を象徴する239カ校に建立しました
   domestic_solidarity:
     title: "韓国国内連帯"
     slug: domestic_solidarity
@@ -1636,10 +1699,11 @@ jp:
     후원목록:
       title: 後援できる項目
       slug: donation_list
-      목록:
-        - title: 1. The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan
-          body: 
-          - "「日本軍性奴隷制問題解決のための正義記憶連帯」に後援して頂いたものは、水曜デ モ、戦争と女性の人権博物館、デジタル・アーカイブ、国連や海外での国際キャンペー ンを含めた様々な活動に使われます。"
-        - title: 2.Butterfly Fund
-          body: 
-          - "日本軍性奴隷制のサバイバーたちが戦争による暴力で苦しんでいたように、現在も なお紛争において多くの女性たちが苦しんでいます。国際女性の日である2012年3月8 日、サバイバーの金福童(キム・ボクドン)、吉元玉(キル・ウォノク)ハルモニは日 本政府から賠償を受け取った際には、その全額を現在も紛争下における性暴力で苦しん でいる女性たちのために寄付をすると約束しました。「ナビ基金」はこのようなハルモニ たちの意志を受け継ぎ、ベトナム、ウガンダ、コンゴ共和国の他に様々な場所で起こっ ている紛争下における性暴力のサバイバーを支援しています。「ナビ基金」は、その全額 がもっぱら「ナビ基金」のために使われます。"            
+      기본:
+        title: 1. The Korean Council for Justice and Remembrance for the Issues of Military Sexual Slavery by Japan
+        body: 
+        - "「日本軍性奴隷制問題解決のための正義記憶連帯」に後援して頂いたものは、水曜デ モ、戦争と女性の人権博物館、デジタル・アーカイブ、国連や海外での国際キャンペー ンを含めた様々な活動に使われます。"
+      나비기금:
+        title: 2.Butterfly Fund
+        body: 
+        - "日本軍性奴隷制のサバイバーたちが戦争による暴力で苦しんでいたように、現在も なお紛争において多くの女性たちが苦しんでいます。国際女性の日である2012年3月8 日、サバイバーの金福童(キム・ボクドン)、吉元玉(キル・ウォノク)ハルモニは日 本政府から賠償を受け取った際には、その全額を現在も紛争下における性暴力で苦しん でいる女性たちのために寄付をすると約束しました。「ナビ基金」はこのようなハルモニ たちの意志を受け継ぎ、ベトナム、ウガンダ、コンゴ共和国の他に様々な場所で起こっ ている紛争下における性暴力のサバイバーを支援しています。「ナビ基金」は、その全額 がもっぱら「ナビ基金」のために使われます。"            

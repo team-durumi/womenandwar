@@ -1,7 +1,7 @@
-{{ with site.Data.activity.en }}
+{{ with site.Data.activity.jp }}
 <div class="container px-5 py-5 mx-auto">
     <div class="flex flex-wrap -m-4">
-        <!-- 영문 메뉴 탭 -->
+        <!-- 일어 가이드 탭 -->
         <div 
             x-data="{
             openTab: 1,
@@ -9,8 +9,8 @@
             inactiveClasses: 'text-gray-900 hover:text-aa-purple-500'
             }" 
             class="p-2 xl:p-8"
-        >    
-        {{ with .submenu }}
+        >
+            {{ with .submenu }}
             <ul class="flex items-start justify-start xs:text-xs md:text-2xl">
                 <li @click="openTab = 1" :class="{ '-mb-px': openTab === 1 }" class="-mb-px mx-4">
                     <a :class="openTab === 1 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .소개.slug }}">{{ .소개.title }}</a>
@@ -22,18 +22,16 @@
                     <a :class="openTab === 3 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .활동.slug }}">{{ .활동.title }}</a>
                 </li>
                 <li @click="openTab = 4" :class="{ '-mb-px': openTab === 4 }" class="mx-4">
-                    <a :class="openTab === 4 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .연혁.slug }}">{{ .연혁.title }}</a>
+                    <a :class="openTab === 4 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .후원.slug }}">{{ .후원.title }}</a>
                 </li> 
                 <li @click="openTab = 5" :class="{ '-mb-px': openTab === 5 }" class="mx-4">
-                    <a :class="openTab === 5 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .후원.slug }}">{{ .후원.title }}</a>
-                </li>
-                <li @click="openTab = 6" :class="{ '-mb-px': openTab === 6 }" class="mx-4">
-                    <a :class="openTab === 6 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="{{ .게시글.url }}">{{ .게시글.title }}</a>
-                </li>                 
+                    <a :class="openTab === 5 ? activeClasses : inactiveClasses" class="bg-white inline-block py-2 xl:px-4 font-semibold" href="#{{ .게시글.slug }}">{{ .게시글.title }}</a>
+                </li>               
             </ul>
-        {{ end }}
+            {{ end }}    
+            
             <div class="w-full pt-4">
-                <!-- 영문 정의기억연대 소개 -->
+                <!-- 일본어 정의기억연대 소개 -->
                 <div x-show="openTab === 1">
                     {{ with .정의기억연대소개 }}
                     <div class="lg:flex justify-center pt-24 py-4">
@@ -50,12 +48,6 @@
                             {{ range .활동목적.body }}
                             <p class="mb-7"> - {{ . }} </p>
                             {{ end }}
-                        </div>
-                    </div>
-                    <div class="lg:flex justify-center py-4">
-                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-4">{{ .미션비전.미션.title }}<br/><span class="mr-4"></span></h2>
-                        <div class="text-lg">
-                            <p class="mb-7">{{ .미션비전.미션.body }} </p>
                         </div>
                     </div>
                     <div class="lg:flex justify-start py-4">
@@ -76,7 +68,9 @@
                     </div>
                     {{ end }}
                 </div>
-                <!-- 영문 정의 -->        
+                </div>
+
+                <!-- 일본어 정의 --> 
                 <div x-show="openTab === 2">
                     {{ with .definition }}
                     <div class="lg:flex justify-center pt-24 py-4">
@@ -110,11 +104,11 @@
                             <p class="mb-7">{{ . }} </p>
                             {{ end }}
                         </div>
-                    </div>
+                    </div>                                        
                     {{ end }}
                 </div>
 
-                <!-- 영문 활동 --> 
+                <!-- 일본어 활동 -->
                 <div x-show="openTab === 3">
                     {{ with .victim_support }}
                     <div class="lg:flex justify-center pt-24 py-4">
@@ -129,7 +123,7 @@
                     {{ end }}
 
                     {{ with .wednesday_demonstration }}
-                    <div class="lg:flex justify-start pt-12 py-4">
+                    <div class="lg:flex justify-start pt-12">
                         <h2 class="lg:w-full flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-4">{{ .title }}<br/><span class="mr-4"></span></h2>
                     </div>
                     <div class="lg:flex justify-center">    
@@ -138,7 +132,7 @@
                             <p class="mb-7">{{ .의미.body }} </p>
                         </div>
                     </div>
-                    <div class="lg:flex justify-center py-4">
+                    <div class="lg:flex justify-start py-4">
                         <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-3xl font-bold leading-tight mb-4">{{ .의미.section_02.title }}<br/><span class="mr-4"></span></h2>
                         <div class="text-lg">
                             <p class="mb-2 font-bold">{{ .의미.section_02.body }}</p>
@@ -174,38 +168,12 @@
                         <h2 class="lg:full flex-shrink-0 text-aa-purple-500 text-3xl font-bold leading-tight mb-4">{{ .방향.title }}<br/><span class="mr-4"></span></h2>
                     </div>
                     <div class="lg:flex justify-center pt-1">
-                        <h3 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .방향.콩고.title }}<br/><span class="mr-4"></span></h3>     
-                        <div class="text-lg">
-                            <p class="mb-2">{{ .방향.콩고.descriptions }}</p>
-                            {{ range .방향.콩고.members }}
-                            <p class="mb-2">- {{ . }} </p>
-                            {{ end }}
-                        </div>
-                    </div>
-                    <div class="lg:flex justify-center pt-2">
-                        <h3 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .방향.베트남.title }}<br/><span class="mr-4"></span></h3>
-                        <div class="text-lg">
-                            <p class="mb-2">{{ .방향.베트남.descriptions }}</p>
-                            {{ range .방향.베트남.members }}
-                            <p class="mb-2">- {{ . }} </p>
-                            {{ end }}
-                        </div>
-                    </div>    
-                    <div class="lg:flex justify-center pt-2">     
-                        <h3 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .방향.우간다.title }}<br/><span class="mr-4"></span></h3>
-                        <div class="text-lg">
-                            <p class="mb-2">{{ .방향.우간다.descriptions }}</p>
-                            {{ range .방향.우간다.members }}
-                            <p class="mb-2">- {{ . }} </p>
-                            {{ end }}
-                        </div>
-                    </div>
-                    <div class="lg:flex justify-center pt-2">
-                        <h3 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .방향.팔레스타인.title }}<br/><span class="mr-4"></span></h3>    
-                        <div class="text-lg">
-                            <p class="mb-8">{{ .방향.팔레스타인.descriptions }}</p>
-                            <p class="mb-2 text-bold">{{ .연락.body }}</p>
-                        </div>                                               
+                        <h3 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">
+                        {{ .방향.콩고.title }}   
+                        {{ .방향.베트남.title }}
+                        {{ .방향.우간다.title }}
+                        {{ .방향.팔레스타인.title }}
+                        </h3>                                               
                     </div>                    
                     {{ end }}
 
@@ -232,7 +200,7 @@
                     {{ end }}
 
                     {{ with .domestic_solidarity }}
-                    <div class="lg:flex justify-center pt-12">     
+                    <div class="lg:flex justify-center pt-12 py-4">     
                         <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-4">{{ .title }}<br/><span class="mr-4"></span></h2>
                         <div class="text-lg">
                             {{ range .활동소개.body }}
@@ -243,7 +211,7 @@
                     {{ end }}
 
                     {{ with .international_solidarity }}
-                    <div class="lg:flex justify-center pt-12 py-4">
+                    <div class="lg:flex justify-start pt-12 py-4">
                         <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-4">{{ .title }}<br/><span class="mr-4"></span></h2>
                         <div class="text-lg">
                             {{ range .body }}
@@ -330,45 +298,11 @@
                             {{ end }}
                         </div>
                     </div>
-                    {{ end }}                    
+                    {{ end }}
                 </div>
                 
-                <!-- 영문 연혁 -->
+                <!-- 일본어 후원 -->
                 <div x-show="openTab === 4">
-                    <div class="lg:flex justify-center">
-                        {{ with site.Data.activity.en.org_history }}
-                        <div class="container px-5 py-5 mx-auto">
-                            <div class="flex flex-wrap -m-4">
-                                <div class="w-full pt-4">
-                                    {{ with .정의기억연대연혁 }}
-                                    <h2 class="lg:w-full flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-4 pt-12">{{ .title }}</h2>
-                                    <div class="lg:flex justify-center py-6">
-                                        <div class="mb-20">
-                                            <ul class="text-aa-gray-900 mb-14">
-                                                {{ range .목록 }}
-                                                    <li class="lg:flex mb-4">
-                                                        <h3 class="lg:w-2/12 flex-shrink-0 text-aa-purple-500 text-4xl font-bold lg:mb-0">{{ .title }}</h3>
-                                                        <div>
-                                                            <dl class="flex">
-                                                                <dt class="w-36 flex-shrink-0">{{ .date }}</dt>
-                                                                <dd>{{ range .body}}{{ . }}{{ end }}</dd>
-                                                            </dl>
-                                                        </div>
-                                                    </li>
-                                                {{ end }}      
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    {{ end }}
-                                </div>
-                            </div>
-                        </div>
-                        {{ end }}
-                    </div>
-                </div>
-
-                <!-- 영문 후원 -->
-                <div x-show="openTab === 5">
                     {{ with .donation }}
                     <div class="lg:flex justify-start pt-12">
                         <h2 class="lg:w-full flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight">{{ .title }}<br/><span class="mr-4"></span></h2>
@@ -382,9 +316,10 @@
                             <p class="mb-7">
                                 {{ .일시후원신청하기.paypal.title }}{{ .일시후원신청하기.paypal.body }}
                             </p>
+                            <p class="mb-7 font-semibold">{{ .일시후원신청하기.paypal.message }}</p>
                         </div>
                     </div>
-                    <div class="lg:flex justify-center py-4">
+                    <div class="lg:flex justify-center pt-12 py-4">
                         <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-3xl font-bold leading-tight mb-4">{{ .후원목록.title }}<br/><span class="mr-4"></span></h2>
                         <div class="text-lg">
                             <p class="mb-7 text-2xl font-bold">{{ .후원목록.기본.title }} </p>
@@ -398,7 +333,7 @@
                         </div>
                     </div>
                     {{ end }}
-                </div>                                              
+                </div>                                           
             </div>
         </div>
     </div>
