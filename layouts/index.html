@@ -7,26 +7,31 @@
   <div class="contents-area" id="main-content">
       {{/* 슬라이드 배너 홈페이지용 */}}
       {{ partial "marketing/banner--ww--slide" . }}
-
- 
+      
       {{/* 정의기억연대 현안 contents/issues */}}
-      <section class="container py-24 text-gray-600 body-font">
-        <div class="flex sm:-m-4 -mx-4 -mb-10 -mt-4 pb-12">
+      <div class="container px-5 py-24 mx-auto">
+        <div class="flex flex-wrap -m-4">
           {{ range where (where .Site.RegularPages "Type" "issues") "Params.home_sticky" true }}
-          <div class="flex-wrap p-4 md:w-1/3 sm:w-full sm:mb-0 mb-6">
-            <div class="h-64 overflow-hidden">
-              <img alt="content" class="object-cover object-center h-full w-full" src="{{ .Params.Image }}">
+          <div class="p-4 md:w-1/3">
+            <div class="h-full overflow-hidden">
+              <div class="overflow-hidden">
+                <img class="object-cover object-center h-full w-full sm:w-full" src="{{ .Params.Image }}" alt="{{ .Params.Title }}">
+              </div>
+              <div class="p-6">
+                <h1 class="text-xl font-medium title-font text-gray-900 mt-5">{{ .Title }}</h1>
+                <div class="flex items-center flex-wrap ">
+                  <a class="text-lg text-aa-purple-500 inline-flex items-center pt-2" href="{{ .Params.button_url }}">{{ .Params.button_name }}
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                    </svg>
+                  </a>
+                </div>
+              </div>
             </div>
-            <h2 class="text-xl font-medium title-font text-gray-900 mt-5">{{ .Title }}</h2>
-            <a class="text-lg text-aa-purple-500 inline-flex items-center pt-2" href="{{ .Params.button_url }}">{{ .Params.button_name }}
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                  <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-              </svg>
-            </a>
           </div>
           {{ end }}
         </div>
-      </section>
+      </div>
 
       {{/* 공지사항 / 보도자료 */}}    
       <div class="container pb-12">
@@ -41,7 +46,7 @@
                 <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
                     <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
                     <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
-                    <span class="w-1/6 text-center">{{ .Params.Author }}</span>
+                    <span class="w-1/6 text-center">{{ .Params.Author_name }}</span>
                 </li>
             {{ end }}
         </ul>
@@ -58,7 +63,7 @@
                 <li class="flex py-6 border-b border-aa-gray-200 text-aa-gray-600">
                     <a class="w-4/6 px-4 text-aa-gray-700 hover:text-aa-purple-500" href="{{ .Permalink }}">{{ .Title }}</a>
                     <span class="w-1/6 text-center"><time>{{ .Date.Format "2006년 1월 2일" }}</time></span>
-                    <span class="w-1/6 text-center">{{ .Params.Author }}</span>
+                    <span class="w-1/6 text-center">{{ .Params.Author_name }}</span>
                 </li>
             {{ end }}
         </ul>
@@ -118,7 +123,7 @@
                     또한 지금도 계속되고 있는 전시성폭력문제를 해결하기 위해 <br/>
                     연대하며 전쟁과 여성폭력이 없는 세상을 만들어 나가는 행동하는 <br/>
                     박물관입니다.</p>
-                <a class="text-lg text-aa-purple-500 inline-flex items-center" href="www.womenandwarmuseum.net" target="_blank">박물관 홈페이지로 이동
+                <a class="text-lg text-aa-purple-500 inline-flex items-center" href="https://womenandwarmuseum.net" target="_blank">박물관 홈페이지로 이동
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
                         <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
                     </svg>
