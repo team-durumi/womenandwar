@@ -19,11 +19,19 @@
         </ul>
         <div class="w-full pt-4">
             <div x-show="openTab === 1">
+                <div class="lg:flex justify-start pt-12">
+                    <h2 class="lg:w-full flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-2">{{ .title }}<br/><span class="mr-4"></span></h2>
+                </div>
+                <div class="text-lg">
+                    <p class="mb-2">{{ .활동소개.section_01 }} </p>
+                </div>
                 {{ range .활동소개.목록 }}
-                <div class="lg:flex justify-start py-4">
-                    <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .title }}</h2>
-                    <div class="text-lg">
-                        <p class="mb-7">{{ .body }} </p>
+                <div class="lg:flex justify-center pt-12">
+                    <h3 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .title }}<br/><span class="mr-4"></span></h2>
+                    <div class="text-lg"> 
+                        {{ range .body }} 
+                        <p class="mb-2">{{ . }} </p>
+                        {{ end }}
                     </div>
                 </div>
                 {{ end }}

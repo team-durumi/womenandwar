@@ -19,16 +19,72 @@
             </ul>            
             <div class="w-full pt-4">
                 <div x-show="openTab === 1">
+                    <div class="lg:flex justify-start pt-8">
+                        <h3 class="lg:w-full flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-2">{{ .기금설명.title }}<br/><span class="mr-4"></span></h2>
+                    </div>
                     {{ range .기금설명.목록 }}
-                    <div class="lg:flex justify-start py-4">
-                        <h2 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .title }}</h2>
-                        <div class="text-lg">
-                            <p class="mb-7">{{ .body }} </p>
+                    <div class="lg:flex justif-start">
+                        <div class="text-lg"> 
+                            {{ range .body }} 
+                            <p class="mb-2">{{ . }} </p>
+                            {{ end }}
                         </div>
                     </div>
                     {{ end }}
+                    <div class="lg:flex justify-start pt-4">
+                        <h3 class="lg:w-full flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-2">{{ .콩고.title }}<br/><span class="mr-4"></span></h2>
+                    </div>
+                    {{ range .콩고.목록 }}
+                    <div class="lg:flex justif-start pt-4">
+                        <h3 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .title }}<br/><span class="mr-4"></span></h2>
+                        <div class="text-lg"> 
+                            {{ range .body }} 
+                            <p class="mb-2">{{ . }} </p>
+                            {{ end }}
+                        </div>
+                    </div>
+                    {{ end }}
+                    <div class="lg:flex justify-start pt-4">
+                        <h3 class="lg:w-full flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-2">{{ .베트남.title }}<br/><span class="mr-4"></span></h2>
+                    </div>
+                    {{ range .베트남.목록 }}
+                    <div class="lg:flex justif-start pt-4">
+                        <h3 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .title }}<br/><span class="mr-4"></span></h2>
+                        <div class="text-lg"> 
+                            {{ range .body }} 
+                            <p class="mb-2">{{ . }} </p>
+                            {{ end }}
+                        </div>
+                    </div>
+                    {{ end }}
+                    <div class="lg:flex justify-start pt-4">
+                        <h3 class="lg:w-full flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-2">{{ .우간다.title }}<br/><span class="mr-4"></span></h2>
+                    </div>
+                    {{ range .우간다.목록 }}
+                    <div class="lg:flex justif-start pt-4">
+                        <h3 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .title }}<br/><span class="mr-4"></span></h2>
+                        <div class="text-lg"> 
+                            {{ range .body }} 
+                            <p class="mb-2">{{ . }} </p>
+                            {{ end }}
+                        </div>
+                    </div>
+                    {{ end }}
+                    <div class="lg:flex justify-start pt-12">
+                        <h3 class="lg:w-full flex-shrink-0 text-aa-purple-500 text-4xl font-bold leading-tight mb-2">{{ .팔레스타인.title }}<br/><span class="mr-4"></span></h2>
+                    </div>
+                    {{ range .팔레스타인.목록 }}
+                    <div class="lg:flex justif-start pt-4">
+                        <h3 class="lg:w-2/5 flex-shrink-0 text-aa-purple-500 text-2xl font-bold leading-tight mb-4">{{ .title }}<br/><span class="mr-4"></span></h2>
+                        <div class="text-lg"> 
+                            {{ range .body }} 
+                            <p class="mb-2">{{ . }} </p>
+                            {{ end }}
+                        </div>
+                    </div>
+                    {{ end }}                                                        
                     <div class="mb-8"> 
-                        <ul class="flex flex-wrap pt-6">
+                        <ul class="flex flex-wrap pt-4">
                             <li class="w-full">
                                 <span class="block overflow-hidden relative" style="padding-bottom:50%">
                                     <img class="absolute w-full object-cover" src="{{ .길원옥.src }}" alt="">
