@@ -1,5 +1,5 @@
 ---
-title: 포스트 목록
+title: 최근 활동 모두보기
 date: 2022-10-04
 banner:
   title: 소장품 구두
