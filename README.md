@@ -44,7 +44,7 @@ rclone sync --progress {구글공유드라이브}:backup/kr/wp-content/uploads/ 
 ## R2
 - media.womenandwar.net
 | - 관련된 파일관리와 연결해서 홈페이지, 박물관, 함께사용
-| - https://media.womenandwar.net/logo/womenandwar_logo.png
+| - https://media.womenandwar.net/web/img/banner_articles.jpg
 - 박물관 소장자료 및 item 파일들의 이동
 | - https://r2.womenandwarmuseum.net/ 
 - 홈페이지 워드프레스 파일 이동(워드프레스 포스트, kboard 첨부파일, 이미지)
