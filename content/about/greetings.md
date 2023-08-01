@@ -1,5 +1,5 @@
 ---
-title: 인사말
+title: 정의기억연대란
 date: 2022-09-20
 layout: section_single
 banner:
